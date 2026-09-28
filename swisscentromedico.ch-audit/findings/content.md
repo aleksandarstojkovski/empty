@@ -6,6 +6,13 @@
 - **Frameworks:** Google QRG (current version 2025-09-11), claude-seo `eeat-framework.md` and `quality-gates.md`. The E-E-A-T weights below belong to this skill's internal model. Google publishes no weights.
 - **Regulatory caveat:** statements about Swiss rules (LPMed/MedBG, the FMH Code of Ethics and its annex on information and advertising, the Therapeutic Products Act, Swissmedic) flag risk only. They are not legal advice. Have the Ordine dei medici del Cantone Ticino (OMCT) or counsel confirm them.
 
+### Unverified items (treat as hypotheses until confirmed)
+- **UNVERIFIED:** the link between ISLA / European Laser Clinics / "Weber M" (first author of the 2024 exosome study) and the laser-device maker Weber Medical. The inference rests only on the logo filename `weber-michael-dr-logo-5.png` and on matching vocabulary (H5, H2).
+- **UNVERIFIED:** the exosome product's source and its Swiss regulatory status (H2). Whether the practice can bill LAMal/KVG in Ticino (M3); the site only implies that it cannot.
+- **UNVERIFIED:** whether lung-function testing, HUBER 360 and the internal lab are delivered in Lugano (M7). Whether the SSIPM and SGUM certificates appear in the SIWF/FMH registers (M5). No third-party lookups were possible.
+- **UNVERIFIED (legal):** every reference to LPMed/MedBG, FMH advertising rules and Swissmedic is a risk flag to be confirmed by the OMCT or counsel.
+- The IV curcumin safety point (C1) cites the FDA's 2017 investigation from memory; the source was not fetched.
+
 ---
 
 ## 1. Scores
@@ -176,6 +183,8 @@ Weighted: 0.20x55 + 0.25x60 + 0.25x45 + 0.30x55 = **53.75, rounded to 54**.
 
 ### H4 (High): "Reumatologo" specialist title
 
+*Another agent has already flagged this; it is summarised here only for the content and trust angle, not investigated again.*
+
 **Evidence:** `/reumatologo/` has the title "Reumatologo a Lugano | Swiss Centro Medico" and the H1 "Reumatologo a Lugano". The translations use "Rheumatologe in Lugano", "Rhumatologue à Lugano" and "Rheumatologist in Lugano". The physician's FMH title is Physical Medicine and Rehabilitation, as the page itself says: "È specialista in Medicina fisica e riabilitazione FMH". The `MedicalClinic` and `Physician` JSON-LD also declare `medicalSpecialty: Rheumatologic`.
 
 **Why it matters:** "Rheumatologie" is a separate federal specialist title. Calling himself "Reumatologo" can make patients think he holds it. That is a Trust problem under the QRG, and under Swiss rules the LPMed treats misleading professional designations as advertising violations. The meta description's clarification helps, but it is not enough.
@@ -345,6 +354,7 @@ Each page should cover symptoms, red flags ("quando andare in Pronto Soccorso / 
 
 ### L1-L6 (Low)
 
+- **L1a, generic and repeated FAQ questions:** another agent flagged that the FAQ question headings are generic and repeated across many pages (for example, the insurance FAQ is on 20 pages with identical wording). This audit agrees and did not investigate further. Make each page's FAQ questions specific to that treatment. *Failed if:* the same FAQ question text still appears on 5 or more pages per language.
 - **L1, non-answers:** 12 of 20 service pages answer "Quante sedute servono?" with "Il numero di sedute si decide con lei in visita" or "Dipende dal disturbo". Only PDT gives a session length. Give the doctor's usual ranges (for example, acupuncture "di solito 6-10 sedute di 30-45 minuti, rivalutazione dopo 4-5"). It is an experience signal and a quotable passage. *Failed if:* a regex for digits near "sedute" still finds none on 10+ pages.
 - **L2, title and H1 wording:** see section 6.
 - **L3, `description-echoes-title`:** 23 of 96 pages (for example "Agopuntura addominale a Lugano: ..."). This is secondary: the tool flags no templating and no shared CTA. Vary the openings when rewriting the M1 metas.

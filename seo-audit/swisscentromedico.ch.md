@@ -1,5 +1,7 @@
 # SEO audit: swisscentromedico.ch
 
+> **Superseded (2026-09-28).** A full on-site audit now exists in [`swisscentromedico.ch-audit/FULL-AUDIT-REPORT.md`](../swisscentromedico.ch-audit/FULL-AUDIT-REPORT.md), with an [`ACTION-PLAN.md`](../swisscentromedico.ch-audit/ACTION-PLAN.md). The site was rebuilt after this partial SERP-only audit was written, and many of the findings below are now resolved: service pages, title template, schema, DE/FR/EN versions and bylines. §3 of the full report says which findings are still open. Keep this file for its off-site and SERP context only.
+
 - **Date:** 2026-09-28
 - **Scope:** Off-site / SERP audit only (partial)
 - **Status:** On-page and technical checks are **pending**. This environment's network policy blocked requests to `swisscentromedico.ch`, so the HTML, headers, `robots.txt` and sitemap could not be fetched.

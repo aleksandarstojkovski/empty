@@ -1,0 +1,430 @@
+{
+ "domain": "swisscentromedico.ch",
+ "audit_date": "2026-09-28",
+ "summary": {
+  "health_score": 80,
+  "business_type": "Local Service: single-physician medical practice (YMYL), Lugano",
+  "score_basis": "Weighted: Technical 22%, Content 23%, On-Page 20%, Schema 10%, Performance 10% (lab only), AI Search Readiness 10%, Images 5%. Local SEO 63 and SXO gap 63 reported separately.",
+  "top_findings": [
+   {
+    "title": "Unsupported systemic antimicrobial PDT claims on /terapia-fotodinamica/ (×4 languages, plus meta, OG, JSON-LD and llms.txt)",
+    "severity": "Critical"
+   },
+   {
+    "title": "'Reumatologo / Rheumatologist' title and H1, but the doctor's FMH title is Physical Medicine & Rehabilitation",
+    "severity": "High"
+   },
+   {
+    "title": "Claims outrun the evidence on invasive laser, exosome and acupuncture pages; factual error; device-network badges shown as credentials",
+    "severity": "High"
+   },
+   {
+    "title": "Pages don't match the main queries: no pain-therapy hub, condition pages, costs page or 'fisiatra' term",
+    "severity": "High"
+   },
+   {
+    "title": "Little off-site proof: no visible reviews, brand confused with Centromedico, inconsistent directory data",
+    "severity": "High"
+   }
+  ],
+  "quick_wins": [
+   "Remove the editing notes visible to patients in all 4 languages (grep list in findings/content.md H6)",
+   "Rewrite the 5 meta descriptions that overstate their pages; regenerate OG, JSON-LD descriptions and llms.txt from the page bodies",
+   "Fix 'doppia membrana', add a conflict-of-interest note to the Weber 2024 citation, relabel ISLA/ELC badges as network, not credentials",
+   "Schema: [Person, IndividualPhysician] + practicesAt, GLN identifier, clinic alternateName; add a visible 'independent practice' sentence",
+   "Add 'fisiatra' and the doctor's name to the homepage title/H1; add 'Lugano' to utility titles; verify Bing WMT + IndexNow"
+  ]
+ },
+ "categories": [
+  {
+   "name": "Technical SEO",
+   "score": 93,
+   "weight": 0.22,
+   "what_works": [
+    "96/96 pages 200, self-canonical, indexable, in the sitemap; no orphans or broken links",
+    "Hreflang textbook-correct (it, de-CH, fr-CH, en, x-default), 0 mismatches between HTML and sitemap",
+    "Single-hop 301s (www, index.html, trailing slash); real 404 with noindex; legacy WordPress paths handled",
+    "Strong security headers (HSTS, hash-pinned CSP, XFO, nosniff); static HTML with zero external JS"
+   ],
+   "findings": [
+    {
+     "title": "HSTS without preload",
+     "severity": "Low",
+     "description": "max-age=31536000; includeSubDomains, but no preload token.",
+     "recommendation": "Add preload and submit to hstspreload.org once every subdomain is HTTPS-only."
+    },
+    {
+     "title": "Two very long Italian slugs",
+     "severity": "Low",
+     "description": "87–103-character legacy slugs vs 20–34 in DE/FR/EN.",
+     "recommendation": "Only shorten them during a restructure, with a 301 and updated hreflang and sitemap."
+    },
+    {
+     "title": "No IndexNow / Bing WMT evidence",
+     "severity": "Low",
+     "description": "No key file; Copilot draws on Bing's index.",
+     "recommendation": "Verify Bing WMT; add IndexNow pings to the build."
+    },
+    {
+     "title": "Generic utility-page titles",
+     "severity": "Low",
+     "description": "Privacy/Kontakt/Contact titles omit Lugano.",
+     "recommendation": "Use 'Contatti – Swiss Centro Medico Lugano' and similar."
+    },
+    {
+     "title": "HTTP→HTTPS not verifiable",
+     "severity": "Info",
+     "description": "The audit environment's proxy blocks plain HTTP.",
+     "recommendation": "Check manually: curl -I http://swisscentromedico.ch/ should return a single 301."
+    }
+   ]
+  },
+  {
+   "name": "Content Quality",
+   "score": 58,
+   "weight": 0.23,
+   "what_works": [
+    "Physician byline and 'verificata dal medico' date on every service page",
+    "DOI-linked 'Fonti scientifiche' sections and disclaimers",
+    "GLN and UID on the legal notice; 4-language parity, translated rather than templated"
+   ],
+   "findings": [
+    {
+     "title": "Systemic antimicrobial PDT claims",
+     "severity": "Critical",
+     "description": "/terapia-fotodinamica/: IV-infused photosensitiser against 'patogeni batterici, virali e parassitari', 'senza antibiotici sistemici', curcumin and hypericin listed. Not supported by the cited sources; repeated in meta, OG, JSON-LD and llms.txt.",
+     "recommendation": "Remove the systemic content; keep topical PDT/aPDT uses that have evidence; regenerate every derived snippet."
+    },
+    {
+     "title": "Invasive laser pages lack evidence and risk information",
+     "severity": "High",
+     "description": "IV, interstitial and intra-articular laser pages: no clinical evidence, unclear indications, cartilage regeneration claimed without a source.",
+     "recommendation": "Add evidence status, indications, risks and sources, or merge into one page."
+    },
+    {
+     "title": "Exosome page transparency and accuracy",
+     "severity": "High",
+     "description": "No product origin or regulatory status; one 5-subject study with a probable undisclosed conflict of interest; 'doppia membrana' is wrong.",
+     "recommendation": "Add an origin/status/evidence box; fix the error; disclose or drop the citation."
+    },
+    {
+     "title": "Acupuncture indication list goes beyond the evidence",
+     "severity": "High",
+     "description": "Lists heart/circulation, diabetes, thyroid, fertility and oncology support; RAC diagnosis called 'preciso'.",
+     "recommendation": "Tier the indications by evidence; remove 'preciso'."
+    },
+    {
+     "title": "Device-maker network shown as a credential",
+     "severity": "High",
+     "description": "ISLA / European Laser Clinics badges on all 96 pages and in the laser hero.",
+     "recommendation": "Relabel as 'Rete / formazione laser'; put the independent credentials first."
+    },
+    {
+     "title": "Editing notes visible to patients",
+     "severity": "High",
+     "description": "'il sito attribuisce', 'studi con DOI', 'Perché non parlate più della colonna?', 'sta sulla pagina gemella' on 11 IT pages plus translations.",
+     "recommendation": "One human editorial pass per language."
+    },
+    {
+     "title": "No costs or insurance information",
+     "severity": "Medium",
+     "description": "No CHF figures; basic-insurance position only implied; generic insurance FAQ repeated on about 80 pages.",
+     "recommendation": "Add a costs and insurance page plus a per-page box."
+    },
+    {
+     "title": "Thin sub-pages and sibling cannibalisation",
+     "severity": "Medium",
+     "description": "6 sub-pages with 248–340 unique words; the classical acupuncture page is 43% contained in /agopuntura/; the regenerative hub duplicates its spokes.",
+     "recommendation": "Merge or differentiate; cut the hubs down to real overviews."
+    },
+    {
+     "title": "Credentials hard to verify",
+     "severity": "Medium",
+     "description": "No physician page or MedReg link; 6 variants of the doctor's name.",
+     "recommendation": "Build a physician profile page with verification links; standardise the name."
+    }
+   ]
+  },
+  {
+   "name": "On-Page SEO",
+   "score": 78,
+   "weight": 0.2,
+   "what_works": [
+    "Unique, localised titles (29–60 chars) and metas (121–156 chars) on all 96 pages",
+    "One H1 per page; logical heading hierarchy; breadcrumbs; flat internal linking"
+   ],
+   "findings": [
+    {
+     "title": "'Reumatologo' title/H1 vs FMH PM&R title",
+     "severity": "High",
+     "description": "/reumatologo/ ×4: the H1 says rheumatologist; the doctor holds FMH Physical Medicine & Rehabilitation.",
+     "recommendation": "Confirm the wording with FMH / the cantonal office; retitle around the discipline and the real title."
+    },
+    {
+     "title": "Meta descriptions overstate their page bodies",
+     "severity": "Medium",
+     "description": "5 metas (×4 languages) claim more than the pages say.",
+     "recommendation": "Rewrite them; generate metas, OG and llms.txt from the page body."
+    },
+    {
+     "title": "Specialty term and doctor name missing from targeting",
+     "severity": "Medium",
+     "description": "'fisiatra' on 0 pages; doctor name not in the homepage title or H1.",
+     "recommendation": "Add both naturally."
+    }
+   ]
+  },
+  {
+   "name": "Schema / Structured Data",
+   "score": 90,
+   "weight": 0.1,
+   "what_works": [
+    "Valid JSON-LD @graph on 96/96 pages with consistent @ids across languages",
+    "MedicalClinic with geo, openingHoursSpecification, hasMap, availableService; BreadcrumbList on all 92 inner pages",
+    "No deprecated types; FAQPage correctly absent"
+   ],
+   "findings": [
+    {
+     "title": "Physician typing",
+     "severity": "Low",
+     "description": "['Person','Physician']: Physician is in the Organization branch.",
+     "recommendation": "Use ['Person','IndividualPhysician'] + practicesAt the clinic."
+    },
+    {
+     "title": "Disambiguation properties missing",
+     "severity": "Low",
+     "description": "No clinic alternateName/description; no GLN identifier on the doctor; clinic and doctor sameAs mixed; OneDoc sameAs hard-coded to Italian.",
+     "recommendation": "Add alternateName, description and identifier; split and localise sameAs."
+    },
+    {
+     "title": "Recommended properties missing",
+     "severity": "Low",
+     "description": "No medicalAudience on MedicalWebPage; no currenciesAccepted.",
+     "recommendation": "Add them."
+    }
+   ]
+  },
+  {
+   "name": "Performance (CWV)",
+   "score": 95,
+   "weight": 0.1,
+   "what_works": [
+    "Lighthouse perf 95–99; LCP 0.9–2.0 s; CLS ≤ 0.04; TBT 0 ms (lab)",
+    "WebP via picture, preloaded hero with fetchpriority=high, preloaded fonts, immutable caching, Brotli",
+    "Zero third-party requests; lazy Maps facade on /contatti/"
+   ],
+   "findings": [
+    {
+     "title": "No field data",
+     "severity": "Info",
+     "description": "No CrUX/PSI data (no API key; PSI returned 429). Lab only; INP can't be measured in the lab.",
+     "recommendation": "Monitor the GSC Core Web Vitals report and CrUX once traffic allows."
+    },
+    {
+     "title": "Render-blocking stylesheet",
+     "severity": "Low",
+     "description": "A single 6.1 KB stylesheet; about 230–570 ms estimated, but every page is already in the Good band.",
+     "recommendation": "Inline critical CSS (with a CSP hash) only if field LCP regresses."
+    },
+    {
+     "title": "TTFB 0.5–0.76 s",
+     "severity": "Low",
+     "description": "Measured through a proxy, so it may be inflated.",
+     "recommendation": "Check from Switzerland; consider a CDN or server cache."
+    }
+   ]
+  },
+  {
+   "name": "AI Search Readiness",
+   "score": 75,
+   "weight": 0.1,
+   "what_works": [
+    "All AI crawlers allowed; 18 user agents tested, no firewall blocking",
+    "Accurate llms.txt covering all 96 URLs",
+    "Lighthouse Agentic Browsing 3/3; clean ARIA tree"
+   ],
+   "findings": [
+    {
+     "title": "Brand and name collisions with nothing to tell them apart",
+     "severity": "High",
+     "description": "Confused with Swiss Medical Network 'Centromedico'; YouTube results show Argentina's Swiss Medical and an unrelated podcaster for the doctor's name.",
+     "recommendation": "Add a visible 'independent practice' sentence, alternateName and a GLN identifier."
+    },
+    {
+     "title": "FAQ passages don't stand alone",
+     "severity": "High",
+     "description": "42/97 English questions don't name the treatment; the same insurance answer is repeated on about 80 pages.",
+     "recommendation": "Name the treatment and Lugano in each question; give each answer a first sentence that restates the subject."
+    },
+    {
+     "title": "Fragment leads instead of definitions",
+     "severity": "Medium",
+     "description": "17 of 20 service pages open without a definitional sentence.",
+     "recommendation": "Add a 40–60-word definitional lead."
+    },
+    {
+     "title": "Directory data inconsistent",
+     "severity": "Medium",
+     "description": "local.ch has the wrong hours (09–17) and a different name form.",
+     "recommendation": "Clean up the NAP data; split sameAs by entity."
+    }
+   ]
+  },
+  {
+   "name": "Images",
+   "score": 93,
+   "weight": 0.05,
+   "what_works": [
+    "0/512 images missing alt text; alt text descriptive and translated",
+    "All images have width/height; eager hero, lazy elsewhere",
+    "416/512 served as WebP via picture; 88 with multi-width srcset"
+   ],
+   "findings": [
+    {
+     "title": "GIF badge",
+     "severity": "Low",
+     "description": "isla_logo.gif on every page.",
+     "recommendation": "Re-export as SVG or WebP."
+    },
+    {
+     "title": "Single-size content photos",
+     "severity": "Low",
+     "description": "No smaller srcset candidate for content photos.",
+     "recommendation": "Add a ~480w candidate."
+    }
+   ]
+  },
+  {
+   "name": "Local SEO (supplementary)",
+   "score": 63,
+   "weight": 0,
+   "what_works": [
+    "NAP identical across 96 pages, schema and llms.txt",
+    "GBP claimed (review link on /contatti/)",
+    "Zürich/Lugano split disclosed and cross-linked"
+   ],
+   "findings": [
+    {
+     "title": "No reviews and no request process",
+     "severity": "High",
+     "description": "Zero visible reviews on Google or OneDoc.",
+     "recommendation": "Set up a compliant post-visit review request at a steady pace."
+    },
+    {
+     "title": "GBP category and OneDoc specialty",
+     "severity": "High",
+     "description": "The GBP category can't be verified from here; OneDoc labels the doctor 'agopuntore' for every booking.",
+     "recommendation": "GBP primary: Physiatrist; OneDoc specialty: Medicina fisica e riabilitazione, plus visit types."
+    },
+    {
+     "title": "Citations",
+     "severity": "High",
+     "description": "local.ch wrong hours and name; Medicosearch, search.ch, doctorfmh.ch and society directories not linked.",
+     "recommendation": "Clean up and expand the listings; add them to sameAs."
+    }
+   ]
+  },
+  {
+   "name": "Search Experience (supplementary)",
+   "score": 63,
+   "weight": 0,
+   "what_works": [
+    "Physician-led service pages match acupuncture and laser SERPs",
+    "Calls to action and trust above the fold; sticky mobile call/book bar"
+   ],
+   "findings": [
+    {
+     "title": "No pain-therapy hub",
+     "severity": "High",
+     "description": "6/9 results for 'terapia del dolore Lugano' are dedicated service pages; the site has none.",
+     "recommendation": "Build /terapia-del-dolore/ and point the homepage link at it."
+    },
+    {
+     "title": "No condition layer",
+     "severity": "High",
+     "description": "Back pain, neck pain, knee arthrosis and headache SERPs have little physician-led content.",
+     "recommendation": "Add 4–6 hybrid condition pages."
+    },
+    {
+     "title": "Cost transparency",
+     "severity": "High",
+     "description": "The insurance-checking persona scores lowest (53).",
+     "recommendation": "Publish CHF ranges and the LAMal position."
+    }
+   ]
+  }
+ ],
+ "action_plan": {
+  "phases": [
+   {
+    "name": "Phase 0: Measurement",
+    "timeframe": "Week 1",
+    "items": [
+     "Verify GSC and Bing WMT; baseline queries and indexed pages",
+     "AI-answer prompt panel baseline",
+     "Manual HTTP→HTTPS check"
+    ]
+   },
+   {
+    "name": "Phase 1: Critical fixes (YMYL risk)",
+    "timeframe": "Week 1",
+    "items": [
+     "Remove systemic aPDT claims and regenerate snippets",
+     "Resolve the 'Reumatologo' wording after compliance confirmation",
+     "Fix 'doppia membrana', disclose the conflict of interest, relabel network badges",
+     "Rewrite 5 overstating metas and regenerate OG, JSON-LD and llms.txt"
+    ]
+   },
+   {
+    "name": "Phase 2: Trust layer and quick wins",
+    "timeframe": "Weeks 2–4",
+    "items": [
+     "Editorial pass to remove editing notes (×4 languages)",
+     "Tier evidence on acupuncture and invasive laser pages",
+     "Consolidate cannibalising sibling pages",
+     "Entity disambiguation (visible sentence + schema)",
+     "NAP and citation clean-up",
+     "Align GBP category and OneDoc specialty",
+     "Start the reviews process",
+     "On-page quick wins and IndexNow"
+    ]
+   },
+   {
+    "name": "Phase 3: Align pages with intent",
+    "timeframe": "Months 2–3",
+    "items": [
+     "Costs and insurance page + per-page box",
+     "/terapia-del-dolore/ hub",
+     "4–6 condition pages (IT first)",
+     "Physician profile page",
+     "'Fisiatra' targeting",
+     "Quotable passages and definitional leads"
+    ]
+   },
+   {
+    "name": "Phase 4: Monitoring and iteration",
+    "timeframe": "Ongoing",
+    "items": [
+     "Third-party corroboration (video, directories, GP referral page)",
+     "Performance hygiene if field data calls for it",
+     "Governance: claims traceable to sources; snippets generated from the page body",
+     "Quarterly re-audit; monthly AI prompt panel"
+    ]
+   }
+  ]
+ },
+ "limitations": [
+  "The bundled fetchers refuse the session's loopback proxy; the crawl and captures used scripts in raw/",
+  "No GSC, GA4, CrUX or PSI data (no credentials); performance is lab only",
+  "No backlink API keys; the backlink review was skipped",
+  "SERP data is directional (US-located tools, not google.ch/Ticino)",
+  "HTTP→HTTPS on port 80 is unverifiable (blocked by the proxy)",
+  "Compliance points need verification with FMH / cantonal authorities"
+ ],
+ "artifacts": {
+  "findings_dir": "findings/",
+  "screenshots_dir": "screenshots/",
+  "report": "FULL-AUDIT-REPORT.md",
+  "action_plan": "ACTION-PLAN.md"
+ }
+}
