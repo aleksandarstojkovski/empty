@@ -1,13 +1,15 @@
 # Visual / Mobile / Above-the-Fold Audit — swisscentromedico.ch
 Scope: home, agopuntura, reumatologo, contatti, laserterapia (IT) + de-home. Desktop 1440x900, mobile 390x844@2x (iPhone UA), via local Chromium/Playwright. Screenshots in `screenshots/`, raw data in `raw/visual.json`, `raw/pages.json`, `raw/aria_*.yaml`, `raw/lighthouse/`.
 
+> **Orchestrator correction (2026-09-28).** This agent read image data from `raw/pages.json`, which recorded only `<img>` attributes and missed `<picture><source>` elements. A direct re-check of the raw HTML shows that **416 of 512** image tags sit in `<picture>` with a `type="image/webp"` source. The other 96 are the one `isla_logo.gif` badge, repeated once per page. **88** of those WebP sources carry multi-candidate `srcset` with `w` descriptors and `sizes` (hero and "Chi sono" photos). Sections 2.9 and 3 below have been corrected. The Images score is raised from 84 to **93**. The §2.1 severity is lowered from High to **Low**: at 390×844 the in-content CTA row sits exactly on the fold line behind the sticky bar, which carries the same two actions (Chiama/Prenota), and it scrolls into view normally. The "Chi sono" photo files (`Dr.-med.-univ.-Zeljko-Djordjevic-768x694.webp`/`.jpg`) both return 200, so §2.3 is a capture artifact.
+
 ## Verdict
 
 Strong, professional, conversion-oriented design for a single-physician medical practice. Above-the-fold content on every tested page/viewport hits the brief: H1, value proposition, and both primary CTAs ("Prenota online" / "Chiama lo studio") are visible without scrolling, on desktop and mobile. Mobile has a persistent sticky "Chiama / Prenota" bottom bar on every page (confirmed via `navigation "Chiama / Prenota"` landmark in the ARIA tree), which is a genuine conversion strength for a phone/WhatsApp-driven local practice. Trust signals (FMH credential, RME certification badge, "20 anni", doctor photo, scientific citations with DOI links, FAQ sections) are present and largely above or just below the fold. Accessibility scores are 100 on all Lighthouse runs and CLS is near-zero (0.0003–0.04), confirming the explicit image dimensions and stable layout claimed below.
 
-The one real bug found: on `/laserterapia/` mobile, the in-content CTA button pair is visually overlapped/obscured by the sticky bottom bar on initial load (see Critical/High findings). Everything else is Medium/Low polish items.
+No real defects found. On `/laserterapia/` mobile, the in-content CTA pair sits at the fold line behind the sticky bar on first paint (Low, cosmetic, see §2.1). Everything else is Medium/Low polish.
 
-**Images subsection score: 84/100** (see below).
+**Images subsection score: 93/100** (corrected, see below).
 
 ---
 
@@ -22,7 +24,7 @@ The one real bug found: on `/laserterapia/` mobile, the in-content CTA button pa
 | reumatologo | desktop/mobile | Yes | same pattern as agopuntura | verified-date line | Clean, no overlap |
 | contatti | desktop/mobile | Yes — "Contatti" | Prenota online / Chiama ora + sticky bar | none | Clear "how to contact us" framing (phone/WhatsApp/email/online) |
 | laserterapia | desktop | Yes | Prenota online, Chiama lo studio | none in fold | Hero photo (hand laser treatment) to the right |
-| laserterapia | mobile | Yes | **overlap bug, see §2.1** | none in fold | |
+| laserterapia | mobile | Yes | In-content CTA row at fold line behind sticky bar; sticky bar has the same CTAs (§2.1) | none in fold | |
 | de-home | desktop/mobile | Yes — "Schmerztherapie, Akupunktur und Lasertherapie in Lugano" | Online buchen / Praxis anrufen | RME badge | 1:1 parity with IT layout |
 
 All pages: `doc_width == viewport width` in `visual.json` for both desktop and mobile → **no horizontal overflow/scroll** detected on any tested page.
@@ -31,10 +33,10 @@ All pages: `doc_width == viewport width` in `visual.json` for both desktop and m
 
 ## 2. Findings
 
-### 2.1 [High] Sticky mobile CTA bar overlaps the in-content CTA buttons on `/laserterapia/` (mobile)
+### 2.1 [Low] Sticky mobile CTA bar overlaps the in-content CTA buttons on `/laserterapia/` (mobile)
 Screenshot: `screenshots/laserterapia-mobile-fold.png`.
 On initial mobile load (390×844), the in-page "Prenota online" / "Chiama lo studio" button pair (which follows the bullet list) lands exactly where the persistent bottom sticky bar ("Chiama" / "Prenota", `fold_ctas` w179×h48 on every page) is fixed. The result: the top ~15–20px of the in-content buttons peek out above the sticky bar, the rest is hidden underneath it — two different CTA pairs visually collide in the same on-screen real estate on first paint. This does not reproduce on home/agopuntura/reumatologo/contatti mobile folds, where the in-content CTA row sits higher up with a visible gap before the sticky bar (compare `contatti-mobile-fold.png`, clean). It is specific to `/laserterapia/`'s slightly longer intro-text length pushing that row to the fold boundary.
-Impact: confusing first impression, partially untappable/obscured buttons, looks broken.
+Impact (corrected): cosmetic. The sticky bar offers the same two actions, and the row scrolls into view with the first swipe. It's worth a fold-aware spacing tweak, not an urgent fix.
 **How we'd know it's fixed:** reload `/laserterapia/` at 390×844 (and check `/de/lasertherapie/`, `/fr/...`, `/en/...` equivalents and any other page whose lead text is a similar length), confirm the in-content CTA row's bounding box no longer intersects the sticky bar's bounding box — either by adding bottom padding/margin equal to the sticky bar height on `<body>`/last content block, or shortening/repositioning the mid-page CTA row.
 
 ### 2.2 [Medium] Small in-content/footer tap targets under 24px
@@ -64,8 +66,9 @@ Every mobile page carries a persistent bottom bar with "Chiama" (tel:) and "Pren
 ### 2.8 Language switcher
 IT/DE/FR/EN rendered as four flat text links in a top-bar `navigation "Lingua"` landmark (not a dropdown) — the active language is visually bolded/highlighted, links point to the correctly localized URL for the current page (e.g. on `/agopuntura/`, DE goes straight to `/de/akupunktur/`, not just `/de/`), and each has a 36×44px tap target (meets 24×24 minimum). This is a well-implemented, low-friction switcher. DE homepage (`de-home`) is a faithful 1:1 structural/visual match of the IT homepage — same section order, same card layout, same CTA styling, same trust strip — good cross-language consistency.
 
-### 2.9 [Low] No responsive image variants (`srcset`)
-Confirmed sitewide via `pages.json`: **0 of 512** image tags across all 96 pages carry a `srcset`/`sizes` attribute. Content photos (e.g. `laser-mano.jpg` 1024×682, `agopuntura-orecchio.jpg` 1024×792) are served at a single fixed resolution to both a 1440px desktop viewport and a 390px (×2 DPR) mobile viewport. Doesn't cause a visual defect (dimensions are always set, so no CLS) but is a bandwidth/performance-adjacent presentation concern worth a look from whoever owns Performance — flagged here because it affects "Images" scoring. See §3.
+### 2.9 [Low] Responsive variants only on hero/bio photos (corrected)
+Hero and "Chi sono" photos ship a WebP `srcset` with 768w and 1024w candidates plus `sizes` (88 sources sitewide). In-content photos ship one WebP resolution through `<picture>`. On a 390px @2x screen that is close to right-sized, so the saving from a 480w candidate is small. The performance findings put it at about 15 KB on the `/reumatologo/` mobile hero.
+**How we'd know it's fixed:** Lighthouse `image-delivery-insight` passes on mobile for home/agopuntura/reumatologo.
 
 ---
 
@@ -86,14 +89,14 @@ Basis: `raw/pages.json` image inventory across all 96 crawled pages (512 `<img>`
 - Correct LCP handling: hero/lead images use `loading="eager" fetchpriority="high"` (home, agopuntura, reumatologo, laserterapia all confirmed); below-fold badges/icons use `loading="lazy"` (336 of 512 tags).
 - One likely-benign exception: the homepage's second "Chi sono" doctor photo is `loading="lazy"` and rendered blank in our non-scrolling capture (§2.3) — worth a manual check but probably fine for real users.
 
-**Formats — the main gap**
-- Only legacy raster formats in use: PNG (244), JPG (172), GIF (96 — all one file, `isla_logo.gif`, reused across every page). No WebP/AVIF anywhere, no `<picture>` art-direction beyond the 12 `pictures` count of unspecified variants.
-- A GIF for a static, non-animated partner logo is dated; converting to SVG or PNG would reduce weight further.
+**Formats — good (corrected)**
+- 416/512 image tags are served as WebP through `<picture><source type="image/webp">`, with JPG/PNG `<img>` fallback. No AVIF, which is optional.
+- The only non-WebP image is `isla_logo.gif` (ISLA badge, 99×32, once per page). Re-export it as SVG or WebP.
 
-**Responsive delivery — the other gap**
-- 0/512 images use `srcset`/`sizes` (§2.9). Full-resolution 1024px+ content photos are shipped to mobile with no smaller variant, relying solely on browser downscaling.
+**Responsive delivery — mostly good (corrected)**
+- 88 sources carry multi-candidate `srcset` + `sizes` (hero and bio photos). Content photos use one WebP size. Adding a smaller candidate is a Low-priority gain (§2.9).
 
-**Score rationale:** alt text and dimensions are close to best-practice (would be a 95+ in isolation), but the total absence of modern formats and responsive `srcset` sitewide — both first-tier item in "images done right" for a photo-heavy medical site — caps the composite score. 84/100.
+**Score rationale (corrected):** alt text, dimensions, loading strategy and WebP delivery are all at best-practice level. Points come off for no smaller `srcset` candidate on content photos and the one GIF badge. **93/100.**
 
 ---
 
@@ -101,8 +104,8 @@ Basis: `raw/pages.json` image inventory across all 96 crawled pages (512 `<img>`
 
 | Priority | Issue | Fix | Verification |
 |---|---|---|---|
-| High | Sticky bar overlaps in-content CTA on `/laserterapia/` mobile fold | Reserve bottom padding equal to sticky-bar height on content, or move/remove the mid-page duplicate CTA row on that template | Re-screenshot 390×844 fold, confirm no bounding-box intersection |
+| Low | In-content CTA row sits at the fold line behind the sticky bar on `/laserterapia/` mobile | Reserve bottom padding equal to sticky-bar height on content, or move/remove the mid-page duplicate CTA row on that template | Re-screenshot 390×844 fold, confirm no bounding-box intersection |
 | Medium | Footer link row & treatment "pill" links are 15–21px tall | Increase vertical padding to reach ≥24px effective target | Re-run tap-target extraction, confirm ≥24px |
 | Low/Info | "Chi sono" bio photo blank in non-scrolled capture | Manually verify in a real browser; if genuinely blank, check `loading`/`src` | Scroll to section, confirm image paints |
-| Low | No `srcset`/responsive images sitewide | Add `srcset`/`sizes` (and ideally WebP/AVIF) for content photos | Check `pages.json`-equivalent extraction reports `srcset` present |
-| Low | ISLA badge is a GIF | Re-export as SVG/PNG | Confirm file extension/format changes |
+| Low | Content photos have a single WebP size | Add a ~480w `srcset` candidate for in-content photos | Lighthouse `image-delivery-insight` passes on mobile |
+| Low | ISLA badge is a GIF | Re-export as SVG/WebP | Confirm file extension/format changes |
