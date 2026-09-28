@@ -1,0 +1,293 @@
+- link "Salta al contenuto":
+  - /url: "#main"
+- banner:
+  - link "+41 91 921 04 27":
+    - /url: tel:+41919210427
+  - navigation "Lingua":
+    - link "IT":
+      - /url: /agopuntura/
+    - link "DE":
+      - /url: /de/akupunktur/
+    - link "FR":
+      - /url: /fr/acupuncture/
+    - link "EN":
+      - /url: /en/acupuncture/
+  - link "Swiss Centro Medico":
+    - /url: /
+    - img "Swiss Centro Medico"
+  - button "Menu"
+- navigation "Percorso":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: /
+    - listitem: /Agopuntura
+- main:
+  - paragraph: Agopuntura e medicina tradizionale cinese
+  - heading "Agopuntura a Lugano" [level=1]
+  - paragraph: Dott. med. univ. Zeljko Djordjevic, Specialista in Medicina Fisica e Riabilitazione FMH. Swiss Centro Medico, Lugano. Pagina verificata dal medico, aggiornata il 18 settembre 2026.
+  - paragraph: Agopuntura eseguita da medico specialista, con diagnosi occidentale e valutazione secondo la medicina tradizionale cinese. Trattiamo dolore cronico, cefalee, disturbi articolari e funzionali, con aghi o con laser.
+  - list:
+    - listitem: Agopuntura classica del corpo, addominale, auricolare RAC e laser-agopuntura
+    - listitem: Qualifica in agopuntura e farmacoterapia cinese (ASA)
+    - listitem: Attestato di agopuntura addominale (metodo Bo Zhiyun), 1° livello, Istituto Paracelso di Roma
+    - listitem: Aghi sterili monouso
+  - link "Prenota online":
+    - /url: /prenota/
+  - link "Chiama lo studio":
+    - /url: tel:+41919210427
+  - img "Seduta di agopuntura con aghi sulla schiena"
+  - region "Agopuntura e medicina tradizionale cinese":
+    - list:
+      - listitem:
+        - paragraph:
+          - strong: FMH
+          - text: Medicina fisica e riabilitazione
+      - listitem:
+        - paragraph:
+          - strong: ASA
+          - text: Agopuntura e farmacoterapia cinese
+      - listitem:
+        - paragraph:
+          - strong: "4"
+          - text: "tecniche: aghi, addominale, auricolare RAC, laser"
+      - listitem:
+        - paragraph:
+          - strong: RME
+          - text: per le assicurazioni complementari
+  - region "Quando l'agopuntura può aiutare":
+    - heading "Quando l'agopuntura può aiutare" [level=2]
+    - heading "Dolore muscolo-scheletrico" [level=3]
+    - list:
+      - listitem: Lombalgia e sciatalgia, cervicalgia, dorsalgia
+      - listitem: Artrosi di ginocchio, anca, mano e spalla
+      - listitem: "Tendinopatie: gomito del tennista, spalla, tendine d'Achille"
+      - listitem: Dolore miofasciale, fibromialgia, esiti di colpo di frusta
+    - heading "Disturbi funzionali" [level=3]
+    - list:
+      - listitem: Cefalea tensiva ed emicrania
+      - listitem: Disturbi del sonno, stress, stati di tensione
+      - listitem: Rinite allergica e disturbi delle vie respiratorie
+      - listitem: Disturbi digestivi, nausea, dismenorrea
+    - heading "Nervi e organi interni" [level=3]
+    - list:
+      - listitem: Nevralgia del trigemino, paresi facciale e altri disturbi dei nervi
+      - listitem: Stomaco nervoso, reflusso, gastrite e disturbi intestinali
+      - listitem: Allergie e disturbi di occhi, orecchie, pelle e vescica
+      - listitem: Disturbi del cuore e della circolazione
+    - heading "Come supporto alle cure" [level=3]
+    - list:
+      - listitem: Ansia, depressione, esaurimento e burnout, disturbi psicosomatici
+      - listitem: Disturbi ginecologici, gravidanza e puerperio
+      - listitem: Sovrappeso, diabete non insulino-dipendente, disturbi della tiroide
+      - listitem: Smettere di fumare o di bere, desiderio di un figlio, terapie oncologiche e chemioterapia, difese immunitarie e vitalità
+    - paragraph: L'agopuntura viene integrata nel percorso terapeutico quando l'indicazione clinica è chiara e, quando utile, combinata con medicina manuale, infiltrazioni ecoguidate o laserterapia.
+  - region "Le tecniche che utilizziamo":
+    - heading "Le tecniche che utilizziamo" [level=2]
+    - heading "Agopuntura classica del corpo →" [level=3]:
+      - link "Agopuntura classica del corpo →":
+        - /url: /agopuntura-classica-del-corpo-con-aghi-o-laser/
+    - paragraph: Inserimento di aghi sterili monouso nei punti selezionati dopo la valutazione MTC. In genere ben tollerata.
+    - heading "Agopuntura auricolare RAC →" [level=3]:
+      - link "Agopuntura auricolare RAC →":
+        - /url: /agopuntura-auricolare-rac/
+    - paragraph: "Auricolomedicina con controllo del riflesso auricolo-cardiaco: punti individuati sul padiglione auricolare, utile nel dolore cronico e nelle dipendenze. Anche con aghi riassorbibili a lunga durata."
+    - heading "Laser-agopuntura non invasiva →" [level=3]:
+      - link "Laser-agopuntura non invasiva →":
+        - /url: /laserterapia-locale-non-invasiva-e-lagopuntura/
+    - paragraph: "Fino a dodici laserneedle appoggiati sulla pelle stimolano più punti contemporaneamente. Indolore e senza aghi: adatta a chi non li tollera e ai pazienti più giovani."
+    - heading "Agopuntura addominale →" [level=3]:
+      - link "Agopuntura addominale →":
+        - /url: /agopuntura-addominale/
+    - paragraph: Aghi sottili in punti dell'addome, secondo il metodo del prof. Bo Zhiyun. Il medico ha l'attestato di 1° livello dell'Istituto Paracelso di Roma.
+    - heading "Combinazione con la terapia del dolore →" [level=3]:
+      - link "Combinazione con la terapia del dolore →":
+        - /url: /reumatologo/
+    - paragraph: Quando serve, l'agopuntura si affianca a medicina manuale, infiltrazioni ecoguidate e laserterapia nello stesso percorso.
+  - 'region "Agopuntura e medicina tradizionale cinese (MTC): come lavoriamo"':
+    - paragraph: Medicina tradizionale cinese
+    - 'heading "Agopuntura e medicina tradizionale cinese (MTC): come lavoriamo" [level=2]'
+    - paragraph: Prima di ogni seduta il Dott. Djordjevic esegue una valutazione secondo i principi della medicina tradizionale cinese, per individuare i punti più indicati al suo caso; la stessa lettura guida anche l'agopuntura auricolare RAC.
+    - paragraph: "Il trattamento è l'agopuntura: con aghi sterili monouso, con il laser senza aghi o sul padiglione auricolare. La tecnica si sceglie in visita, insieme."
+  - region "Dalla prima visita al ciclo di sedute":
+    - paragraph: Il percorso
+    - heading "Dalla prima visita al ciclo di sedute" [level=2]
+    - list:
+      - listitem:
+        - heading "Visita specialistica" [level=3]
+        - paragraph: Anamnesi, esame clinico e, se indicata, ecografia muscolo-scheletrica per chiarire l'origine del dolore.
+      - listitem:
+        - heading "Valutazione MTC" [level=3]
+        - paragraph: "Lettura secondo la medicina tradizionale cinese e scelta dei punti e della tecnica più adatta: la valutazione e l'inserimento degli aghi li eseguo personalmente, in studio."
+      - listitem:
+        - heading "Ciclo di trattamento" [level=3]
+        - paragraph: Il numero di sedute dipende dal disturbo e viene definito in visita, con rivalutazione periodica dei risultati.
+      - listitem:
+        - heading "Mantenimento" [level=3]
+        - paragraph: Sedute di richiamo e indicazioni di esercizio o fitoterapiche per consolidare il beneficio.
+    - img "Agopuntura auricolare sul padiglione dell'orecchio"
+  - region "Cosa dicono gli studi":
+    - heading "Cosa dicono gli studi" [level=2]
+    - paragraph: Revisione Cochrane 2016 · 22 studi, 4985 persone
+    - heading "Emicrania" [level=3]
+    - paragraph: Attacchi almeno dimezzati in 41 pazienti su 100 dopo l'agopuntura, contro 17 su 100 senza agopuntura.
+    - paragraph: Revisione Cochrane 2016 · 12 studi, 2349 persone
+    - heading "Cefalea tensiva" [level=3]
+    - paragraph: Nel più grande studio della revisione, mal di testa almeno dimezzati in 48 pazienti su 100, contro 19 su 100 con le cure abituali.
+    - paragraph: Meta-analisi, Journal of Pain 2018 · 39 studi, 20 827 pazienti
+    - heading "Dolore cronico" [level=3]
+    - paragraph: "Schiena, collo, artrosi, spalla e mal di testa cronico: l'agopuntura riduce il dolore più dell'assenza di trattamento e dell'agopuntura simulata. Dopo un anno l'effetto cala solo di circa il 15%."
+  - region "È sicura?":
+    - heading "È sicura?" [level=2]
+    - paragraph: In uno studio su 229 230 pazienti trattati da medici, 8,6 su 100 hanno riportato almeno un effetto indesiderato, più spesso un piccolo sanguinamento o un livido nel punto dell'ago. Le complicazioni serie sono state rarissime.
+    - heading "Lo dica al medico se" [level=3]
+    - list:
+      - listitem: prende anticoagulanti
+      - listitem: è incinta o pensa di esserlo
+      - listitem: ha un pacemaker
+      - listitem: "ha paura degli aghi: c'è il laser"
+  - region "Domande frequenti":
+    - heading "Domande frequenti" [level=2]
+    - heading "L'agopuntura è dolorosa?" [level=3]
+    - paragraph: "Gli aghi sono molto sottili e sterili monouso: la sensazione più comune è un formicolio o un senso di peso locale. L'agopuntura si sceglie dopo la visita specialistica e la valutazione secondo la medicina tradizionale cinese. Per chi preferisce evitare gli aghi, o per i pazienti più giovani, esiste la laser-agopuntura: fino a dodici laserneedle appoggiati sulla pelle, indolore e senza puntura. Lo dica in visita se ha paura degli aghi, se prende anticoagulanti, se è incinta o se ha un pacemaker."
+    - heading "Quante sedute servono?" [level=3]
+    - paragraph: Dipende dal disturbo e dalla sua durata. Il percorso inizia con la visita specialistica (anamnesi, esame clinico e, se indicata, ecografia muscolo-scheletrica), poi la valutazione secondo la medicina tradizionale cinese e la scelta dei punti e della tecnica. Il ciclo si definisce in visita, con rivalutazione periodica; in seguito si possono prevedere sedute di richiamo e indicazioni di esercizio per consolidare il beneficio.
+    - heading "L'agopuntura è rimborsata dall'assicurazione?" [level=3]
+    - paragraph:
+      - text: "Lo studio è certificato RME e in Ticino fattura alle assicurazioni complementari: con una complementare, a determinate condizioni, il trattamento può essere rimborsato. Chi ha solo l'assicurazione di base riceve in visita un preventivo chiaro e paga direttamente. Per l'agopuntura il medico è inoltre riconosciuto da Visana (numero RCC V272164, verificabile nella"
+      - link "lista terapeuti Visana":
+        - /url: https://entry.visana.ch/b2a/apps/saa/therapists/
+      - text: "): chi ha un'assicurazione complementare Visana per la medicina complementare può ottenere il rimborso secondo il proprio contratto."
+    - heading "Serve una prescrizione del medico di famiglia?" [level=3]
+    - paragraph: No, può prenotare direttamente. Se è già seguito da altri specialisti, portare referti e immagini aiuta a impostare subito il trattamento.
+    - heading "Il laser funziona come gli aghi?" [level=3]
+    - paragraph: "Stimola gli stessi punti senza pungere. Gli studi sul laser sono meno numerosi di quelli sugli aghi: è una buona alternativa per chi non tollera l'ago, da scegliere insieme in visita."
+    - heading "Posso fare agopuntura se prendo farmaci?" [level=3]
+    - paragraph: "Di solito sì: l'agopuntura si affianca alle cure. Porti l'elenco dei farmaci alla prima visita e non sospenda nessuna terapia senza parlarne con il medico."
+    - heading "Cosa porto alla prima visita?" [level=3]
+    - paragraph: "Referti ed esami recenti, l'elenco dei farmaci e, se ce l'ha, la tessera della cassa malati. Abiti comodi aiutano. Se è già seguito da altri specialisti, portare immagini e referti aiuta a impostare subito il trattamento. Non serve una prescrizione del medico di famiglia: si può prenotare direttamente."
+    - heading "Si può combinare con altre terapie?" [level=3]
+    - paragraph: Sì. L'agopuntura viene spesso integrata con medicina manuale, laserterapia e terapia interventistica del dolore all'interno dello stesso percorso.
+  - region "Fonti scientifiche":
+    - heading "Fonti scientifiche" [level=2]
+    - list:
+      - listitem:
+        - text: Linde K, et al. Acupuncture for the prevention of episodic migraine. Cochrane Database Syst Rev. 2016;(6):CD001218.
+        - link "doi:10.1002/14651858.CD001218.pub3":
+          - /url: https://doi.org/10.1002/14651858.CD001218.pub3
+      - listitem:
+        - text: Linde K, et al. Acupuncture for the prevention of tension-type headache. Cochrane Database Syst Rev. 2016;(4):CD007587.
+        - link "doi:10.1002/14651858.CD007587.pub2":
+          - /url: https://doi.org/10.1002/14651858.CD007587.pub2
+      - listitem:
+        - text: "Vickers AJ, et al. Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis. J Pain. 2018;19:455–474."
+        - link "doi:10.1016/j.jpain.2017.11.005":
+          - /url: https://doi.org/10.1016/j.jpain.2017.11.005
+      - listitem:
+        - text: "Witt CM, et al. Safety of acupuncture: results of a prospective observational study with 229,230 patients and introduction of a medical information and consent form. Forsch Komplementmed. 2009;16:91–97."
+        - link "doi:10.1159/000209315":
+          - /url: https://doi.org/10.1159/000209315
+  - region "Non è sicuro quale trattamento fa per lei?":
+    - heading "Non è sicuro quale trattamento fa per lei?" [level=2]
+    - paragraph: Per il dolore muscolo-scheletrico lo studio segue più vie, spesso combinate. La visita specialistica, con l'ecografia quando serve, chiarisce quale è indicata nel suo caso.
+    - heading "Reumatologia →" [level=3]:
+      - link "Reumatologia →":
+        - /url: /reumatologo/
+    - paragraph: "Diagnosi e piano di cura: la prima visita quando il dolore è alle articolazioni, alla schiena o ai tendini."
+    - heading "Interventistica del dolore →" [level=3]:
+      - link "Interventistica del dolore →":
+        - /url: /terapia-interventistica-del-dolore/
+    - paragraph: Infiltrazioni ecoguidate di articolazioni e tessuti molli, con acido ialuronico o PRP quando indicato.
+    - heading "PRP per articolazioni e tendini →" [level=3]:
+      - link "PRP per articolazioni e tendini →":
+        - /url: /il-plasma-ricco-di-piastrine-o-trombociti-prp/
+    - paragraph: Plasma preparato dal sangue del paziente e iniettato in tendini e articolazioni.
+    - heading "Laserterapia →" [level=3]:
+      - link "Laserterapia →":
+        - /url: /laserterapia/
+    - paragraph: Luce laser locale, intra-articolare o endovenosa, senza farmaci.
+  - paragraph: Le informazioni di questa pagina hanno finalità divulgativa e non sostituiscono la consulenza medica. L'indicazione, i benefici attesi e i rischi di ogni trattamento vengono valutati individualmente nel corso della visita specialistica.
+  - region "Prenota una visita per l'agopuntura":
+    - heading "Prenota una visita per l'agopuntura" [level=2]
+    - paragraph: Valutazione specialistica iniziale, indicazione al trattamento e definizione del ciclo di sedute.
+    - paragraph:
+      - text: Accettiamo referti e richieste di secondo parere dal suo medico, via HIN.
+      - link "dr.djordjevic@hin.ch":
+        - /url: mailto:dr.djordjevic@hin.ch
+    - link "Prenota online":
+      - /url: /prenota/
+    - link "Chiama ora":
+      - /url: tel:+41919210427
+    - link "Scrivi una email":
+      - /url: mailto:dr.djordjevic@hin.ch
+  - region "A Lugano, a due passi da USI e EOC":
+    - paragraph: Come raggiungerci
+    - heading "A Lugano, a due passi da USI e EOC" [level=2]
+    - paragraph: Lo studio è in posizione centrale nella Svizzera italiana, raggiungibile anche da Mendrisio, Bellinzona, Locarno e Chiasso, e comodamente raggiungibile dall'Italia, da Milano, Como, Varese e dalla Lombardia, in auto e in treno.
+    - paragraph: "In auto: parcheggio dello studio proprio di fronte. Con i mezzi pubblici: a due passi dall'USI."
+    - heading "Indirizzo" [level=3]
+    - paragraph: Via Alessandro Volta 1 6900 Lugano
+    - heading "Orari" [level=3]
+    - paragraph: Lunedì e mercoledì 08:00–16:30 Venerdì 08:00–13:30
+    - heading "Telefono" [level=3]
+    - paragraph:
+      - link "+41 91 921 04 27":
+        - /url: tel:+41919210427
+    - heading "WhatsApp" [level=3]
+    - paragraph:
+      - link "+41 78 605 33 72":
+        - /url: /whatsapp/
+    - heading "Email" [level=3]
+    - paragraph:
+      - link "dr.djordjevic@hin.ch":
+        - /url: mailto:dr.djordjevic@hin.ch
+    - paragraph:
+      - link "Apri in Google Maps":
+        - /url: https://www.google.com/maps/place/Swiss+centro+medico/data=!4m2!3m1!1s0x47842d15d8a53e0d:0x57ac9e5e3aa067e1
+- contentinfo:
+  - link "Certificazione RME":
+    - /url: https://emr.ch/terapeuta/zeljko.djordjevic
+    - img "Certificazione RME"
+  - img "ISLA, International Society for Medical Laser Applications"
+  - link "European Laser Clinics":
+    - /url: https://www.european-laser-clinics.com/
+    - img "European Laser Clinics"
+  - paragraph:
+    - text: Swiss Centro Medico · Via Alessandro Volta 1, 6900 Lugano
+    - link "+41 91 921 04 27":
+      - /url: tel:+41919210427
+    - text: ·
+    - link "WhatsApp +41 78 605 33 72":
+      - /url: /whatsapp/
+    - text: ·
+    - link "Instagram":
+      - /url: https://www.instagram.com/swisscentromedicolugano/
+  - navigation "Menu del piè di pagina":
+    - list:
+      - listitem:
+        - link "Agopuntura":
+          - /url: /agopuntura/
+      - listitem:
+        - link "Laserterapia":
+          - /url: /laserterapia/
+      - listitem:
+        - link "Reumatologia":
+          - /url: /reumatologo/
+      - listitem:
+        - link "Medicina rigenerativa":
+          - /url: /medicina-rigenerativa/
+      - listitem:
+        - link "Contatti":
+          - /url: /contatti/
+  - paragraph:
+    - text: © 2026 Swiss Centro Medico, Lugano ·
+    - link "Privacy":
+      - /url: /privacy/
+    - text: ·
+    - link "Note legali":
+      - /url: /note-legali/
+- navigation "Chiama / Prenota":
+  - link "Chiama":
+    - /url: tel:+41919210427
+  - link "Prenota":
+    - /url: /prenota/

@@ -1,0 +1,145 @@
+- link "Salta al contenuto":
+  - /url: "#main"
+- banner:
+  - link "+41 91 921 04 27":
+    - /url: tel:+41919210427
+  - navigation "Lingua":
+    - link "IT":
+      - /url: /contatti/
+    - link "DE":
+      - /url: /de/kontakt/
+    - link "FR":
+      - /url: /fr/contact/
+    - link "EN":
+      - /url: /en/contact/
+  - link "Swiss Centro Medico":
+    - /url: /
+    - img "Swiss Centro Medico"
+  - button "Menu"
+- navigation "Percorso":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: /
+    - listitem: /Contatti
+- main:
+  - paragraph: Prenota il primo consulto
+  - heading "Contatti" [level=1]
+  - paragraph: Può prenotare online in autonomia, chiamare lo studio negli orari di apertura, scriverci su WhatsApp o inviare una email.
+  - paragraph: "Dott. med. univ. Zeljko Djordjevic, Specialista in Medicina fisica e riabilitazione FMH. 20 anni di pratica clinica dal 2006. Lingue: italiano, tedesco, inglese, serbo, sloveno."
+  - list:
+    - listitem:
+      - paragraph: Prenotazione online
+      - paragraph: Agenda OneDoc, disponibilità in tempo reale
+      - link "Prenota online":
+        - /url: /prenota/
+    - listitem:
+      - paragraph: Telefono
+      - paragraph: +41 91 921 04 27
+      - link "Chiama ora":
+        - /url: tel:+41919210427
+    - listitem:
+      - paragraph: WhatsApp
+      - paragraph: +41 78 605 33 72
+      - link "Scrivi su WhatsApp":
+        - /url: /whatsapp/
+    - listitem:
+      - paragraph: Email
+      - paragraph: dr.djordjevic@hin.ch
+      - link "Scrivi una email":
+        - /url: mailto:dr.djordjevic@hin.ch
+  - paragraph: "Lo studio è certificato RME e in Ticino fattura alle assicurazioni complementari: con una complementare, a determinate condizioni, il trattamento può essere rimborsato. Chi ha solo l'assicurazione di base riceve in visita un preventivo chiaro e paga direttamente."
+  - heading "Orari di apertura" [level=2]
+  - list:
+    - listitem: Lunedì 08:00–16:30
+    - listitem: Martedì chiuso
+    - listitem: Mercoledì 08:00–16:30
+    - listitem: Giovedì chiuso
+    - listitem: Venerdì 08:00–13:30
+    - listitem: Sabato e domenica chiuso
+  - heading "Indirizzo" [level=2]
+  - paragraph: Swiss Centro Medico Via Alessandro Volta 1, 6900 Lugano
+  - paragraph: Nelle immediate vicinanze dell'Università della Svizzera italiana (USI) e dell'Ospedale Regionale di Lugano (EOC).
+  - paragraph: "In auto: parcheggio dello studio proprio di fronte. Con i mezzi pubblici: a due passi dall'USI."
+  - paragraph:
+    - link "Visualizza il percorso su Google Maps":
+      - /url: https://maps.app.goo.gl/66zKdiuP1Ecmfxjd9
+  - paragraph:
+    - text: È già stato in studio? Una recensione su Google aiuta altri pazienti a trovarci.
+    - link "Lascia una recensione su Google":
+      - /url: https://g.page/r/CeFnoDpenqxXEAI/review/
+    - text: .
+  - region "Arrivare in studio":
+    - heading "Arrivare in studio" [level=2]
+    - heading "Dal Ticino" [level=3]
+    - paragraph: Posizione centrale a Lugano, vicino a USI ed EOC, raggiungibile anche da Mendrisio, Bellinzona, Locarno e Chiasso, con i mezzi pubblici e in auto, con il parcheggio dello studio proprio di fronte.
+    - heading "Dall'Italia" [level=3]
+    - paragraph: Collegamenti diretti da Milano e dalla Lombardia, anche da Como e Varese, in auto dall'A9/A2 e in treno fino a Lugano.
+    - heading "Per i medici invianti" [level=3]
+    - paragraph: Referti, immagini e richieste di secondo parere possono essere trasmessi via HIN all'indirizzo dr.djordjevic@hin.ch.
+  - region "Dove siamo":
+    - heading "Dove siamo" [level=2]
+    - paragraph:
+      - text: Swiss Centro Medico Via Alessandro Volta 1, 6900 Lugano
+      - link "Visualizza il percorso su Google Maps":
+        - /url: https://maps.app.goo.gl/66zKdiuP1Ecmfxjd9
+  - region "Prenoti online in meno di un minuto":
+    - heading "Prenoti online in meno di un minuto" [level=2]
+    - paragraph: Disponibilità in tempo reale sull'agenda OneDoc, con conferma immediata.
+    - paragraph:
+      - text: Accettiamo referti e richieste di secondo parere dal suo medico, via HIN.
+      - link "dr.djordjevic@hin.ch":
+        - /url: mailto:dr.djordjevic@hin.ch
+    - link "Prenota online":
+      - /url: /prenota/
+    - link "Chiama ora":
+      - /url: tel:+41919210427
+    - link "Scrivi una email":
+      - /url: mailto:dr.djordjevic@hin.ch
+- contentinfo:
+  - link "Certificazione RME":
+    - /url: https://emr.ch/terapeuta/zeljko.djordjevic
+    - img "Certificazione RME"
+  - img "ISLA, International Society for Medical Laser Applications"
+  - link "European Laser Clinics":
+    - /url: https://www.european-laser-clinics.com/
+    - img "European Laser Clinics"
+  - paragraph:
+    - text: Swiss Centro Medico · Via Alessandro Volta 1, 6900 Lugano
+    - link "+41 91 921 04 27":
+      - /url: tel:+41919210427
+    - text: ·
+    - link "WhatsApp +41 78 605 33 72":
+      - /url: /whatsapp/
+    - text: ·
+    - link "Instagram":
+      - /url: https://www.instagram.com/swisscentromedicolugano/
+  - navigation "Menu del piè di pagina":
+    - list:
+      - listitem:
+        - link "Agopuntura":
+          - /url: /agopuntura/
+      - listitem:
+        - link "Laserterapia":
+          - /url: /laserterapia/
+      - listitem:
+        - link "Reumatologia":
+          - /url: /reumatologo/
+      - listitem:
+        - link "Medicina rigenerativa":
+          - /url: /medicina-rigenerativa/
+      - listitem:
+        - link "Contatti":
+          - /url: /contatti/
+  - paragraph:
+    - text: © 2026 Swiss Centro Medico, Lugano ·
+    - link "Privacy":
+      - /url: /privacy/
+    - text: ·
+    - link "Note legali":
+      - /url: /note-legali/
+- navigation "Chiama / Prenota":
+  - link "Chiama":
+    - /url: tel:+41919210427
+  - link "Prenota":
+    - /url: /prenota/

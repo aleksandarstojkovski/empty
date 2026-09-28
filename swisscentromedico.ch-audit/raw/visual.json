@@ -1,0 +1,2555 @@
+{
+ "home-desktop": {
+  "h1": "Terapia del Dolore, Agopuntura e Laserterapia a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 45,
+    "h": 44
+   },
+   {
+    "text": "Agopuntura",
+    "href": "/agopuntura/",
+    "w": 85,
+    "h": 44
+   },
+   {
+    "text": "Laserterapia",
+    "href": "/laserterapia/",
+    "w": 90,
+    "h": 44
+   },
+   {
+    "text": "Reumatologia",
+    "href": "/reumatologo/",
+    "w": 101,
+    "h": 44
+   },
+   {
+    "text": "Medicina rigenerativa",
+    "href": "/medicina-rigenerativa/",
+    "w": 154,
+    "h": 44
+   },
+   {
+    "text": "Contatti",
+    "href": "/contatti/",
+    "w": 57,
+    "h": 44
+   },
+   {
+    "text": "Prenota visita",
+    "href": "/prenota/",
+    "w": 145,
+    "h": 49
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Agopuntura a Lugano →",
+    "w": 158,
+    "h": 16
+   },
+   {
+    "text": "Reumatologia a Lugano →",
+    "w": 172,
+    "h": 16
+   },
+   {
+    "text": "Terapia del dolore →",
+    "w": 133,
+    "h": 16
+   },
+   {
+    "text": "Tutti i trattamenti ↓",
+    "w": 119,
+    "h": 20
+   },
+   {
+    "text": "Agopuntura e MTC",
+    "w": 186,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia invasiva",
+    "w": 208,
+    "h": 21
+   },
+   {
+    "text": "Terapia interventistica del dolore",
+    "w": 306,
+    "h": 21
+   },
+   {
+    "text": "Ecografia muscolo-scheletrica",
+    "w": 289,
+    "h": 21
+   },
+   {
+    "text": "Medicina manuale",
+    "w": 181,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura laser non invasiva",
+    "w": 286,
+    "h": 21
+   },
+   {
+    "text": "Arztpraxis Sternen",
+    "w": 127,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "Agopuntura",
+    "w": 93,
+    "h": 19
+   },
+   {
+    "text": "Laserterapia",
+    "w": 98,
+    "h": 19
+   },
+   {
+    "text": "Medicina rigenerativa",
+    "w": 168,
+    "h": 19
+   },
+   {
+    "text": "Reumatologia",
+    "w": 109,
+    "h": 19
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 1440,
+  "vw": 1440,
+  "doc_height": 4825,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": []
+ },
+ "agopuntura-desktop": {
+  "h1": "Agopuntura a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/agopuntura/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/akupunktur/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/acupuncture/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/acupuncture/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 44,
+    "h": 44
+   },
+   {
+    "text": "Agopuntura",
+    "href": "/agopuntura/",
+    "w": 90,
+    "h": 44
+   },
+   {
+    "text": "Laserterapia",
+    "href": "/laserterapia/",
+    "w": 90,
+    "h": 44
+   },
+   {
+    "text": "Reumatologia",
+    "href": "/reumatologo/",
+    "w": 101,
+    "h": 44
+   },
+   {
+    "text": "Medicina rigenerativa",
+    "href": "/medicina-rigenerativa/",
+    "w": 154,
+    "h": 44
+   },
+   {
+    "text": "Contatti",
+    "href": "/contatti/",
+    "w": 57,
+    "h": 44
+   },
+   {
+    "text": "Prenota visita",
+    "href": "/prenota/",
+    "w": 145,
+    "h": 49
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Agopuntura classica del corpo",
+    "w": 288,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura auricolare RAC",
+    "w": 262,
+    "h": 21
+   },
+   {
+    "text": "Laser-agopuntura non invasiva",
+    "w": 292,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura addominale",
+    "w": 233,
+    "h": 21
+   },
+   {
+    "text": "Combinazione con la terapia del dolore",
+    "w": 360,
+    "h": 21
+   },
+   {
+    "text": "lista terapeuti Visana",
+    "w": 142,
+    "h": 17
+   },
+   {
+    "text": "doi:10.1002/14651858.CD001218.pub3",
+    "w": 256,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1002/14651858.CD007587.pub2",
+    "w": 255,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1016/j.jpain.2017.11.005",
+    "w": 200,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1159/000209315",
+    "w": 154,
+    "h": 16
+   },
+   {
+    "text": "Reumatologia",
+    "w": 126,
+    "h": 17
+   },
+   {
+    "text": "Interventistica del dolore",
+    "w": 206,
+    "h": 17
+   },
+   {
+    "text": "PRP per articolazioni e tendini",
+    "w": 245,
+    "h": 17
+   },
+   {
+    "text": "Laserterapia",
+    "w": 115,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 1440,
+  "vw": 1440,
+  "doc_height": 8077,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": []
+ },
+ "reumatologo-desktop": {
+  "h1": "Reumatologo a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/reumatologo/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/rheumatologe/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/rhumatologue/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/rheumatologist/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 44,
+    "h": 44
+   },
+   {
+    "text": "Agopuntura",
+    "href": "/agopuntura/",
+    "w": 85,
+    "h": 44
+   },
+   {
+    "text": "Laserterapia",
+    "href": "/laserterapia/",
+    "w": 90,
+    "h": 44
+   },
+   {
+    "text": "Reumatologia",
+    "href": "/reumatologo/",
+    "w": 107,
+    "h": 44
+   },
+   {
+    "text": "Medicina rigenerativa",
+    "href": "/medicina-rigenerativa/",
+    "w": 154,
+    "h": 44
+   },
+   {
+    "text": "Contatti",
+    "href": "/contatti/",
+    "w": 57,
+    "h": 44
+   },
+   {
+    "text": "Prenota visita",
+    "href": "/prenota/",
+    "w": 145,
+    "h": 49
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "Ecografia muscolo-scheletrica",
+    "w": 289,
+    "h": 21
+   },
+   {
+    "text": "Terapia interventistica del dolore",
+    "w": 306,
+    "h": 21
+   },
+   {
+    "text": "Infiltrazioni con acido ialuronico",
+    "w": 299,
+    "h": 21
+   },
+   {
+    "text": "Infiltrazioni con PRP",
+    "w": 198,
+    "h": 21
+   },
+   {
+    "text": "Medicina manuale",
+    "w": 181,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia",
+    "w": 133,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura e MTC",
+    "w": 186,
+    "h": 21
+   },
+   {
+    "text": "doi:10.1136/ard-2022-223356",
+    "w": 194,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/ard-2022-223296",
+    "w": 194,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/ard-2024-225531",
+    "w": 194,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/ard-2023-224762",
+    "w": 194,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1002/acr.24131",
+    "w": 143,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1016/S0140-6736(21)00733-9",
+    "w": 242,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1001/jama.2022.5921",
+    "w": 185,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/annrheumdis-2016-210289",
+    "w": 257,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1038/s41572-020-00234-1",
+    "w": 219,
+    "h": 16
+   },
+   {
+    "text": "doi:10.5435/00124635-201106000-00006",
+    "w": 273,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/annrheumdis-2016-209724",
+    "w": 257,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/annrheumdis-2016-209707",
+    "w": 257,
+    "h": 16
+   },
+   {
+    "text": "Agopuntura",
+    "w": 110,
+    "h": 17
+   },
+   {
+    "text": "Interventistica del dolore",
+    "w": 206,
+    "h": 17
+   },
+   {
+    "text": "PRP per articolazioni e tendini",
+    "w": 245,
+    "h": 17
+   },
+   {
+    "text": "Laserterapia",
+    "w": 115,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   }
+  ],
+  "doc_width": 1440,
+  "vw": 1440,
+  "doc_height": 6743,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": []
+ },
+ "contatti-desktop": {
+  "h1": "Contatti",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/contatti/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/kontakt/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/contact/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/contact/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 44,
+    "h": 44
+   },
+   {
+    "text": "Agopuntura",
+    "href": "/agopuntura/",
+    "w": 85,
+    "h": 44
+   },
+   {
+    "text": "Laserterapia",
+    "href": "/laserterapia/",
+    "w": 90,
+    "h": 44
+   },
+   {
+    "text": "Reumatologia",
+    "href": "/reumatologo/",
+    "w": 101,
+    "h": 44
+   },
+   {
+    "text": "Medicina rigenerativa",
+    "href": "/medicina-rigenerativa/",
+    "w": 154,
+    "h": 44
+   },
+   {
+    "text": "Contatti",
+    "href": "/contatti/",
+    "w": 61,
+    "h": 44
+   },
+   {
+    "text": "Prenota visita",
+    "href": "/prenota/",
+    "w": 145,
+    "h": 49
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama ora",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 48
+   },
+   {
+    "text": "Scrivi su WhatsApp",
+    "href": "/whatsapp/",
+    "w": 182,
+    "h": 48
+   },
+   {
+    "text": "Scrivi una email",
+    "href": "mailto:dr.djordjevic@hin.ch",
+    "w": 156,
+    "h": 48
+   },
+   {
+    "text": "Visualizza il percorso su Google Maps",
+    "href": "https://maps.app.goo.gl/66zKdiuP1Ecmfxjd9",
+    "w": 305,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Lascia una recensione su Google",
+    "w": 220,
+    "h": 16
+   },
+   {
+    "text": "Visualizza il percorso su Google Maps",
+    "w": 259,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 1440,
+  "vw": 1440,
+  "doc_height": 2548,
+  "tel_links": 5,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": []
+ },
+ "laserterapia-desktop": {
+  "h1": "Laserterapia a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/laserterapia/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/lasertherapie/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/lasertherapie/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/laser-therapy/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 44,
+    "h": 44
+   },
+   {
+    "text": "Agopuntura",
+    "href": "/agopuntura/",
+    "w": 85,
+    "h": 44
+   },
+   {
+    "text": "Laserterapia",
+    "href": "/laserterapia/",
+    "w": 96,
+    "h": 44
+   },
+   {
+    "text": "Reumatologia",
+    "href": "/reumatologo/",
+    "w": 101,
+    "h": 44
+   },
+   {
+    "text": "Medicina rigenerativa",
+    "href": "/medicina-rigenerativa/",
+    "w": 154,
+    "h": 44
+   },
+   {
+    "text": "Contatti",
+    "href": "/contatti/",
+    "w": 57,
+    "h": 44
+   },
+   {
+    "text": "Prenota visita",
+    "href": "/prenota/",
+    "w": 145,
+    "h": 49
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Laserterapia locale non invasiva",
+    "w": 302,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia intra-articolare",
+    "w": 264,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia endovenosa",
+    "w": 245,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia interstiziale",
+    "w": 237,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia dermatologica",
+    "w": 262,
+    "h": 21
+   },
+   {
+    "text": "Laser e PRP",
+    "w": 128,
+    "h": 21
+   },
+   {
+    "text": "doi:10.1016/S0140-6736(09)61522-1",
+    "w": 241,
+    "h": 16
+   },
+   {
+    "text": "doi:10.3934/biophy.2017.3.337",
+    "w": 198,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1089/104454702320901134",
+    "w": 226,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1016/j.ejps.2024.106715",
+    "w": 203,
+    "h": 16
+   },
+   {
+    "text": "Reumatologia",
+    "w": 126,
+    "h": 17
+   },
+   {
+    "text": "Agopuntura",
+    "w": 110,
+    "h": 17
+   },
+   {
+    "text": "Interventistica del dolore",
+    "w": 206,
+    "h": 17
+   },
+   {
+    "text": "PRP per articolazioni e tendini",
+    "w": 245,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 1440,
+  "vw": 1440,
+  "doc_height": 5434,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": []
+ },
+ "de-home-desktop": {
+  "h1": "Schmerztherapie, Akupunktur und Lasertherapie in Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/de/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Startseite",
+    "href": "/de/",
+    "w": 75,
+    "h": 44
+   },
+   {
+    "text": "Akupunktur",
+    "href": "/de/akupunktur/",
+    "w": 84,
+    "h": 44
+   },
+   {
+    "text": "Lasertherapie",
+    "href": "/de/lasertherapie/",
+    "w": 99,
+    "h": 44
+   },
+   {
+    "text": "Rheumatologie",
+    "href": "/de/rheumatologe/",
+    "w": 110,
+    "h": 44
+   },
+   {
+    "text": "Regenerative Medizin",
+    "href": "/de/regenerative-medizin/",
+    "w": 156,
+    "h": 44
+   },
+   {
+    "text": "Kontakt",
+    "href": "/de/kontakt/",
+    "w": 56,
+    "h": 44
+   },
+   {
+    "text": "Termin buchen",
+    "href": "/de/termin/",
+    "w": 154,
+    "h": 49
+   },
+   {
+    "text": "Online buchen",
+    "href": "/de/termin/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Praxis anrufen",
+    "href": "tel:+41919210427",
+    "w": 148,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Akupunktur in Lugano →",
+    "w": 161,
+    "h": 16
+   },
+   {
+    "text": "Rheumatologie in Lugano →",
+    "w": 185,
+    "h": 16
+   },
+   {
+    "text": "Schmerztherapie →",
+    "w": 130,
+    "h": 16
+   },
+   {
+    "text": "Alle Behandlungen ↓",
+    "w": 134,
+    "h": 20
+   },
+   {
+    "text": "Akupunktur und TCM",
+    "w": 207,
+    "h": 21
+   },
+   {
+    "text": "Invasive Lasertherapie",
+    "w": 220,
+    "h": 21
+   },
+   {
+    "text": "Interventionelle Schmerztherapie",
+    "w": 312,
+    "h": 21
+   },
+   {
+    "text": "Muskuloskelettaler Ultraschall",
+    "w": 286,
+    "h": 21
+   },
+   {
+    "text": "Manuelle Medizin",
+    "w": 175,
+    "h": 21
+   },
+   {
+    "text": "Nicht invasive Laserakupunktur",
+    "w": 297,
+    "h": 21
+   },
+   {
+    "text": "Arztpraxis Sternen",
+    "w": 127,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "Akupunktur",
+    "w": 92,
+    "h": 19
+   },
+   {
+    "text": "Lasertherapie",
+    "w": 108,
+    "h": 19
+   },
+   {
+    "text": "Regenerative Medizin",
+    "w": 169,
+    "h": 19
+   },
+   {
+    "text": "Rheumatologie",
+    "w": 119,
+    "h": 19
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "In Google Maps öffnen",
+    "w": 155,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Datenschutz",
+    "w": 76,
+    "h": 15
+   },
+   {
+    "text": "Rechtliche Hinweise",
+    "w": 122,
+    "h": 15
+   }
+  ],
+  "doc_width": 1440,
+  "vw": 1440,
+  "doc_height": 5009,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": []
+ },
+ "home-mobile": {
+  "h1": "Terapia del Dolore, Agopuntura e Laserterapia a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Menu",
+    "href": null,
+    "w": 96,
+    "h": 44
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   },
+   {
+    "text": "Chiama",
+    "href": "tel:+41919210427",
+    "w": 179,
+    "h": 48
+   },
+   {
+    "text": "Prenota",
+    "href": "/prenota/",
+    "w": 179,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Agopuntura a Lugano →",
+    "w": 158,
+    "h": 16
+   },
+   {
+    "text": "Reumatologia a Lugano →",
+    "w": 172,
+    "h": 16
+   },
+   {
+    "text": "Terapia del dolore →",
+    "w": 133,
+    "h": 16
+   },
+   {
+    "text": "Tutti i trattamenti ↓",
+    "w": 119,
+    "h": 20
+   },
+   {
+    "text": "Agopuntura e MTC",
+    "w": 186,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia invasiva",
+    "w": 208,
+    "h": 21
+   },
+   {
+    "text": "Ecografia muscolo-scheletrica",
+    "w": 289,
+    "h": 21
+   },
+   {
+    "text": "Medicina manuale",
+    "w": 181,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura laser non invasiva",
+    "w": 286,
+    "h": 21
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "Agopuntura",
+    "w": 93,
+    "h": 19
+   },
+   {
+    "text": "Laserterapia",
+    "w": 98,
+    "h": 19
+   },
+   {
+    "text": "Medicina rigenerativa",
+    "w": 168,
+    "h": 19
+   },
+   {
+    "text": "Reumatologia",
+    "w": 109,
+    "h": 19
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 390,
+  "vw": 390,
+  "doc_height": 8747,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": [],
+  "a11y_error": "'Page' object has no attribute 'accessibility'"
+ },
+ "agopuntura-mobile": {
+  "h1": "Agopuntura a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/agopuntura/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/akupunktur/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/acupuncture/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/acupuncture/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Menu",
+    "href": null,
+    "w": 96,
+    "h": 44
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   },
+   {
+    "text": "Chiama",
+    "href": "tel:+41919210427",
+    "w": 179,
+    "h": 48
+   },
+   {
+    "text": "Prenota",
+    "href": "/prenota/",
+    "w": 179,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Agopuntura classica del corpo",
+    "w": 288,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura auricolare RAC",
+    "w": 262,
+    "h": 21
+   },
+   {
+    "text": "Laser-agopuntura non invasiva",
+    "w": 292,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura addominale",
+    "w": 233,
+    "h": 21
+   },
+   {
+    "text": "lista terapeuti Visana",
+    "w": 142,
+    "h": 17
+   },
+   {
+    "text": "doi:10.1002/14651858.CD001218.pub3",
+    "w": 256,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1002/14651858.CD007587.pub2",
+    "w": 255,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1016/j.jpain.2017.11.005",
+    "w": 200,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1159/000209315",
+    "w": 154,
+    "h": 16
+   },
+   {
+    "text": "Reumatologia",
+    "w": 126,
+    "h": 17
+   },
+   {
+    "text": "Interventistica del dolore",
+    "w": 206,
+    "h": 17
+   },
+   {
+    "text": "PRP per articolazioni e tendini",
+    "w": 245,
+    "h": 17
+   },
+   {
+    "text": "Laserterapia",
+    "w": 115,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 390,
+  "vw": 390,
+  "doc_height": 12873,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": [],
+  "a11y_error": "'Page' object has no attribute 'accessibility'"
+ },
+ "reumatologo-mobile": {
+  "h1": "Reumatologo a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/reumatologo/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/rheumatologe/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/rhumatologue/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/rheumatologist/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Menu",
+    "href": null,
+    "w": 96,
+    "h": 44
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   },
+   {
+    "text": "Chiama",
+    "href": "tel:+41919210427",
+    "w": 179,
+    "h": 48
+   },
+   {
+    "text": "Prenota",
+    "href": "/prenota/",
+    "w": 179,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "Ecografia muscolo-scheletrica",
+    "w": 289,
+    "h": 21
+   },
+   {
+    "text": "Terapia interventistica del dolore",
+    "w": 306,
+    "h": 21
+   },
+   {
+    "text": "Infiltrazioni con acido ialuronico",
+    "w": 299,
+    "h": 21
+   },
+   {
+    "text": "Infiltrazioni con PRP",
+    "w": 198,
+    "h": 21
+   },
+   {
+    "text": "Medicina manuale",
+    "w": 181,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia",
+    "w": 133,
+    "h": 21
+   },
+   {
+    "text": "Agopuntura e MTC",
+    "w": 186,
+    "h": 21
+   },
+   {
+    "text": "doi:10.1136/ard-2022-223356",
+    "w": 194,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/ard-2022-223296",
+    "w": 194,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/ard-2023-224762",
+    "w": 194,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1002/acr.24131",
+    "w": 143,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1001/jama.2022.5921",
+    "w": 185,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/annrheumdis-2016-210289",
+    "w": 257,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1038/s41572-020-00234-1",
+    "w": 219,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/annrheumdis-2016-209724",
+    "w": 257,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1136/annrheumdis-2016-209707",
+    "w": 257,
+    "h": 16
+   },
+   {
+    "text": "Agopuntura",
+    "w": 110,
+    "h": 17
+   },
+   {
+    "text": "Interventistica del dolore",
+    "w": 206,
+    "h": 17
+   },
+   {
+    "text": "PRP per articolazioni e tendini",
+    "w": 245,
+    "h": 17
+   },
+   {
+    "text": "Laserterapia",
+    "w": 115,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   }
+  ],
+  "doc_width": 390,
+  "vw": 390,
+  "doc_height": 11936,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": [],
+  "a11y_error": "'Page' object has no attribute 'accessibility'"
+ },
+ "contatti-mobile": {
+  "h1": "Contatti",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/contatti/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/kontakt/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/contact/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/contact/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Menu",
+    "href": null,
+    "w": 96,
+    "h": 44
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama ora",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 48
+   },
+   {
+    "text": "Chiama",
+    "href": "tel:+41919210427",
+    "w": 179,
+    "h": 48
+   },
+   {
+    "text": "Prenota",
+    "href": "/prenota/",
+    "w": 179,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Visualizza il percorso su Google Maps",
+    "w": 259,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 390,
+  "vw": 390,
+  "doc_height": 4240,
+  "tel_links": 5,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": [],
+  "a11y_error": "'Page' object has no attribute 'accessibility'"
+ },
+ "laserterapia-mobile": {
+  "h1": "Laserterapia a Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/laserterapia/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/lasertherapie/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/lasertherapie/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/laser-therapy/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Menu",
+    "href": null,
+    "w": 96,
+    "h": 44
+   },
+   {
+    "text": "Home",
+    "href": "/",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Prenota online",
+    "href": "/prenota/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Chiama lo studio",
+    "href": "tel:+41919210427",
+    "w": 163,
+    "h": 48
+   },
+   {
+    "text": "Chiama",
+    "href": "tel:+41919210427",
+    "w": 179,
+    "h": 48
+   },
+   {
+    "text": "Prenota",
+    "href": "/prenota/",
+    "w": 179,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Home",
+    "w": 35,
+    "h": 14
+   },
+   {
+    "text": "Laserterapia locale non invasiva",
+    "w": 302,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia intra-articolare",
+    "w": 264,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia endovenosa",
+    "w": 245,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia interstiziale",
+    "w": 237,
+    "h": 21
+   },
+   {
+    "text": "Laserterapia dermatologica",
+    "w": 262,
+    "h": 21
+   },
+   {
+    "text": "Laser e PRP",
+    "w": 128,
+    "h": 21
+   },
+   {
+    "text": "doi:10.1016/S0140-6736(09)61522-1",
+    "w": 241,
+    "h": 16
+   },
+   {
+    "text": "doi:10.3934/biophy.2017.3.337",
+    "w": 198,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1089/104454702320901134",
+    "w": 226,
+    "h": 16
+   },
+   {
+    "text": "doi:10.1016/j.ejps.2024.106715",
+    "w": 203,
+    "h": 16
+   },
+   {
+    "text": "Reumatologia",
+    "w": 126,
+    "h": 17
+   },
+   {
+    "text": "Agopuntura",
+    "w": 110,
+    "h": 17
+   },
+   {
+    "text": "Interventistica del dolore",
+    "w": 206,
+    "h": 17
+   },
+   {
+    "text": "PRP per articolazioni e tendini",
+    "w": 245,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "Apri in Google Maps",
+    "w": 139,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Privacy",
+    "w": 44,
+    "h": 15
+   },
+   {
+    "text": "Note legali",
+    "w": 63,
+    "h": 15
+   }
+  ],
+  "doc_width": 390,
+  "vw": 390,
+  "doc_height": 9331,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": [],
+  "a11y_error": "'Page' object has no attribute 'accessibility'"
+ },
+ "de-home-mobile": {
+  "h1": "Schmerztherapie, Akupunktur und Lasertherapie in Lugano",
+  "h1_in_fold": true,
+  "fold_ctas": [
+   {
+    "text": "+41 91 921 04 27",
+    "href": "tel:+41919210427",
+    "w": 128,
+    "h": 44
+   },
+   {
+    "text": "IT",
+    "href": "/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "DE",
+    "href": "/de/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "FR",
+    "href": "/fr/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "EN",
+    "href": "/en/",
+    "w": 36,
+    "h": 44
+   },
+   {
+    "text": "",
+    "href": "/de/",
+    "w": 100,
+    "h": 46
+   },
+   {
+    "text": "Menü",
+    "href": null,
+    "w": 96,
+    "h": 44
+   },
+   {
+    "text": "Online buchen",
+    "href": "/de/termin/",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Praxis anrufen",
+    "href": "tel:+41919210427",
+    "w": 148,
+    "h": 48
+   },
+   {
+    "text": "Anrufen",
+    "href": "tel:+41919210427",
+    "w": 179,
+    "h": 48
+   },
+   {
+    "text": "Termin",
+    "href": "/de/termin/",
+    "w": 179,
+    "h": 48
+   }
+  ],
+  "small_tap_targets": [
+   {
+    "text": "Akupunktur in Lugano →",
+    "w": 161,
+    "h": 16
+   },
+   {
+    "text": "Rheumatologie in Lugano →",
+    "w": 185,
+    "h": 16
+   },
+   {
+    "text": "Schmerztherapie →",
+    "w": 130,
+    "h": 16
+   },
+   {
+    "text": "Alle Behandlungen ↓",
+    "w": 134,
+    "h": 20
+   },
+   {
+    "text": "Akupunktur und TCM",
+    "w": 207,
+    "h": 21
+   },
+   {
+    "text": "Invasive Lasertherapie",
+    "w": 220,
+    "h": 21
+   },
+   {
+    "text": "Muskuloskelettaler Ultraschall",
+    "w": 286,
+    "h": 21
+   },
+   {
+    "text": "Manuelle Medizin",
+    "w": 175,
+    "h": 21
+   },
+   {
+    "text": "Nicht invasive Laserakupunktur",
+    "w": 297,
+    "h": 21
+   },
+   {
+    "text": "Arztpraxis Sternen",
+    "w": 127,
+    "h": 17
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 145,
+    "h": 17
+   },
+   {
+    "text": "Akupunktur",
+    "w": 92,
+    "h": 19
+   },
+   {
+    "text": "Lasertherapie",
+    "w": 108,
+    "h": 19
+   },
+   {
+    "text": "Regenerative Medizin",
+    "w": 169,
+    "h": 19
+   },
+   {
+    "text": "Rheumatologie",
+    "w": 119,
+    "h": 19
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 113,
+    "h": 16
+   },
+   {
+    "text": "+41 78 605 33 72",
+    "w": 115,
+    "h": 16
+   },
+   {
+    "text": "dr.djordjevic@hin.ch",
+    "w": 136,
+    "h": 16
+   },
+   {
+    "text": "In Google Maps öffnen",
+    "w": 155,
+    "h": 17
+   },
+   {
+    "text": "+41 91 921 04 27",
+    "w": 102,
+    "h": 15
+   },
+   {
+    "text": "WhatsApp +41 78 605 33 72",
+    "w": 169,
+    "h": 15
+   },
+   {
+    "text": "Instagram",
+    "w": 60,
+    "h": 15
+   },
+   {
+    "text": "Datenschutz",
+    "w": 76,
+    "h": 15
+   },
+   {
+    "text": "Rechtliche Hinweise",
+    "w": 122,
+    "h": 15
+   }
+  ],
+  "doc_width": 390,
+  "vw": 390,
+  "doc_height": 9133,
+  "tel_links": 6,
+  "base_font": "16px",
+  "console_errors": [],
+  "third_party_requests": [],
+  "a11y_error": "'Page' object has no attribute 'accessibility'"
+ }
+}

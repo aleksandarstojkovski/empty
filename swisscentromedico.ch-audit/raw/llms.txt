@@ -1,0 +1,123 @@
+# Swiss Centro Medico
+
+> Medical practice in Lugano, Switzerland: rheumatology, pain therapy, acupuncture, laser therapy and regenerative medicine, by one physician.
+
+- Site: https://swisscentromedico.ch/
+- Address: Via Alessandro Volta 1, 6900 Lugano
+- Phone (calls): +41 91 921 04 27
+- WhatsApp (messages): +41 78 605 33 72
+- Email: dr.djordjevic@hin.ch
+- Hours: Monday and Wednesday 08:00–16:30; Friday 08:00–13:30
+- Languages on this site: Italian (default), German (/de/), French (/fr/), English (/en/)
+
+Physician: Dott. med. univ. Zeljko Djordjevic, Specialist in Physical Medicine and Rehabilitation FMH.
+
+## Pages in Italian
+
+- [Terapia del Dolore e Agopuntura Lugano](https://swisscentromedico.ch/): Studio a Lugano per terapia del dolore, agopuntura, laserterapia e medicina rigenerativa. Trattamenti personalizzati dopo visita specialistica.
+- [Laserterapia a Lugano](https://swisscentromedico.ch/laserterapia/): Laserterapia e agopuntura a Lugano, Svizzera italiana: benefici per articolazioni, muscoli, reumatologia, riabilitazione e disturbi cronici.
+- [Medicina Rigenerativa a Lugano](https://swisscentromedico.ch/medicina-rigenerativa/): Medicina rigenerativa e anti-invecchiamento a Lugano: trattamenti che mirano a rigenerare tessuti e organi danneggiati stimolando i processi naturali.
+- [Agopuntura a Lugano](https://swisscentromedico.ch/agopuntura/): Agopuntura a Lugano: classica con aghi o laser, auricolare RAC e laser locale sui punti, nello studio di Via Alessandro Volta 1.
+- [Laser dermatologica a Lugano](https://swisscentromedico.ch/laserterapia-dermatologica/): Laserterapia dermatologica a Lugano per eczema, psoriasi, acne e lesioni cutanee, anche con tecnica interstiziale a penetrazione profonda.
+- [Terapia fotodinamica con laser Lugano](https://swisscentromedico.ch/terapia-fotodinamica/): Terapia fotodinamica antimicrobica (aPDT) a Lugano: il fotosensibilizzatore viene attivato con laser su patogeni batterici, virali e parassitari.
+- [Agopuntura laser senza aghi a Lugano](https://swisscentromedico.ch/laserterapia-locale-non-invasiva-e-lagopuntura/): Laserterapia locale a Lugano: laser blu, verdi, rossi e infrarossi per stimolare fino a dodici punti di agopuntura, senza aghi.
+- [Agopuntura classica del corpo a Lugano](https://swisscentromedico.ch/agopuntura-classica-del-corpo-con-aghi-o-laser/): Agopuntura classica del corpo a Lugano: stimolazione dei punti lungo i meridiani, con aghi oppure con laser a bassa intensità.
+- [PRP e laser cutaneo a Lugano](https://swisscentromedico.ch/laserterapia-in-combinazione-con-plasma-ricco-di-piastrine-prp-e-laser-per-il-ringiovanimento-cutaneo/): PRP e laser per il ringiovanimento cutaneo a Lugano: il trattamento laser segue l'iniezione di plasma e ne potenzia l'effetto rigenerativo.
+- [PBM ed esosomi a Lugano](https://swisscentromedico.ch/terapie-rigenerative-avanzate-con-pbm-ed-esosomi-stimolare-la-rigenerazione-cellulare/): Medicina rigenerativa con esosomi e fotobiomodulazione (PBM) a Lugano: terapie rigenerative per tessuti, pelle e articolazioni, dopo visita specialistica.
+- [PRP per articolazioni e tendini Lugano](https://swisscentromedico.ch/il-plasma-ricco-di-piastrine-o-trombociti-prp/): PRP a Lugano per articolazioni, tendini e cartilagine: plasma ricco di piastrine preparato dal sangue del paziente e iniettato dopo visita specialistica.
+- [Laser intra-articolare a Lugano](https://swisscentromedico.ch/laserterapia-intra-articolare/): Laserterapia intra-articolare a Lugano per articolazioni danneggiate, con applicazione della luce laser tramite catetere.
+- [Laser endovenoso a Lugano](https://swisscentromedico.ch/laserterapia-endovenosa/): Laserterapia endovenosa a Lugano: la luce laser viene applicata nel sangue con un catetere, per agire direttamente nel flusso sanguigno.
+- [Agopuntura RAC a Lugano](https://swisscentromedico.ch/agopuntura-auricolare-rac/): Agopuntura auricolare RAC a Lugano come supporto per dolore alla schiena, emicrania, ansia, disturbi del sonno e dipendenze.
+- [Privacy](https://swisscentromedico.ch/privacy/): Come lo studio di Lugano tratta i dati personali: titolare, prenotazioni OneDoc, email HIN, mappa Google e cookie tecnici. Legge nLPD.
+- [Note legali](https://swisscentromedico.ch/note-legali/): Chi pubblica swisscentromedico.ch a Lugano: il medico, l'indirizzo in Via Alessandro Volta 1, i limiti dei testi e il rinvio alla pagina Privacy.
+- [Reumatologo a Lugano](https://swisscentromedico.ch/reumatologo/): Reumatologo a Lugano: visita in Via Alessandro Volta 1. Specialista FMH in medicina fisica e riabilitazione, sonografia SGUM e terapia del dolore.
+- [Contatti](https://swisscentromedico.ch/contatti/): Contatti dello studio a Lugano: telefono, email HIN, Via Alessandro Volta 1, orari e mappa. Prenota su OneDoc o chiama il numero dello studio.
+- [Interventistica del dolore Lugano](https://swisscentromedico.ch/terapia-interventistica-del-dolore/): Terapia interventistica del dolore a Lugano: infiltrazioni articolari e spinali sotto guida ecografica, con qualifica SSIPM, dopo visita specialistica.
+- [Medicina manuale a Lugano](https://swisscentromedico.ch/medicina-manuale/): Medicina manuale a Lugano: esame e trattamento con le mani di blocchi articolari, contratture e punti trigger, con qualifica SAMM, in visita specialistica.
+- [Ecografia muscolo-scheletrica a Lugano](https://swisscentromedico.ch/ecografia-muscolo-scheletrica/): Ecografia muscolo-scheletrica a Lugano: valutazione di articolazioni, tendini e tessuti molli in visita, con qualifica SGUM, e guida alle infiltrazioni.
+- [Acido ialuronico articolare a Lugano](https://swisscentromedico.ch/infiltrazioni-acido-ialuronico/): Infiltrazioni di acido ialuronico a Lugano per le articolazioni, spesso affiancate al PRP. Indicazione e tecnica si definiscono in visita specialistica.
+- [Agopuntura addominale a Lugano](https://swisscentromedico.ch/agopuntura-addominale/): Agopuntura addominale a Lugano: aghi sottili sull'addome, metodo Bo Zhiyun. Attestato di 1° livello dell'Istituto Paracelso di Roma.
+- [Laserterapia interstiziale a Lugano](https://swisscentromedico.ch/laserterapia-interstiziale/): Laserterapia interstiziale a Lugano: catetere sterile che porta la luce fino a circa 12 cm di profondità nei disturbi cronici profondi, dopo visita.
+
+## Pages in German (/de/)
+
+- [Schmerztherapie und Akupunktur Lugano](https://swisscentromedico.ch/de/): Praxis in Lugano für Schmerztherapie, Akupunktur, Lasertherapie und regenerative Medizin. Behandlungen nach fachärztlicher Untersuchung.
+- [Lasertherapie in Lugano](https://swisscentromedico.ch/de/lasertherapie/): Lasertherapie und Akupunktur in Lugano, italienische Schweiz: Nutzen für Gelenke, Muskeln, Rheumatologie, Rehabilitation und chronische Beschwerden.
+- [Regenerative Medizin Lugano](https://swisscentromedico.ch/de/regenerative-medizin/): Regenerative Medizin und Anti-Ageing in Lugano: Behandlungen, die geschädigte Gewebe und Organe regenerieren und natürliche Körperprozesse anregen.
+- [Akupunktur in Lugano](https://swisscentromedico.ch/de/akupunktur/): Akupunktur in Lugano: klassisch mit Nadeln oder Laser, Ohrakupunktur RAC und lokale Laserpunkte, in der Praxis Via Alessandro Volta 1.
+- [Dermatologische Lasertherapie Lugano](https://swisscentromedico.ch/de/dermatologische-lasertherapie/): Dermatologische Lasertherapie in Lugano bei Ekzem, Psoriasis, Akne und Hautläsionen, auch mit interstitieller Technik und tiefer Penetration.
+- [Photodynamische Lasertherapie Lugano](https://swisscentromedico.ch/de/photodynamische-therapie/): Antimikrobielle photodynamische Therapie (aPDT) in Lugano: der Photosensibilisator wird mit Laser auf bakterielle, virale und parasitäre Erreger aktiviert.
+- [Laserakupunktur ohne Nadeln in Lugano](https://swisscentromedico.ch/de/lokale-lasertherapie-und-akupunktur/): Lokale Lasertherapie in Lugano: blaue, grüne, rote und Infrarotlaser zur Stimulation von bis zu zwölf Akupunkturpunkten, ohne Nadeln.
+- [Klassische Körperakupunktur in Lugano](https://swisscentromedico.ch/de/klassische-korperakupunktur/): Klassische Körperakupunktur in Lugano: Stimulation der Punkte entlang der Meridiane, mit Nadeln oder mit Low-Level-Laser.
+- [PRP und Laser in Lugano](https://swisscentromedico.ch/de/prp-und-laser-hautverjuengung/): PRP und Laser zur Hautverjüngung in Lugano: die Laserbehandlung folgt der Plasmainjektion und verstärkt deren regenerative Wirkung.
+- [PBM und Exosomen in Lugano](https://swisscentromedico.ch/de/pbm-und-exosomen/): Regenerative Medizin mit Exosomen und Photobiomodulation (PBM) in Lugano: regenerative Therapien zur Anregung der Gewebereparatur, für Haut und Gelenke.
+- [PRP für Gelenke und Sehnen Lugano](https://swisscentromedico.ch/de/thrombozytenreiches-plasma-prp/): PRP in Lugano für Gelenke, Sehnen und Knorpel: thrombozytenreiches Plasma aus dem Blut des Patienten, injiziert nach fachärztlicher Konsultation.
+- [Intraartikuläre Lasertherapie Lugano](https://swisscentromedico.ch/de/intraartikulare-lasertherapie/): Intraartikuläre Lasertherapie in Lugano bei geschädigten Gelenken, mit Laserlicht über einen Katheter. Individuell, nach fachärztlicher Untersuchung.
+- [Intravenöse Lasertherapie Lugano](https://swisscentromedico.ch/de/intravenose-lasertherapie/): Intravenöse Lasertherapie in Lugano: das Laserlicht wird mit einem Katheter ins Blut angewendet, um direkt im Blutkreislauf zu wirken.
+- [Ohrakupunktur RAC in Lugano](https://swisscentromedico.ch/de/ohrakupunktur-rac/): Ohrakupunktur RAC in Lugano als Unterstützung bei Rückenschmerzen, Migräne, Angst, Schlafstörungen und Abhängigkeiten. Nach fachärztlicher Untersuchung.
+- [Datenschutz](https://swisscentromedico.ch/de/datenschutz/): Wie die Praxis in Lugano Personendaten behandelt: Inhaber, OneDoc-Termine, HIN-E-Mail, Google-Karte und technische Cookies. Gesetz nLPD.
+- [Rechtliche Hinweise](https://swisscentromedico.ch/de/rechtliche-hinweise/): Wer swisscentromedico.ch in Lugano herausgibt: der Arzt, die Adresse Via Alessandro Volta 1, die Grenzen der Texte und der Hinweis zum Datenschutz.
+- [Rheumatologe in Lugano](https://swisscentromedico.ch/de/rheumatologe/): Rheumatologe in Lugano: Sprechstunde in der Via Alessandro Volta 1. FMH Physikalische Medizin und Rehabilitation, Sonographie SGUM und Schmerztherapie.
+- [Kontakt](https://swisscentromedico.ch/de/kontakt/): Kontakt der Praxis in Lugano: Telefon, HIN-E-Mail, Via Alessandro Volta 1, Zeiten und Karte. Termin über OneDoc oder Anruf in der Praxis.
+- [Schmerztherapie SSIPM in Lugano](https://swisscentromedico.ch/de/interventionelle-schmerztherapie/): Interventionelle Schmerztherapie in Lugano: Gelenk- und spinale Infiltrationen unter Ultraschall, mit SSIPM, nach der Konsultation.
+- [Manuelle Medizin in Lugano](https://swisscentromedico.ch/de/manuelle-medizin/): Manuelle Medizin in Lugano: Behandlung mit den Händen bei Gelenkblockierungen, Verspannungen und Triggerpunkten, mit SAMM-Qualifikation.
+- [Muskuloskelettaler Ultraschall Lugano](https://swisscentromedico.ch/de/muskuloskelettaler-ultraschall/): Muskuloskelettaler Ultraschall in Lugano: Beurteilung von Gelenken, Sehnen und Weichteilen in der Konsultation, mit SGUM, und Führung der Infiltrationen.
+- [Hyaluronsäure ins Gelenk Lugano](https://swisscentromedico.ch/de/hyaluronsaeure-infiltrationen/): Hyaluronsäure-Infiltrationen in Lugano für Gelenke, oft zusammen mit PRP. Indikation und Technik werden in der fachärztlichen Konsultation festgelegt.
+- [Bauchakupunktur in Lugano](https://swisscentromedico.ch/de/bauchakupunktur/): Bauchakupunktur in Lugano nach Bo Zhiyun: feine Nadeln am Bauch. Kursbestätigung Stufe 1 des Istituto Paracelso in Rom, nach Konsultation.
+- [Interstitielle Lasertherapie in Lugano](https://swisscentromedico.ch/de/interstitielle-lasertherapie/): Interstitielle Lasertherapie in Lugano: steriler Katheter bis etwa 12 cm Tiefe, bei tiefliegenden chronischen Beschwerden, nach Konsultation.
+
+## Pages in French (/fr/)
+
+- [Douleur et acupuncture à Lugano](https://swisscentromedico.ch/fr/): Cabinet à Lugano pour la thérapie de la douleur, l’acupuncture, la laserthérapie et la médecine régénérative. Traitements après visite spécialisée.
+- [Laserthérapie à Lugano](https://swisscentromedico.ch/fr/lasertherapie/): Laserthérapie et acupuncture à Lugano, Suisse italienne : bénéfices pour articulations, muscles, rhumatologie, réadaptation et troubles chroniques.
+- [Médecine régénérative Lugano](https://swisscentromedico.ch/fr/medecine-regenerative/): Médecine régénérative et traitements anti-âge à Lugano : ils visent à régénérer tissus et organes endommagés en stimulant les processus naturels du corps.
+- [Acupuncture à Lugano](https://swisscentromedico.ch/fr/acupuncture/): Acupuncture à Lugano : classique avec aiguilles ou laser, auriculaire RAC et laser local sur les points, au cabinet de Via Alessandro Volta 1.
+- [Laserthérapie dermatologique Lugano](https://swisscentromedico.ch/fr/lasertherapie-dermatologique/): Laserthérapie dermatologique à Lugano pour eczéma, psoriasis, acné et lésions cutanées, aussi avec technique interstitielle à pénétration profonde.
+- [Thérapie photodynamique laser Lugano](https://swisscentromedico.ch/fr/therapie-photodynamique/): Thérapie photodynamique antimicrobienne (aPDT) à Lugano : le photosensibilisateur est activé au laser sur des pathogènes bactériens, viraux et parasitaires.
+- [Acupuncture laser sans aiguille Lugano](https://swisscentromedico.ch/fr/lasertherapie-locale-et-acupuncture/): Laserthérapie locale à Lugano : lasers bleus, verts, rouges et infrarouges pour stimuler jusqu’à douze points d’acupuncture, sans aiguilles.
+- [Acupuncture classique du corps Lugano](https://swisscentromedico.ch/fr/acupuncture-classique/): Acupuncture classique du corps à Lugano : stimulation des points le long des méridiens, avec des aiguilles ou avec un laser de basse intensité.
+- [PRP et laser à Lugano](https://swisscentromedico.ch/fr/prp-et-laser-cutane/): PRP et laser pour le rajeunissement cutané à Lugano : le traitement laser suit l’injection de plasma et en potentialise l’effet régénératif.
+- [PBM et exosomes à Lugano](https://swisscentromedico.ch/fr/pbm-et-exosomes/): Médecine régénérative avec exosomes et photobiomodulation (PBM) à Lugano : thérapies régénératives pour les tissus, la peau et les articulations.
+- [PRP articulations et tendons Lugano](https://swisscentromedico.ch/fr/plasma-riche-en-plaquettes-prp/): PRP à Lugano pour articulations, tendons et cartilage : plasma riche en plaquettes du sang du patient, injecté après consultation spécialisée.
+- [Laserthérapie intra-articulaire Lugano](https://swisscentromedico.ch/fr/lasertherapie-intra-articulaire/): Laserthérapie intra-articulaire à Lugano pour articulations endommagées, avec application de la lumière laser par cathéter.
+- [Laserthérapie intraveineuse Lugano](https://swisscentromedico.ch/fr/lasertherapie-intraveineuse/): Laserthérapie endoveineuse à Lugano : la lumière laser est appliquée dans le sang avec un cathéter, pour agir directement dans le flux sanguin.
+- [Acupuncture auriculaire RAC Lugano](https://swisscentromedico.ch/fr/acupuncture-auriculaire-rac/): Acupuncture auriculaire RAC à Lugano comme soutien pour douleur au dos, migraine, anxiété, troubles du sommeil et dépendances.
+- [Confidentialité](https://swisscentromedico.ch/fr/confidentialite/): Comment le cabinet de Lugano traite les données personnelles : responsable, réservations OneDoc, e-mail HIN, carte Google et cookies techniques. Loi nLPD.
+- [Mentions légales](https://swisscentromedico.ch/fr/mentions-legales/): Qui publie swisscentromedico.ch à Lugano : le médecin, l’adresse Via Alessandro Volta 1, les limites des textes et le renvoi à la page Confidentialité.
+- [Rhumatologue à Lugano](https://swisscentromedico.ch/fr/rhumatologue/): Rhumatologue à Lugano, Via Alessandro Volta 1 : spécialiste FMH en médecine physique et réadaptation, sonographie SGUM, thérapie de la douleur.
+- [Contact](https://swisscentromedico.ch/fr/contact/): Contact du cabinet à Lugano : téléphone, e-mail HIN, Via Alessandro Volta 1, horaires et carte. Réservez sur OneDoc ou appelez le cabinet.
+- [Thérapie interventionnelle Lugano](https://swisscentromedico.ch/fr/therapie-interventionnelle-de-la-douleur/): Thérapie interventionnelle à Lugano : infiltrations articulaires et rachidiennes sous échographie, avec qualification SSIPM, après consultation.
+- [Médecine manuelle à Lugano](https://swisscentromedico.ch/fr/medecine-manuelle/): Médecine manuelle à Lugano : traitement à la main des blocages articulaires, contractures et points trigger, avec qualification SAMM.
+- [Échographie MSK à Lugano](https://swisscentromedico.ch/fr/echographie-musculo-squelettique/): Échographie MSK à Lugano : évaluation des articulations, tendons et tissus mous en consultation, avec qualification SGUM, et guidage des infiltrations.
+- [Acide hyaluronique articulaire Lugano](https://swisscentromedico.ch/fr/infiltrations-acide-hyaluronique/): Infiltrations d'acide hyaluronique à Lugano pour les articulations, souvent avec le PRP. Indication définie en consultation.
+- [Acupuncture abdominale à Lugano](https://swisscentromedico.ch/fr/acupuncture-abdominale/): Acupuncture abdominale à Lugano, méthode Bo Zhiyun : aiguilles fines sur l'abdomen. Attestation de niveau 1 de l'Istituto Paracelso.
+- [Laserthérapie interstitielle à Lugano](https://swisscentromedico.ch/fr/lasertherapie-interstitielle/): Laserthérapie interstitielle à Lugano : cathéter stérile jusqu'à environ 12 cm de profondeur, après consultation spécialisée.
+
+## Pages in English (/en/)
+
+- [Pain therapy and acupuncture Lugano](https://swisscentromedico.ch/en/): Practice in Lugano for pain therapy, acupuncture, laser therapy and regenerative medicine. Personalised treatments after a specialist visit.
+- [Laser therapy in Lugano](https://swisscentromedico.ch/en/laser-therapy/): Laser therapy and acupuncture in Lugano, Italian-speaking Switzerland: benefits for joints, muscles, rheumatology, rehabilitation and chronic disorders.
+- [Regenerative medicine Lugano](https://swisscentromedico.ch/en/regenerative-medicine/): Regenerative medicine and anti-ageing treatments in Lugano: they aim to regenerate damaged tissues and organs by stimulating the body’s natural processes.
+- [Acupuncture in Lugano](https://swisscentromedico.ch/en/acupuncture/): Acupuncture in Lugano: classical with needles or laser, ear RAC and local laser on the points, at the Via Alessandro Volta 1 practice.
+- [Dermatological laser therapy Lugano](https://swisscentromedico.ch/en/dermatological-laser-therapy/): Dermatological laser therapy in Lugano for eczema, psoriasis, acne and skin lesions, also with interstitial technique and deep penetration.
+- [Photodynamic laser therapy in Lugano](https://swisscentromedico.ch/en/photodynamic-therapy/): Antimicrobial photodynamic therapy (aPDT) in Lugano: the photosensitiser is activated with laser on bacterial, viral and parasitic pathogens.
+- [Needle-free laser acupuncture Lugano](https://swisscentromedico.ch/en/local-laser-therapy-and-acupuncture/): Local laser therapy in Lugano: blue, green, red and infrared lasers to stimulate up to twelve acupuncture points, without needles.
+- [Classical body acupuncture in Lugano](https://swisscentromedico.ch/en/classical-body-acupuncture/): Classical body acupuncture in Lugano: stimulation of the points along the meridians, with needles or with low-intensity laser.
+- [PRP and skin laser in Lugano](https://swisscentromedico.ch/en/prp-and-skin-laser/): PRP and laser for skin rejuvenation in Lugano: the laser treatment follows the plasma injection and potentiates its regenerative effect.
+- [PBM and exosomes in Lugano](https://swisscentromedico.ch/en/pbm-and-exosomes/): Regenerative medicine with exosomes and photobiomodulation (PBM) in Lugano: regenerative therapies to stimulate tissue repair, skin and joints.
+- [PRP for joints and tendons in Lugano](https://swisscentromedico.ch/en/platelet-rich-plasma-prp/): PRP in Lugano for joints, tendons and cartilage: platelet-rich plasma prepared from the patient's own blood and injected after a specialist visit.
+- [Intra-articular laser therapy Lugano](https://swisscentromedico.ch/en/intra-articular-laser-therapy/): Intra-articular laser therapy in Lugano for damaged joints, with application of laser light through a catheter. Personalised, after a specialist visit.
+- [Intravenous laser therapy Lugano](https://swisscentromedico.ch/en/intravenous-laser-therapy/): Intravenous laser therapy in Lugano: laser light is applied in the blood with a catheter, to act directly in the bloodstream.
+- [Ear acupuncture RAC in Lugano](https://swisscentromedico.ch/en/ear-acupuncture-rac/): Ear acupuncture RAC in Lugano as support for back pain, migraine, anxiety, sleep disorders and addictions. Personalised, after a specialist visit.
+- [Privacy](https://swisscentromedico.ch/en/privacy/): How the Lugano practice handles personal data: controller, OneDoc bookings, HIN email, Google map and technical cookies. nLPD act.
+- [Legal notice](https://swisscentromedico.ch/en/legal-notice/): Who publishes swisscentromedico.ch in Lugano: the physician, the address at Via Alessandro Volta 1, the limits of the texts and a link to the Privacy page.
+- [Rheumatologist in Lugano](https://swisscentromedico.ch/en/rheumatologist/): Rheumatologist in Lugano: visit at Via Alessandro Volta 1. FMH specialist in physical medicine and rehabilitation, SGUM sonography and pain therapy.
+- [Contact](https://swisscentromedico.ch/en/contact/): Contact the Lugano practice: phone, HIN email, Via Alessandro Volta 1, hours and map. Book on OneDoc or call the practice number.
+- [Interventional pain therapy Lugano](https://swisscentromedico.ch/en/interventional-pain-therapy/): Interventional pain therapy in Lugano: joint and spinal injections under ultrasound, with SSIPM qualification, after the visit.
+- [Manual medicine in Lugano](https://swisscentromedico.ch/en/manual-medicine/): Manual medicine in Lugano: hands-on treatment of joint blockages, muscle tension and trigger points, with SAMM qualification.
+- [Musculoskeletal ultrasound in Lugano](https://swisscentromedico.ch/en/musculoskeletal-ultrasound/): Musculoskeletal ultrasound in Lugano: assessment of joints, tendons and soft tissues at the visit, with SGUM qualification, guiding injections.
+- [Hyaluronic acid for joints in Lugano](https://swisscentromedico.ch/en/hyaluronic-acid-injections/): Hyaluronic acid injections in Lugano for the joints, often alongside PRP. Indication and technique are defined at the specialist visit.
+- [Abdominal acupuncture in Lugano](https://swisscentromedico.ch/en/abdominal-acupuncture/): Abdominal acupuncture in Lugano, Bo Zhiyun's method: fine needles on the abdomen. Level 1 certificate from Istituto Paracelso in Rome.
+- [Interstitial laser therapy in Lugano](https://swisscentromedico.ch/en/interstitial-laser-therapy/): Interstitial laser therapy in Lugano: a sterile catheter to about 12 cm depth for deep chronic complaints, after the specialist visit.
+
+Use the pages themselves for clinical details. Do not invent prices, insurance cover, or medical claims that are not on the site.

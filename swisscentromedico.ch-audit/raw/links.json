@@ -1,0 +1,905 @@
+{
+ "https://swisscentromedico.ch/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7752",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/agopuntura-addominale/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8165",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/agopuntura-auricolare-rac/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8235",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/agopuntura-classica-del-corpo-con-aghi-o-laser/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8430",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/agopuntura/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "10161",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/contatti/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6276",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/css/scm.css?v=13": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/css",
+  "content_length": "6100",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/de/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7884",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/akupunktur/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "10557",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/bauchakupunktur/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8351",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/datenschutz/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6812",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/dermatologische-lasertherapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7915",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/hyaluronsaeure-infiltrationen/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8394",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/interstitielle-lasertherapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8047",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/interventionelle-schmerztherapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7742",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/intraartikulare-lasertherapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7957",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/intravenose-lasertherapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8215",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/klassische-korperakupunktur/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8697",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/kontakt/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6365",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/lasertherapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9176",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/lokale-lasertherapie-und-akupunktur/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8192",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/manuelle-medizin/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7981",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/muskuloskelettaler-ultraschall/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7583",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/ohrakupunktur-rac/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8469",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/pbm-und-exosomen/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9110",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/photodynamische-therapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8944",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/prp-und-laser-hautverjuengung/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8352",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/rechtliche-hinweise/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "5819",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/regenerative-medizin/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9153",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/rheumatologe/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "10243",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/de/termin/": {
+  "status": 302,
+  "location": "https://www.onedoc.ch/de/akupunkteur/lugano/pc0jl/dr-med-zeljko-djordjevic",
+  "content_type": "text/html; charset=iso-8859-1",
+  "content_length": null,
+  "cache_control": null
+ },
+ "https://swisscentromedico.ch/de/thrombozytenreiches-plasma-prp/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8667",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/ecografia-muscolo-scheletrica/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7403",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7494",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/abdominal-acupuncture/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7826",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/acupuncture/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9747",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/book/": {
+  "status": 302,
+  "location": "https://www.onedoc.ch/en/acupuncturist/lugano/pc0jl/dr-med-zeljko-djordjevic",
+  "content_type": "text/html; charset=iso-8859-1",
+  "content_length": null,
+  "cache_control": null
+ },
+ "https://swisscentromedico.ch/en/classical-body-acupuncture/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8095",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/contact/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6069",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/dermatological-laser-therapy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7431",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/ear-acupuncture-rac/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7911",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/hyaluronic-acid-injections/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7794",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/interstitial-laser-therapy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7586",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/interventional-pain-therapy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7274",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/intra-articular-laser-therapy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7503",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/intravenous-laser-therapy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7729",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/laser-therapy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8499",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/legal-notice/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "5519",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/local-laser-therapy-and-acupuncture/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7636",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/manual-medicine/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7541",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/musculoskeletal-ultrasound/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7121",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/pbm-and-exosomes/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8475",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/photodynamic-therapy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8368",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/platelet-rich-plasma-prp/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8064",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/privacy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6312",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/prp-and-skin-laser/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7799",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/regenerative-medicine/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8484",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/en/rheumatologist/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9584",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7867",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/acupuncture-abdominale/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8288",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/acupuncture-auriculaire-rac/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8366",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/acupuncture-classique/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8601",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/acupuncture/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "10443",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/confidentialite/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6804",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/contact/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6353",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/echographie-musculo-squelettique/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7582",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/infiltrations-acide-hyaluronique/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8317",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/lasertherapie-dermatologique/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7917",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/lasertherapie-interstitielle/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8003",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/lasertherapie-intra-articulaire/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7922",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/lasertherapie-intraveineuse/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8174",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/lasertherapie-locale-et-acupuncture/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8170",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/lasertherapie/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9149",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/medecine-manuelle/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7969",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/medecine-regenerative/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9185",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/mentions-legales/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "5836",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/pbm-et-exosomes/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "9071",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/plasma-riche-en-plaquettes-prp/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8640",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/prp-et-laser-cutane/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8367",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/rendez-vous/": {
+  "status": 302,
+  "location": "https://www.onedoc.ch/fr/acupuncteur/lugano/pc0jl/dr-med-zeljko-djordjevic",
+  "content_type": "text/html; charset=iso-8859-1",
+  "content_length": null,
+  "cache_control": null
+ },
+ "https://swisscentromedico.ch/fr/rhumatologue/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "10249",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/therapie-interventionnelle-de-la-douleur/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7722",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/fr/therapie-photodynamique/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8918",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/il-plasma-ricco-di-piastrine-o-trombociti-prp/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8501",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/infiltrazioni-acido-ialuronico/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8121",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/laserterapia-dermatologica/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7785",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/laserterapia-endovenosa/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8001",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/laserterapia-in-combinazione-con-plasma-ricco-di-piastrine-prp-e-laser-per-il-ringiovanimento-cutaneo/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8170",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/laserterapia-interstiziale/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7809",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/laserterapia-intra-articolare/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7806",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/laserterapia-locale-non-invasiva-e-lagopuntura/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7966",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/laserterapia/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8953",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/medicina-manuale/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7751",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/medicina-rigenerativa/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8969",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/note-legali/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "5695",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/prenota/": {
+  "status": 302,
+  "location": "https://www.onedoc.ch/it/agopuntore/lugano/pc0jl/dr-med-zeljko-djordjevic",
+  "content_type": "text/html; charset=iso-8859-1",
+  "content_length": null,
+  "cache_control": null
+ },
+ "https://swisscentromedico.ch/privacy/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "6608",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/reumatologo/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "10009",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/terapia-fotodinamica/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8756",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/terapia-interventistica-del-dolore/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "7534",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/terapie-rigenerative-avanzate-con-pbm-ed-esosomi-stimolare-la-rigenerazione-cellulare/": {
+  "status": 200,
+  "location": null,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": "8861",
+  "cache_control": "public, max-age=3600, stale-while-revalidate=86400"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/Dr.-med.-univ.-Zeljko-Djordjevic-768x694.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "51811",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/RME_Logo_it_Certificatione-300x73.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "4305",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/Zeljko-2-768x694.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "59943",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/akupunktur.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "5605",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/fotoattivazione.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "71035",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/intra-articolare-1.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "277251",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/intravenous-laser-therapy.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "292866",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/isla_logo.gif": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/gif",
+  "content_length": "5316",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/medicina-manuale.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "5707",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/scan.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "5226",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/scm-logo-header-black-300x138.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "9694",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/terapia-del-dolore.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "4535",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/ultrasound.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "4513",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/01/weber-michael-dr-logo-5.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "6326",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/02/exosome.png": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/png",
+  "content_length": "61428",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/agopuntura-addome.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "76821",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/agopuntura-inserimento.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "78928",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/agopuntura-orecchio.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "117895",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/ecografia-schermo.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "102393",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/laser-mano.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "77213",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/laser-needle-ginocchio.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "75111",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/medicina-manuale-trattamento.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "107666",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/prp-prelievo.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "89914",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/prp-siringa-2.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "88623",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/reumatologo-collo.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "125422",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/reumatologo-esame.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "116766",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/uploads/2026/09/rigenerativa-spalla.jpg": {
+  "status": 200,
+  "location": null,
+  "content_type": "image/jpeg",
+  "content_length": "116527",
+  "cache_control": "public, max-age=31536000, immutable"
+ },
+ "https://swisscentromedico.ch/whatsapp/": {
+  "status": 302,
+  "location": "https://wa.me/41786053372",
+  "content_type": "text/html; charset=iso-8859-1",
+  "content_length": null,
+  "cache_control": null
+ }
+}

@@ -1,0 +1,4 @@
+# Bulky, reproducible audit inputs (re-run raw/crawl.py and raw/capture.py to regenerate)
+raw/pages/
+raw/lighthouse/*.json
+screenshots/*-full.png

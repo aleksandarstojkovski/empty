@@ -1,0 +1,307 @@
+- link "Salta al contenuto":
+  - /url: "#main"
+- banner:
+  - link "+41 91 921 04 27":
+    - /url: tel:+41919210427
+  - navigation "Lingua":
+    - link "IT":
+      - /url: /
+    - link "DE":
+      - /url: /de/
+    - link "FR":
+      - /url: /fr/
+    - link "EN":
+      - /url: /en/
+  - link "Swiss Centro Medico":
+    - /url: /
+    - img "Swiss Centro Medico"
+  - button "Menu"
+- main:
+  - paragraph: Studio medico · Lugano
+  - heading "Terapia del Dolore, Agopuntura e Laserterapia a Lugano" [level=1]
+  - paragraph: "Swiss Centro Medico è lo studio del Dott. Zeljko Djordjevic a Lugano: trattamenti personalizzati per il dolore cronico con reumatologia, laserterapia, agopuntura e medicina rigenerativa. Ogni percorso nasce da una valutazione specialistica approfondita."
+  - link "Prenota online":
+    - /url: /prenota/
+  - link "Chiama lo studio":
+    - /url: tel:+41919210427
+  - img "Certificazione RME"
+  - paragraph:
+    - text: Certificati
+    - strong: RME
+    - text: ": a determinate condizioni i trattamenti sono rimborsabili dalle assicurazioni complementari. Per l'agopuntura riconosciuto anche da"
+    - strong: Visana
+    - text: ", con rimborso secondo la complementare del paziente."
+  - img "Dott. Zeljko Djordjevic nel suo studio a Lugano"
+  - paragraph: Dott. med. univ. Zeljko Djordjevic
+  - paragraph: Specialista in Medicina fisica e riabilitazione FMH · Medicina manuale · Agopuntura MTC
+  - region "Studio medico · Lugano":
+    - list:
+      - listitem:
+        - paragraph:
+          - strong: FMH
+          - text: Medicina fisica e riabilitazione
+      - listitem:
+        - paragraph:
+          - strong: 20 anni
+          - text: di pratica clinica dal 2006
+      - listitem:
+        - paragraph:
+          - strong: 5 lingue
+          - text: italiano, tedesco, inglese, serbo, sloveno
+      - listitem:
+        - paragraph:
+          - strong: Via Volta 1
+          - text: accanto a USI e Ospedale EOC
+  - region "Aree di specializzazione":
+    - heading "Aree di specializzazione" [level=2]
+    - heading "01 · Agopuntura" [level=3]
+    - paragraph: Agopuntura eseguita da medico specialista, con diagnosi occidentale e valutazione secondo la medicina tradizionale cinese.
+    - list:
+      - listitem: Dolore cronico, cefalee, disturbi articolari e funzionali
+      - listitem: Agopuntura classica, addominale, auricolare RAC e laser
+      - listitem: Qualifica in agopuntura e farmacoterapia cinese (ASA)
+      - listitem: Aghi sterili monouso, o laserneedle senza puntura
+    - paragraph:
+      - link "Agopuntura a Lugano →":
+        - /url: /agopuntura/
+    - heading "02 · Reumatologia" [level=3]
+    - paragraph: Diagnosi e cura delle malattie che colpiscono colonna vertebrale, muscoli, articolazioni e ossa.
+    - list:
+      - listitem: Malattie infiammatorie articolari e spinali
+      - listitem: Malattie degenerative come l'osteoartrite
+      - listitem: Ernia del disco, scoliosi, colpo di frusta
+      - listitem: Riabilitazione post-operatoria e secondi pareri
+    - paragraph:
+      - link "Reumatologia a Lugano →":
+        - /url: /reumatologo/
+    - heading "03 · Terapia del dolore" [level=3]
+    - paragraph: Diagnosi e trattamento interventistico del dolore.
+    - list:
+      - listitem: Puntura e infiltrazione di tessuti molli e articolazioni
+      - listitem: Infiltrazione spinale per ernie e stenosi
+      - listitem: Guida ecografica muscolo-scheletrica
+      - listitem: Insieme a medicina manuale e percorso reumatologico, quando serve
+    - paragraph:
+      - link "Terapia del dolore →":
+        - /url: /terapia-interventistica-del-dolore/
+  - region "Trattamenti":
+    - heading "Trattamenti" [level=2]
+    - link "Tutti i trattamenti ↓":
+      - /url: "#home-index"
+    - img "Agopuntura"
+    - heading "Agopuntura e MTC →" [level=3]:
+      - link "Agopuntura e MTC →":
+        - /url: /agopuntura/
+    - paragraph: Medicina tradizionale cinese e auricolomedicina per un'ampia gamma di disturbi, con aghi o laser.
+    - img "Diagnostica"
+    - heading "Laserterapia invasiva →" [level=3]:
+      - link "Laserterapia invasiva →":
+        - /url: /laserterapia/
+    - paragraph: Azione precisa e profonda su patologie croniche, lesioni tendinee e disturbi resistenti alle terapie conservative.
+    - img "Terapia del dolore"
+    - heading "Terapia interventistica del dolore →" [level=3]:
+      - link "Terapia interventistica del dolore →":
+        - /url: /terapia-interventistica-del-dolore/
+    - paragraph: Infiltrazioni articolari e spinali per ernie del disco e stenosi, eseguite sotto guida ecografica.
+    - img "Ecografia"
+    - heading "Ecografia muscolo-scheletrica →" [level=3]:
+      - link "Ecografia muscolo-scheletrica →":
+        - /url: /ecografia-muscolo-scheletrica/
+    - paragraph: Diagnostica per immagini in sede, con laboratorio interno e partner esterno per referti rapidi.
+    - img "Medicina manuale"
+    - heading "Medicina manuale →" [level=3]:
+      - link "Medicina manuale →":
+        - /url: /medicina-manuale/
+    - paragraph: Metodo ortopedico conservativo per i disturbi funzionali dolorosi dell'apparato muscolo-scheletrico.
+    - img "Diagnostica"
+    - heading "Agopuntura laser non invasiva →" [level=3]:
+      - link "Agopuntura laser non invasiva →":
+        - /url: /laserterapia-locale-non-invasiva-e-lagopuntura/
+    - paragraph: Indicata nell'osteoartrite avanzata e nel recupero rapido dopo intervento artroscopico.
+  - region "Dott. med. univ. Zeljko Djordjevic":
+    - img "Dott. med. univ. Zeljko Djordjevic"
+    - paragraph: Chi sono
+    - heading "Dott. med. univ. Zeljko Djordjevic" [level=2]
+    - paragraph: "Sono il Dott. med. univ. Zeljko Djordjevic, specialista in Medicina fisica e riabilitazione FMH: a Swiss Centro Medico, in Via Alessandro Volta 1 a Lugano, ricevo personalmente ogni paziente, dalla prima valutazione al follow-up, in italiano, tedesco, inglese, serbo e sloveno."
+    - paragraph:
+      - text: Ricevo anche a Zurigo Oerlikon, nell'
+      - link "Arztpraxis Sternen":
+        - /url: https://www.praxis-sternen.ch/
+      - text: .
+    - heading "Formazione" [level=3]
+    - list:
+      - listitem:
+        - strong: "2006"
+        - text: · Laurea in Medicina, Università di Vienna
+      - listitem:
+        - strong: "2013"
+        - text: · Specializzazione in Medicina fisica e riabilitazione
+      - listitem:
+        - strong: "2015"
+        - text: · Qualifica in Medicina manuale
+      - listitem:
+        - strong: "2018"
+        - text: · Agopuntura e farmacoterapia cinese
+      - listitem:
+        - strong: "2019"
+        - text: · Sonografia muscolo-scheletrica
+    - heading "Affiliazioni" [level=3]
+    - list:
+      - listitem: Società Svizzera di Medicina Fisica e Riabilitazione (SSMFR)
+      - listitem: Società Svizzera dei Medici per la Medicina Manuale (SAMM)
+      - listitem: Società Svizzera dei Medici per l'Agopuntura (SACAM)
+    - heading "Lingue" [level=3]
+    - paragraph: Italiano · Tedesco · Inglese · Serbo · Sloveno
+  - region "Prenota il primo consulto":
+    - heading "Prenota il primo consulto" [level=2]
+    - paragraph: Valutazione specialistica iniziale e proposta di percorso terapeutico personalizzato.
+    - paragraph:
+      - text: Accettiamo referti e richieste di secondo parere dal suo medico, via HIN.
+      - link "dr.djordjevic@hin.ch":
+        - /url: mailto:dr.djordjevic@hin.ch
+    - link "Prenota online":
+      - /url: /prenota/
+    - link "Chiama ora":
+      - /url: tel:+41919210427
+    - link "Scrivi una email":
+      - /url: mailto:dr.djordjevic@hin.ch
+  - region "Tutte le terapie":
+    - heading "Tutte le terapie" [level=2]
+    - heading "Agopuntura" [level=3]:
+      - link "Agopuntura":
+        - /url: /agopuntura/
+    - list:
+      - listitem:
+        - link "Agopuntura classica del corpo":
+          - /url: /agopuntura-classica-del-corpo-con-aghi-o-laser/
+      - listitem:
+        - link "Agopuntura RAC":
+          - /url: /agopuntura-auricolare-rac/
+      - listitem:
+        - link "Agopuntura addominale":
+          - /url: /agopuntura-addominale/
+      - listitem:
+        - link "Agopuntura laser senza aghi":
+          - /url: /laserterapia-locale-non-invasiva-e-lagopuntura/
+    - heading "Laserterapia" [level=3]:
+      - link "Laserterapia":
+        - /url: /laserterapia/
+    - list:
+      - listitem:
+        - link "Terapia fotodinamica con laser":
+          - /url: /terapia-fotodinamica/
+      - listitem:
+        - link "Laser dermatologica":
+          - /url: /laserterapia-dermatologica/
+      - listitem:
+        - link "Laser endovenoso":
+          - /url: /laserterapia-endovenosa/
+      - listitem:
+        - link "Laser intra-articolare":
+          - /url: /laserterapia-intra-articolare/
+      - listitem:
+        - link "Laserterapia interstiziale":
+          - /url: /laserterapia-interstiziale/
+      - listitem:
+        - link "Agopuntura laser senza aghi":
+          - /url: /laserterapia-locale-non-invasiva-e-lagopuntura/
+    - heading "Medicina rigenerativa" [level=3]:
+      - link "Medicina rigenerativa":
+        - /url: /medicina-rigenerativa/
+    - list:
+      - listitem:
+        - link "PBM ed esosomi":
+          - /url: /terapie-rigenerative-avanzate-con-pbm-ed-esosomi-stimolare-la-rigenerazione-cellulare/
+      - listitem:
+        - link "PRP per articolazioni e tendini":
+          - /url: /il-plasma-ricco-di-piastrine-o-trombociti-prp/
+      - listitem:
+        - link "PRP e laser cutaneo":
+          - /url: /laserterapia-in-combinazione-con-plasma-ricco-di-piastrine-prp-e-laser-per-il-ringiovanimento-cutaneo/
+    - heading "Reumatologia" [level=3]:
+      - link "Reumatologia":
+        - /url: /reumatologo/
+    - list:
+      - listitem:
+        - link "Interventistica del dolore":
+          - /url: /terapia-interventistica-del-dolore/
+      - listitem:
+        - link "Medicina manuale":
+          - /url: /medicina-manuale/
+      - listitem:
+        - link "Ecografia muscolo-scheletrica":
+          - /url: /ecografia-muscolo-scheletrica/
+      - listitem:
+        - link "Infiltrazioni articolari di acido ialuronico":
+          - /url: /infiltrazioni-acido-ialuronico/
+  - region "A Lugano, a due passi da USI e EOC":
+    - paragraph: Come raggiungerci
+    - heading "A Lugano, a due passi da USI e EOC" [level=2]
+    - paragraph: Lo studio è in posizione centrale nella Svizzera italiana, raggiungibile anche da Mendrisio, Bellinzona, Locarno e Chiasso, e comodamente raggiungibile dall'Italia, da Milano, Como, Varese e dalla Lombardia, in auto e in treno.
+    - paragraph: "In auto: parcheggio dello studio proprio di fronte. Con i mezzi pubblici: a due passi dall'USI."
+    - heading "Indirizzo" [level=3]
+    - paragraph: Via Alessandro Volta 1 6900 Lugano
+    - heading "Orari" [level=3]
+    - paragraph: Lunedì e mercoledì 08:00–16:30 Venerdì 08:00–13:30
+    - heading "Telefono" [level=3]
+    - paragraph:
+      - link "+41 91 921 04 27":
+        - /url: tel:+41919210427
+    - heading "WhatsApp" [level=3]
+    - paragraph:
+      - link "+41 78 605 33 72":
+        - /url: /whatsapp/
+    - heading "Email" [level=3]
+    - paragraph:
+      - link "dr.djordjevic@hin.ch":
+        - /url: mailto:dr.djordjevic@hin.ch
+    - paragraph:
+      - link "Apri in Google Maps":
+        - /url: https://www.google.com/maps/place/Swiss+centro+medico/data=!4m2!3m1!1s0x47842d15d8a53e0d:0x57ac9e5e3aa067e1
+- contentinfo:
+  - link "Certificazione RME":
+    - /url: https://emr.ch/terapeuta/zeljko.djordjevic
+    - img "Certificazione RME"
+  - img "ISLA, International Society for Medical Laser Applications"
+  - link "European Laser Clinics":
+    - /url: https://www.european-laser-clinics.com/
+    - img "European Laser Clinics"
+  - paragraph:
+    - text: Swiss Centro Medico · Via Alessandro Volta 1, 6900 Lugano
+    - link "+41 91 921 04 27":
+      - /url: tel:+41919210427
+    - text: ·
+    - link "WhatsApp +41 78 605 33 72":
+      - /url: /whatsapp/
+    - text: ·
+    - link "Instagram":
+      - /url: https://www.instagram.com/swisscentromedicolugano/
+  - navigation "Menu del piè di pagina":
+    - list:
+      - listitem:
+        - link "Agopuntura":
+          - /url: /agopuntura/
+      - listitem:
+        - link "Laserterapia":
+          - /url: /laserterapia/
+      - listitem:
+        - link "Reumatologia":
+          - /url: /reumatologo/
+      - listitem:
+        - link "Medicina rigenerativa":
+          - /url: /medicina-rigenerativa/
+      - listitem:
+        - link "Contatti":
+          - /url: /contatti/
+  - paragraph:
+    - text: © 2026 Swiss Centro Medico, Lugano ·
+    - link "Privacy":
+      - /url: /privacy/
+    - text: ·
+    - link "Note legali":
+      - /url: /note-legali/
+- navigation "Chiama / Prenota":
+  - link "Chiama":
+    - /url: tel:+41919210427
+  - link "Prenota":
+    - /url: /prenota/
