@@ -1,0 +1,240 @@
+@import "tailwindcss";
+
+@theme {
+  --default-font-family: Poppins, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --default-mono-font-family: Menlo, monospace;
+}
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-card-border: hsl(var(--card-border));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  * {
+    border-color: hsl(var(--border));
+  }
+  html {
+    scroll-behavior: smooth;
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+  }
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Poppins, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif;
+  }
+}
+
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/poppins-latin-400.woff2) format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  src: url(/fonts/poppins-latin-500.woff2) format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  src: url(/fonts/poppins-latin-600.woff2) format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/poppins-latin-700.woff2) format("woff2");
+  font-display: swap;
+}
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 222 84% 8%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 84% 8%;
+  --card-border: 199 89% 90%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 222 84% 8%;
+  --popover-border: 199 89% 85%;
+  --primary: 222 84% 15%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 199 89% 96%;
+  --secondary-foreground: 222 84% 15%;
+  --muted: 210 40% 96%;
+  --muted-foreground: 215 20% 45%;
+  --accent: 199 89% 60%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 214 32% 91%;
+  --input: 214 32% 91%;
+  --ring: 199 89% 60%;
+  --radius: 0.625rem;
+  --button-outline: #0000001a;
+  --badge-outline: #0000000d;
+  --opaque-button-border-intensity: 9;
+  --elevate-1: #0000000a;
+  --elevate-2: #00000017;
+  color-scheme: light;
+}
+
+/* Unlayered on purpose: these beat the utility layer, as on the original. */
+body {
+  font-family: Poppins, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: -0.025em;
+  font-family: Poppins, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif;
+}
+h1 {
+  font-size: clamp(2rem, 4vw, 3.25rem);
+  line-height: 1.1;
+}
+h2 {
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  line-height: 1.15;
+}
+h3 {
+  font-size: clamp(1.15rem, 2vw, 1.5rem);
+  line-height: 1.25;
+}
+
+.mas-site {
+  --mas-navy: #061946;
+  --mas-sky: #3ebaf4;
+  --mas-mist: #f3f6f8;
+  color: var(--mas-navy);
+}
+.mas-site a,
+.mas-site button {
+  -webkit-tap-highlight-color: transparent;
+}
+.mas-site .mas-reveal {
+  opacity: 1;
+  transition:
+    opacity 0.55s,
+    transform 0.55s;
+  transform: none;
+}
+.mas-site .mas-reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.mas-site .mas-card {
+  border-radius: 1.25rem;
+  transition:
+    transform 0.25s,
+    box-shadow 0.25s,
+    border-color 0.25s;
+}
+.mas-site .mas-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 34px #071b4617;
+}
+
+.pickup-marquee {
+  --pickup-gap: 18px;
+  scrollbar-width: none;
+  width: 100%;
+  overflow: auto hidden;
+  -webkit-mask-image: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
+  mask-image: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
+}
+.pickup-marquee::-webkit-scrollbar {
+  display: none;
+}
+.pickup-marquee-track {
+  gap: var(--pickup-gap);
+  width: max-content;
+  padding-block: 8px 16px;
+  display: flex;
+}
+.pickup-card {
+  background: #fff;
+  border-radius: 20px;
+  flex: none;
+  width: 312px;
+  height: 416px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 14px 36px #071b461a;
+}
+@media (max-width: 767px) {
+  .pickup-marquee {
+    --pickup-gap: 12px;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+  .pickup-card {
+    width: min(78vw, 300px);
+    height: min(104vw, 400px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  :before,
+  :after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+  .mas-site .mas-reveal {
+    opacity: 1;
+    transform: none;
+  }
+  .pickup-marquee {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(0);
+  }
+  to {
+    transform: translate(-50%);
+  }
+}
+.animate-marquee {
+  animation: 28s linear infinite marquee;
+}
