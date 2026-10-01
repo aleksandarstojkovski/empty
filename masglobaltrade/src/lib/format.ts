@@ -5,3 +5,14 @@ export function formatDateIt(iso: string) {
   const d = new Date(iso);
   return `${String(d.getDate()).padStart(2, "0")} ${MONTHS_IT[d.getMonth()]} ${d.getFullYear()}`;
 }
+
+const MONTHS_IT_LONG = [
+  "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno",
+  "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre",
+];
+
+/** Same output as date-fns `format(d, "dd MMMM yyyy", { locale: it })`. */
+export function formatDateItLong(iso: string) {
+  const d = new Date(iso);
+  return `${String(d.getDate()).padStart(2, "0")} ${MONTHS_IT_LONG[d.getMonth()]} ${d.getFullYear()}`;
+}

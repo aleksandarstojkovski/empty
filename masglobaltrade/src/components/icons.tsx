@@ -35,6 +35,9 @@ export const X = (p: IconProps) => <Lucide name="x" {...p}><path d="M18 6 6 18" 
 export const Upload = (p: IconProps) => <Lucide name="upload" {...p}><path d="M12 3v12" /><path d="m17 8-5-5-5 5" /><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" /></Lucide>;
 export const Plus = (p: IconProps) => <Lucide name="plus" {...p}><path d="M5 12h14" /><path d="M12 5v14" /></Lucide>;
 export const LoaderCircle = (p: IconProps) => <Lucide name="loader-circle" {...p}><path d="M21 12a9 9 0 1 1-6.219-8.56" /></Lucide>;
+export const ArrowLeft = (p: IconProps) => <Lucide name="arrow-left" {...p}><path d="m12 19-7-7 7-7" /><path d="M19 12H5" /></Lucide>;
+export const House = (p: IconProps) => <Lucide name="house" {...p}><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" /><path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" /></Lucide>;
+export const SearchX = (p: IconProps) => <Lucide name="search-x" {...p}><path d="m13.5 8.5-5 5" /><path d="m8.5 8.5 5 5" /><circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" /></Lucide>;
 
 export const WhatsAppIcon = ({ className }: { className?: string }) => (
   <svg className={className} stroke="currentColor" fill="currentColor" strokeWidth="0" role="img" viewBox="0 0 24 24" aria-hidden="true" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
