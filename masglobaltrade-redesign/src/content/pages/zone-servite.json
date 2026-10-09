@@ -1,0 +1,328 @@
+{
+ "slug": "/zone-servite",
+ "title": "Zone servite per il ritiro auto | MAS Ticino",
+ "description": "Scopri dove ritiriamo auto usate in Canton Ticino: Lugano, Locarno, Bellinzona, Mendrisio, Biasca e località vicine. Il ritiro a domicilio è gratuito.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Zone Servite: tutto il Ticino"
+    },
+    {
+     "t": "text",
+     "html": "Operiamo in tutto il Canton Ticino. Valutazione gratuita e ritiro a domicilio in ogni comune.",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Alcune delle nostre ultime acquisizioni"
+    },
+    {
+     "t": "text",
+     "html": "Auto reali acquistate recentemente in tutto il Ticino",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 4,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto1.webp",
+         "alt": "Mercedes GLA 200 | 2018"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Lugano"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Mercedes GLA 200 | 2018",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Mercedes GLA 200 nera a Lugano. Contatto mattina, accordo in 20 minuti, ritiro e pagamento in giornata.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto2.webp",
+         "alt": "Land Rover Discovery Sport | 2020"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Locarno"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Land Rover Discovery Sport | 2020",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Discovery Sport grigio a Locarno. Offerta rapida, ritiro a domicilio il giorno dopo con pagamento in contanti.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto3.webp",
+         "alt": "Peugeot 3008 | 2019"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Bellinzona"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Peugeot 3008 | 2019",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Peugeot 3008 a Bellinzona. Il proprietario partiva all'estero: accordo in meno di un'ora, bonifico istantaneo.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto4.webp",
+         "alt": "MINI Cooper S Clubman | 2019"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Mendrisio"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "MINI Cooper S Clubman | 2019",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "MINI Cooper S Clubman nera a Mendrisio. I concessionari avevano offerto troppo poco, noi abbiamo valutato correttamente.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto5.webp",
+         "alt": "Renault Clio IV | 2017"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Chiasso"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Renault Clio IV | 2017",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Renault Clio nera a Chiasso. Il proprietario aveva fretta: siamo arrivati il giorno stesso e chiuso in giornata.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto6.webp",
+         "alt": "BMW X1 M Sport | 2019"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Ascona"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "BMW X1 M Sport | 2019",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "BMW X1 M Sport grigio ad Ascona. Appuntamento il mattino, valutazione, ritiro e pagamento nel pomeriggio.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto7.webp",
+         "alt": "BMW X1 | 2015"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Biasca"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "BMW X1 | 2015",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "BMW X1 bianco a Biasca, 110'000 km in ottimo stato. Accordo al telefono, ritiro in meno di 48 ore.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto8.webp",
+         "alt": "Mercedes GLC Coupé | 2019"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "map-pin",
+           "html": "Agno"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Mercedes GLC Coupé | 2019",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Mercedes GLC Coupé blu ad Agno. Ritiro direttamente a casa del cliente, pagamento sul momento.",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Scegli la tua zona"
+    },
+    {
+     "t": "text",
+     "html": "Sei landing complete coprono tutti i comuni serviti.",
+     "small": false
+    },
+    {
+     "t": "links",
+     "items": [
+      {
+       "label": "TicinoRitiriamo auto anche a Roveredo, Mesolcina.Scopri il servizio →",
+       "href": "/compro-auto/ticino"
+      },
+      {
+       "label": "LuganoRitiriamo auto anche a Paradiso, Massagno, Morcote, Melide, Agno, Caslano, Ponte Tresa.Scopri il servizio →",
+       "href": "/compro-auto/lugano"
+      },
+      {
+       "label": "LocarnoRitiriamo auto anche a Ascona, Minusio, Gambarogno, Tenero, Gordola, Losone, Brissago, Magadino, Cevio, Intragna, Verzasca.Scopri il servizio →",
+       "href": "/compro-auto/locarno"
+      },
+      {
+       "label": "BellinzonaRitiriamo auto anche a Giubiasco, Camorino, Cadenazzo, Sant'Antonino.Scopri il servizio →",
+       "href": "/compro-auto/bellinzona"
+      },
+      {
+       "label": "MendrisioRitiriamo auto anche a Chiasso, Balerna, Stabio, Riva San Vitale, Novazzano, Vacallo, Coldrerio.Scopri il servizio →",
+       "href": "/compro-auto/mendrisio"
+      },
+      {
+       "label": "BiascaRitiriamo auto anche a Airolo, Faido, Acquarossa, Olivone.Scopri il servizio →",
+       "href": "/compro-auto/biasca"
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Non trovi il tuo comune?"
+    },
+    {
+     "t": "text",
+     "html": "Nessun problema! Operiamo in tutta la Svizzera italiana. Contattaci e verremo noi da te.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Chiama Ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      },
+      {
+       "label": "WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  }
+ ]
+}

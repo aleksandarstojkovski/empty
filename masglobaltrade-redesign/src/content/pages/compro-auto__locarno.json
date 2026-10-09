@@ -1,0 +1,826 @@
+{
+ "slug": "/compro-auto/locarno",
+ "title": "Compro auto a Locarno | Ritiro a domicilio",
+ "description": "Acquistiamo auto a Locarno e nel Locarnese, valli comprese. Ricevi un'offerta chiara, pagamento immediato e ritiro a domicilio senza costi aggiuntivi.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": {
+    "src": "/city-locarno.webp",
+    "alt": "Locarno lago Maggiore"
+   },
+   "blocks": [
+    {
+     "t": "text",
+     "html": "Servizio attivo a Locarno e in tutto il Locarnese",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Compro auto a Locarno<br>e in tutto il <span data-accent>Locarnese</span>"
+    },
+    {
+     "t": "text",
+     "html": "Dalla città alle valli, vengo io a ritirare la tua auto. Valutazione gratuita e pagamento immediato.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 1,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "4.9",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "più di 110 recensioni Google",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "+2.000 CHF",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "rispetto alla concessionaria",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "+10 anni",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "di esperienza in Ticino",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Compro auto usate nel Locarnese"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Sono Madian di MAS Global Trade e compro auto usate da privati a Locarno e in tutto il Locarnese. Città, lago o valli non fa differenza: il ritiro a domicilio è gratuito ovunque, anche nei comuni più fuori mano."
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Molte delle auto che ritiro in questa zona sono ferme da mesi: la seconda auto che nessuno usa più, quella del genitore che ha smesso di guidare, quella con la batteria a terra in garage. Non serve rimetterla in moto né portarla da nessuna parte. Mi mandi due foto e i dati, ti faccio un'offerta, e al resto penso io."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Che auto compro?"
+    },
+    {
+     "t": "text",
+     "html": "Tutte le marche e tutte le condizioni: dalla citycar tenuta bene all'auto incidentata, dal SUV con tanti chilometri al furgone da lavoro. Compro anche veicoli fermi da tempo, senza collaudo o senza assicurazione attiva.",
+     "small": false
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Semplice come mandare un messaggio."
+    },
+    {
+     "t": "text",
+     "html": "Dalla prima foto alla conclusione: spesso poche ore.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "1"
+        },
+        {
+         "t": "icon",
+         "name": "camera"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Foto su WhatsApp"
+        },
+        {
+         "t": "badge",
+         "html": "Interno · Esterno · Carta grigia"
+        },
+        {
+         "t": "text",
+         "html": "Mandi alcune foto dal telefono. Nessuno spostamento, nessun appuntamento.",
+         "small": true
+        },
+        {
+         "t": "icon",
+         "name": "chevron-right"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "2"
+        },
+        {
+         "t": "icon",
+         "name": "house"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Vengo a Locarno da te"
+        },
+        {
+         "t": "badge",
+         "html": "Gratis · In giornata"
+        },
+        {
+         "t": "text",
+         "html": "Visita gratuita a domicilio in tutta la zona locarnese e le valli.",
+         "small": true
+        },
+        {
+         "t": "icon",
+         "name": "chevron-right"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "3"
+        },
+        {
+         "t": "icon",
+         "name": "banknote"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Pagamento immediato"
+        },
+        {
+         "t": "badge",
+         "html": "Contanti o bonifico"
+        },
+        {
+         "t": "text",
+         "html": "Pago sul posto. Mi occupo di targhe e burocrazia. Tu non fai nulla.",
+         "small": true
+        },
+        {
+         "t": "icon",
+         "name": "chevron-right"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Mandami le foto",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Il confronto"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "MAS Global Trade<br>vs Concessionaria"
+    },
+    {
+     "t": "text",
+     "html": "Prima di accettare un'offerta, confronta.",
+     "small": true
+    },
+    {
+     "t": "text",
+     "html": "Più di 110 recensioni Google con media 4.9. Chi vende a me parla sempre con la stessa persona, dal primo messaggio al ritiro. Niente centralini, niente attese di giorni per una risposta: rispondo io, 7 giorni su 7.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "MAS Global Trade"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Concessionaria"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Prezzo offerto"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "check"
+        },
+        {
+         "t": "text",
+         "html": "Fino a 2.000 CHF in più",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "x"
+        },
+        {
+         "t": "text",
+         "html": "Al minimo possibile",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Velocità"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "check"
+        },
+        {
+         "t": "text",
+         "html": "Stesso giorno",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "x"
+        },
+        {
+         "t": "text",
+         "html": "Settimane di attesa",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Burocrazia"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "check"
+        },
+        {
+         "t": "text",
+         "html": "Gestita da noi al 100%",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "x"
+        },
+        {
+         "t": "text",
+         "html": "Problema tuo",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Pagamento"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "check"
+        },
+        {
+         "t": "text",
+         "html": "Immediato, garantito",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "x"
+        },
+        {
+         "t": "text",
+         "html": "Da verificare",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Rischi legali"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "check"
+        },
+        {
+         "t": "text",
+         "html": "Nessuno, trasferisco io",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "x"
+        },
+        {
+         "t": "text",
+         "html": "Vizi occulti, diffide",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scegli MAS Global Trade",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Operazione reale a Locarno"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Land Rover Discovery Sport 2020: ritirata a Locarno"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto2.webp",
+         "alt": "Land Rover Discovery Sport"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Un cliente di Locarno voleva liberarsi del suo Discovery Sport senza passare per un concessionario. Offerta rapida, ritiro a domicilio il giorno dopo con pagamento in contanti.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian, MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Locarno e dintorni",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· più di 110 recensioni su Google",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Cercavo qualcuno di affidabile per vendere la mia auto e qui ho trovato disponibilità, chiarezza e professionalità. Trattativa rapida e semplice.\""
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Posso solo dire cose molto positive. Madian è disponibile, diretto e trasparente. Si è preso il tempo di venire a vedere l'auto anche durante una vacanza in Ticino.\""
+        },
+        {
+         "t": "text",
+         "html": "Johannus Demers",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"È stato molto onesto e la trattativa rapida. È una persona molto corretta, lo contatterò sicuramente per una futura vendita.\""
+        },
+        {
+         "t": "text",
+         "html": "Alessandro Licone",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Ritiriamo auto anche a..."
+    },
+    {
+     "t": "text",
+     "html": "Ascona, Minusio, Gambarogno, Tenero, Gordola, Losone, Brissago, Magadino, Cevio, Intragna e Verzasca. Il ritiro a domicilio è gratuito in tutta la zona.",
+     "small": false
+    },
+    {
+     "t": "chips",
+     "items": [
+      "Ascona",
+      "Minusio",
+      "Gambarogno",
+      "Tenero",
+      "Gordola",
+      "Losone",
+      "Brissago",
+      "Magadino",
+      "Cevio",
+      "Intragna",
+      "Verzasca"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Guide utili per vendere la tua auto"
+    },
+    {
+     "t": "links",
+     "items": [
+      {
+       "label": "Quanto vale la mia auto usata in Ticino?",
+       "href": "/blog/quanto-vale-mia-auto-usata-ticino"
+      },
+      {
+       "label": "Documenti per vendere l'auto in Ticino",
+       "href": "/blog/documenti-vendere-auto-ticino"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Domande frequenti"
+    },
+    {
+     "t": "text",
+     "html": "Tutto quello che devi sapere sulla vendita della tua auto nel Locarnese.",
+     "small": false
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "La mia auto è ferma da mesi e non parte. La compri lo stesso?",
+       "a": "<p>Sì. Compro anche auto ferme da tempo, con la batteria scarica o guasti veri. Il trasporto lo organizzo io, tu non devi muovere niente.</p>"
+      },
+      {
+       "q": "Venite anche nelle valli?",
+       "a": "<p>Sì, il ritiro a domicilio copre tutto il Locarnese, valli comprese, senza costi aggiuntivi.</p>"
+      },
+      {
+       "q": "Serve che l'auto sia collaudata?",
+       "a": "<p>No. Compro anche veicoli senza collaudo o con il collaudo scaduto.</p>"
+      },
+      {
+       "q": "Quali documenti servono?",
+       "a": "<p>Licenza di circolazione e un documento d'identità. Al resto della burocrazia penso io, compreso l'annullamento delle targhe se serve.</p>"
+      },
+      {
+       "q": "Quanto ci mette ad arrivare l'offerta?",
+       "a": "<p>In genere rispondo in giornata. Mandami i dati dell'auto su WhatsApp con qualche foto e ti dico subito quanto posso offrirti.</p>"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": " Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Pronto a vendere la tua<br>auto a <span data-accent>Locarno</span>?"
+    },
+    {
+     "t": "text",
+     "html": "Hai un'auto da vendere nel Locarnese? Scrivimi su WhatsApp con due foto e i dati. Ti rispondo in giornata.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Ritiriamo auto anche a Ascona, Minusio, Gambarogno, Tenero, Gordola, Losone, Brissago, Magadino, Cevio, Intragna, Verzasca e nelle località circostanti.",
+     "small": true
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

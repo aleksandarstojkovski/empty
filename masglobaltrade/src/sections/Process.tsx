@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Check, ChevronRight, Phone, WhatsAppIcon } from "../components/icons";
 import { PHONE_LABEL, TEL, WHATSAPP } from "../lib/site";
 
-const STEPS = [
+export const STEPS = [
   {
     label: "Valutazione",
     title: "Valutazione seria, senza impegno",

@@ -1,0 +1,638 @@
+{
+ "slug": "/compro-auto/ticino",
+ "title": "Compro auto in Ticino | Valutazione e ritiro",
+ "description": "Acquistiamo auto usate in tutto il Canton Ticino. Ricevi una valutazione gratuita, concorda il prezzo e scegli ritiro a domicilio e pagamento immediato.",
+ "sections": [
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "icon",
+     "name": "map-pin"
+    },
+    {
+     "t": "text",
+     "html": "Servizio attivo in tutto il Canton Ticino",
+     "small": true
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Ritiro auto in tutto il <span data-accent>Canton Ticino</span>"
+    },
+    {
+     "t": "text",
+     "html": "Compro la tua auto ovunque tu sia nel Cantone. Valutazione gratuita, pagamento immediato e ritiro a domicilio incluso.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 1,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "text",
+         "html": "4.9",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "clock"
+        },
+        {
+         "t": "text",
+         "html": "Risposta in poche ore",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "+10 anni di esperienza",
+         "small": false
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Compro auto usate in tutto il Canton Ticino"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Sono Madian di MAS Global Trade. Compro auto usate da privati in tutto il Canton Ticino, da Airolo a Chiasso e da Brissago a Roveredo. Il ritiro a domicilio è sempre incluso: vengo io da te, con il pagamento pronto, e mi porto via l'auto insieme a tutta la burocrazia."
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Vendere un'auto da soli significa annunci, telefonate di curiosi, appuntamenti saltati e trattative infinite. Con me il percorso è uno solo: mi descrivi l'auto, ricevi un'offerta chiara, e se la accetti chiudiamo. Spesso nella stessa giornata."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Che auto compro?"
+    },
+    {
+     "t": "text",
+     "html": "Auto di ogni marca, età e condizione: berline, SUV, utilitarie, furgoni, pickup e camion. Anche veicoli incidentati, guasti, con molti chilometri o fermi da tempo. Se l'auto non si muove, il trasporto lo organizzo io.",
+     "small": false
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Tre passi. Zero stress."
+    },
+    {
+     "t": "text",
+     "html": "Tutto risolto in giornata, burocrazia inclusa. Tu non devi fare nulla.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "1"
+        },
+        {
+         "t": "icon",
+         "name": "camera"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Mandi le foto"
+        },
+        {
+         "t": "text",
+         "html": "Alcune foto dell'auto e la carta grigia su WhatsApp. Basta il telefono, nessuno spostamento.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Interno · Esterno · Carta grigia"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "2"
+        },
+        {
+         "t": "icon",
+         "name": "house"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Vengo da te"
+        },
+        {
+         "t": "text",
+         "html": "Valutazione gratuita a domicilio in tutto il Canton Ticino. Nessun costo di trasferta.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Tutto il Ticino · Gratis"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "3"
+        },
+        {
+         "t": "icon",
+         "name": "banknote"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Pagamento sul posto"
+        },
+        {
+         "t": "text",
+         "html": "Contanti o bonifico istantaneo. Mi occupo di tutta la burocrazia. Tu non devi fare nulla.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Contanti · Bonifico istantaneo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Clicca su un passo per scoprire i dettagli",
+     "small": true
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Perché scegliere MAS Global Trade"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Oltre 110 recensioni e una persona reale"
+    },
+    {
+     "t": "text",
+     "html": "Oltre 110 recensioni su Google con una media di 4.9 stelle. Rispondo personalmente al telefono e su WhatsApp, 7 giorni su 7, in italiano, tedesco, francese e inglese. Chi mi contatta parla con la persona che compra l'auto, non con un call center.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "Oltre 110 recensioni su Google, media 4.9 stelle",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "trending-up"
+        },
+        {
+         "t": "text",
+         "html": "Fino a 2.000 CHF in più rispetto alla concessionaria",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "map-pin"
+        },
+        {
+         "t": "text",
+         "html": "Ritiro gratuito in tutta la zona Canton Ticino",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "shield"
+        },
+        {
+         "t": "text",
+         "html": "Oltre 10 anni di esperienza in Canton Ticino",
+         "small": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Mandami le foto su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Operazione reale a Ticino"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Peugeot 3008 2019: ritirata a Ticino"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto3.webp",
+         "alt": "Peugeot 3008 2019 acquistata a Ticino"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Un cliente del Sopraceneri doveva vendere rapidamente la sua auto prima di trasferirsi. Valutazione trasparente, bonifico istantaneo e ritiro a domicilio: pratica conclusa in giornata.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian, MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Ticino e dintorni",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "Scrivimi su WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Recensioni Google verificate"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· oltre 110 recensioni",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        },
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Cercavo qualcuno di affidabile per vendere la mia auto e qui ho trovato disponibilità, chiarezza e professionalità. Madian è una persona seria e gentile: mi ha spiegato tutto nei dettagli e la trattativa è stata rapida e semplice, senza problemi.\""
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "J"
+        },
+        {
+         "t": "text",
+         "html": "Johannus Demers",
+         "small": true
+        },
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ho avuto contatti con Madian per la vendita di un'auto. Posso solo dire cose molto positive. Madian è una persona molto disponibile, si è preso il tempo di venire a vedere l'auto anche durante una vacanza in Ticino. Lui non complica le cose, è diretto e trasparente.\""
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "F"
+        },
+        {
+         "t": "text",
+         "html": "Franco Gasparoli",
+         "small": true
+        },
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ho venduto la mia auto alla MAS GLOBAL TRADE e sono rimasto molto soddisfatto dell'esperienza. Servizio eccellente, contatto rapido e professionale, grande serietà e disponibilità durante tutta la trattativa. La vendita si è conclusa in tempi brevissimi. Consigliatissimi!\""
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Ritiriamo auto anche a..."
+    },
+    {
+     "t": "text",
+     "html": "Roveredo e Mesolcina. Il ritiro a domicilio è gratuito in tutta la zona.",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "RoveredoMesolcina",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Guide utili per vendere la tua auto"
+    },
+    {
+     "t": "links",
+     "items": [
+      {
+       "label": "Quanto vale la mia auto usata in Ticino?",
+       "href": "/blog/quanto-vale-mia-auto-usata-ticino"
+      },
+      {
+       "label": "Documenti per vendere l'auto in Ticino",
+       "href": "/blog/documenti-vendere-auto-ticino"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Domande frequenti"
+    },
+    {
+     "t": "text",
+     "html": "Tutto quello che devi sapere sulla vendita della tua auto in Ticino.",
+     "small": false
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Quanto costa la valutazione?",
+       "a": "<p>Niente. La valutazione è gratuita e senza impegno, sia online che dal vivo. Decidi tu se accettare l'offerta.</p>"
+      },
+      {
+       "q": "In quanto tempo si conclude la vendita?",
+       "a": "<p>Se l'offerta ti va bene, di solito chiudiamo entro 24 ore: appuntamento, controllo dell'auto, pagamento e ritiro.</p>"
+      },
+      {
+       "q": "Venite davvero in tutto il Ticino?",
+       "a": "<p>Sì, senza eccezioni e senza costi aggiuntivi. Il ritiro a domicilio fa parte del servizio, ovunque tu sia nel Cantone.</p>"
+      },
+      {
+       "q": "Come funziona il pagamento?",
+       "a": "<p>Al momento del ritiro, in contanti o con bonifico istantaneo. Ricevi i soldi prima di consegnare l'auto.</p>"
+      },
+      {
+       "q": "Compri anche auto incidentate o che non partono?",
+       "a": "<p>Sì, le compro in qualsiasi condizione. Se il veicolo non si muove, mando io il mezzo per il trasporto.</p>"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Pronto a vendere la tua auto in <span data-accent>Ticino</span>?"
+    },
+    {
+     "t": "text",
+     "html": "Scopri quanto vale la tua auto. Chiamami o scrivimi su WhatsApp, ti rispondo in giornata.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

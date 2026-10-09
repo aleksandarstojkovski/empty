@@ -1,4 +1,4 @@
-const LOGOS = [
+export const LOGOS = [
   { src: "/logo-delea.webp", alt: "Delea" },
   { src: "/logo-tpl.webp", alt: "TPL Lugano" },
   { src: "/logo-laposta.webp", alt: "La Posta" },

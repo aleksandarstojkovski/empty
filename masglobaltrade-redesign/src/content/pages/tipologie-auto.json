@@ -1,0 +1,249 @@
+{
+ "slug": "/tipologie-auto",
+ "title": "Quali auto acquistiamo in Ticino | MAS",
+ "description": "Auto usate, incidentate, guaste, senza collaudo o con molti chilometri: scopri quali veicoli acquistiamo in tutto il Canton Ticino.",
+ "sections": [
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Acquisto qualsiasi tipologia"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Tipologie di auto<br>che acquisto"
+    },
+    {
+     "t": "text",
+     "html": "Dalle auto recenti alle auto d'epoca, dalle ibride a quelle malfunzionanti: valuto tutto e faccio sempre un'offerta chiara.",
+     "small": false
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "icon",
+     "name": "gauge"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Auto con pochi km"
+    },
+    {
+     "t": "badge",
+     "html": "Alta valutazione"
+    },
+    {
+     "t": "text",
+     "html": "Le auto usate poco sono tra le più ricercate dal mercato. Particolare interesse per auto con meno di 100'000 km: indipendentemente dall'anno, rappresentano occasioni di valore. Se la tua auto è poco percorsa, contattami, è probabile che valga più di quanto pensi.",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "✓Interesse particolare per auto sotto i 100'000 km"
+      },
+      {
+       "html": "✓Auto poco usate ricercate indipendentemente dall'anno"
+      },
+      {
+       "html": "✓Seconde auto, aziendali, veicoli da garage"
+      },
+      {
+       "html": "✓Le cerchiamo con interesse e paghiamo bene"
+      }
+     ]
+    },
+    {
+     "t": "icon",
+     "name": "globe"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Auto per esportazione"
+    },
+    {
+     "t": "badge",
+     "html": "Rete europea"
+    },
+    {
+     "t": "text",
+     "html": "Le auto con tanti km non sono più idonee alla rivendita locale in Svizzera. Grazie alla mia consolidata rete di contatti in Europa e oltre, sono in grado di valutare e acquistare qualsiasi genere di auto. Particolare interesse per auto recenti ma con chilometraggio elevato.",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "✓Rete consolidata di contatti in Europa e oltre"
+      },
+      {
+       "html": "✓Interesse per auto recenti con tanti km"
+      },
+      {
+       "html": "✓Valutazione anche per modelli difficili da vendere in Svizzera"
+      },
+      {
+       "html": "✓Gestisco io le pratiche di esportazione"
+      }
+     ]
+    },
+    {
+     "t": "icon",
+     "name": "wrench"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Auto incidentate o con difetti"
+    },
+    {
+     "t": "badge",
+     "html": "Valuto comunque"
+    },
+    {
+     "t": "text",
+     "html": "Non devi sistemare nulla prima di contattarmi. Valuto auto con danni alla carrozzeria, problemi meccanici o difetti tecnici. Faccio una stima realistica tenendo conto della situazione reale e ti faccio un'offerta concreta.",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "✓Danni alla carrozzeria, ammaccature, graffi"
+      },
+      {
+       "html": "✓Qualsiasi genere di problema meccanico (motore, cambio, FAP…)"
+      },
+      {
+       "html": "✓Auto ferme o con collaudo scaduto"
+      },
+      {
+       "html": "✓Valutazione onesta, offerta in giornata"
+      }
+     ]
+    },
+    {
+     "t": "stars",
+     "n": 1
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Auto d'epoca"
+    },
+    {
+     "t": "badge",
+     "html": "La mia specialità"
+    },
+    {
+     "t": "text",
+     "html": "Le auto storiche e youngtimer richiedono esperienza e una rete di contatti specifica. Valuto vetture d'epoca, youngtimer e modelli particolari con attenzione al mercato reale e al valore collezionistico. Se hai un'auto storica ferma in garage, o stai pensando di cederla, contattami.",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "✓Esperienza consolidata nel settore"
+      },
+      {
+       "html": "✓Auto d'epoca e youngtimer"
+      },
+      {
+       "html": "✓Rete di collezionisti e amatori"
+      },
+      {
+       "html": "✓Valutazione seria e realistica"
+      }
+     ]
+    },
+    {
+     "t": "icon",
+     "name": "zap"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Auto elettriche, ibride e plug-in"
+    },
+    {
+     "t": "badge",
+     "html": "Mercato in crescita"
+    },
+    {
+     "t": "text",
+     "html": "Particolare interesse per le full hybrid. Sebbene non esista ancora un mercato consolidato dell'usato per le auto elettriche e plug-in, valutiamo tutto con attenzione, concretamente e in base alla situazione attuale di mercato. Ogni veicolo viene considerato caso per caso.",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "✓Particolare interesse per le full hybrid"
+      },
+      {
+       "html": "✓Elettriche e plug-in valutate caso per caso"
+      },
+      {
+       "html": "✓Valutazione concreta basata sul mercato attuale"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Non sei sicuro del tipo di auto?"
+    },
+    {
+     "t": "text",
+     "html": "Contattami comunque, valuto qualsiasi veicolo e ti rispondo in giornata.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Chiama Madian: +41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      },
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Oppure visita la pagina <a href=\"/contatti\">Contatti</a> per il modulo di richiesta.",
+     "small": true
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

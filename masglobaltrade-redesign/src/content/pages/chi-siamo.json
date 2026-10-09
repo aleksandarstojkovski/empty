@@ -1,0 +1,416 @@
+{
+ "slug": "/chi-siamo",
+ "title": "Chi è MAS Global Trade | Acquisto auto in Ticino",
+ "description": "Scopri chi è MAS Global Trade e come acquistiamo auto usate con un rapporto diretto, valutazione trasparente e ritiro in tutto il Ticino.",
+ "sections": [
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Chi c'è dietro MAS Global Trade"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Sono cresciuto<br>dentro questo settore."
+    },
+    {
+     "t": "text",
+     "html": "Da oltre 30 anni la mia famiglia è attiva nel mondo dell'auto in Ticino. MAS Global Trade è il passo successivo: più diretto, più chiaro, più moderno.",
+     "small": false
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Mi chiamo Madian."
+        },
+        {
+         "t": "text",
+         "html": "Lavoro nel mondo dell'auto praticamente da sempre. La mia famiglia è attiva nel settore automobilistico in Ticino <strong>da oltre 30 anni</strong>, sono cresciuto tra garage, trattative, ritiri e compravendite. Mio padre mi portava al lavoro con lui già da bambino, e ho iniziato a lavorare in garage ancora prima dei 18 anni.",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Dopo l'università ho deciso di portare un approccio più moderno e diretto in un settore che, spesso, è rimasto molto vecchia scuola.",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Da qui nasce MAS Global Trade: la prima piattaforma digitale in Ticino dedicata all'acquisto di auto usate dai privati. L'idea era semplice: aiutare i privati a vendere meglio la propria auto, con più chiarezza e meno perdite di tempo.",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Un approccio semplice: diretto, chiaro, concreto.",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Gestisco personalmente ogni contatto: dalla prima chiamata fino al pagamento e al ritiro dell'auto.",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Negli anni ho capito che le persone non cercano solo qualcuno che \"offra di più\", ma qualcuno che:",
+         "small": false
+        },
+        {
+         "t": "list",
+         "ordered": false,
+         "items": [
+          {
+           "html": "risponda",
+           "icon": "check"
+          },
+          {
+           "html": "sia serio",
+           "icon": "check"
+          },
+          {
+           "html": "mantenga la parola data",
+           "icon": "check"
+          },
+          {
+           "html": "renda tutto semplice",
+           "icon": "check"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "\"Quello che dico, lo faccio.\"",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Madian, fondatore MAS Global Trade",
+         "small": true
+        },
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "text",
+         "html": "4.9 / 5",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "114 recensioni Google verificate",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/hero-desktop.webp",
+         "alt": "Madian, fondatore MAS Global Trade"
+        },
+        {
+         "t": "text",
+         "html": "Madian",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Fondatore e responsabile acquisizioni | MAS Global Trade",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa apprezzano di più i clienti"
+    },
+    {
+     "t": "text",
+     "html": "Ecco cosa dicono le persone che hanno venduto la loro auto con MAS Global Trade.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "eyebrow",
+         "html": "Serietà"
+        },
+        {
+         "t": "grid",
+         "cols": 1,
+         "items": [
+          {
+           "blocks": [
+            {
+             "t": "stars",
+             "n": 5
+            },
+            {
+             "t": "quote",
+             "html": "\"Consiglio vivamente per la professionalità. In Madian ho trovato una bella persona con il quale ci si può approcciare tranquillamente.\""
+            },
+            {
+             "t": "text",
+             "html": "Dani Zuppo",
+             "small": true
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "stars",
+             "n": 5
+            },
+            {
+             "t": "quote",
+             "html": "\"Favorevolmente colpiti dalla gentilezza e dalla correttezza di Madian. Trattativa veloce e trasparente.\""
+            },
+            {
+             "t": "text",
+             "html": "Donato M.",
+             "small": true
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "eyebrow",
+         "html": "Rapidità"
+        },
+        {
+         "t": "grid",
+         "cols": 1,
+         "items": [
+          {
+           "blocks": [
+            {
+             "t": "stars",
+             "n": 5
+            },
+            {
+             "t": "quote",
+             "html": "\"Ho venduto la mia macchina. È stato molto onesto e la trattativa rapida. Persona molto corretta, lo contatterò per future vendite.\""
+            },
+            {
+             "t": "text",
+             "html": "Alessandro L.",
+             "small": true
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "stars",
+             "n": 5
+            },
+            {
+             "t": "quote",
+             "html": "\"Super Erfahrung gemacht 👍 Vielen Dank für den schnellen, einfachen und unkomplizierten Ankauf meines Fahrzeugs.\""
+            },
+            {
+             "t": "text",
+             "html": "N. W.",
+             "small": true
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "eyebrow",
+         "html": "Nessuna perdita di tempo"
+        },
+        {
+         "t": "grid",
+         "cols": 1,
+         "items": [
+          {
+           "blocks": [
+            {
+             "t": "stars",
+             "n": 5
+            },
+            {
+             "t": "quote",
+             "html": "\"Onesti, efficienti, pazienti e comprensivi. Per noi una ottima valutazione! Bravi\""
+            },
+            {
+             "t": "text",
+             "html": "Vania Tonello",
+             "small": true
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "stars",
+             "n": 5
+            },
+            {
+             "t": "quote",
+             "html": "\"Servizio eccellente, contatto rapido e professionale. La vendita si è conclusa in tempi brevissimi. Consigliatissimi!\""
+            },
+            {
+             "t": "text",
+             "html": "Franco G.",
+             "small": true
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Zone servite"
+    },
+    {
+     "t": "text",
+     "html": "Ho acquistato centinaia di veicoli da privati in tutta la Svizzera italiana.",
+     "small": false
+    },
+    {
+     "t": "chips",
+     "items": [
+      "Luganese",
+      "Locarnese e Valli",
+      "Bellinzonese",
+      "Mendrisiotto",
+      "Leventina",
+      "Riviera",
+      "Bleniese",
+      "Piano di Magadino",
+      "Gambarogno",
+      "Malcantone",
+      "Mesolcina"
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Quello che dicono i clienti, lo leggi nelle recensioni."
+    },
+    {
+     "t": "text",
+     "html": "Oltre 114 recensioni verificate su Google raccontano come si svolge una trattativa con MAS Global Trade: chiarezza, rispetto dei tempi, pagamento puntuale.",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "Rispondo io direttamente, Madian, dal primo contatto",
+       "icon": "check"
+      },
+      {
+       "html": "Proposta chiara e mantenuta fino al ritiro",
+       "icon": "check"
+      },
+      {
+       "html": "Vengo io da te a ritirare l'auto, ovunque in Ticino",
+       "icon": "check"
+      },
+      {
+       "html": "Mi occupo di tutta la burocrazia: annullamento e deposito targa inclusi",
+       "icon": "check"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Pronto a vendere la tua auto?"
+    },
+    {
+     "t": "text",
+     "html": "Contattami direttamente, rispondo io, Madian.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Chiama Madian: +41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      },
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

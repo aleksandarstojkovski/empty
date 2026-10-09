@@ -1,0 +1,627 @@
+{
+ "slug": "/compro-auto/lugano",
+ "title": "Compro auto a Lugano | Valutazione gratuita",
+ "description": "Vendi la tua auto a Lugano e nel Luganese con una valutazione gratuita, pagamento immediato e ritiro a domicilio concordato senza perdite di tempo.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": {
+    "src": "/city-lugano.webp",
+    "alt": "Lugano"
+   },
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "<span data-accent>Servizio attivo a Lugano</span>"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Compro auto a Lugano<br>e in tutto il <span data-accent>Luganese</span>"
+    },
+    {
+     "t": "text",
+     "html": "Vuoi vendere la tua auto? Valutazione gratuita, pagamento immediato e ritiro a domicilio. Parli direttamente con me, senza intermediari.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "icon": "star",
+       "html": " 4.9 · 101 recensioni Google"
+      },
+      {
+       "icon": "clock",
+       "html": " Risposta in poche ore"
+      },
+      {
+       "icon": "zap",
+       "html": " +10 anni di esperienza"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Compro auto usate a Lugano senza intermediari"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Sono Madian di MAS Global Trade. Compro auto usate da privati a Lugano e in tutto il Luganese, in qualsiasi condizione. Auto con tanti chilometri, incidentate, guaste o semplicemente da cambiare: le valuto tutte, gratuitamente e senza impegno."
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Niente annunci online, niente sconosciuti che vengono a casa tua a trattare, niente settimane di attesa. Mi mandi i dati dell'auto, ti faccio un'offerta chiara e, se ti va bene, vengo io a ritirarla. Il pagamento lo ricevi subito, in contanti o con bonifico istantaneo, prima della consegna del veicolo."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Tre passi. Zero stress."
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "01"
+        },
+        {
+         "t": "icon",
+         "name": "camera"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Contattami"
+        },
+        {
+         "t": "text",
+         "html": "Chiamami o scrivimi su WhatsApp con marca, modello, anno e chilometri. Rispondo personalmente, 7 giorni su 7.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "2 minuti"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "02"
+        },
+        {
+         "t": "icon",
+         "name": "house"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Ricevi l'offerta"
+        },
+        {
+         "t": "text",
+         "html": "Ti do una valutazione onesta basata sul mercato reale. È gratuita e senza impegno: decidi tu se accettare.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Gratuita"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "03"
+        },
+        {
+         "t": "icon",
+         "name": "banknote"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Ritiro e pagamento"
+        },
+        {
+         "t": "text",
+         "html": "Vengo a ritirare l'auto dove vuoi tu, a Lugano o in qualsiasi comune del Luganese. Pagamento immediato e burocrazia gestita da me.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Stesso giorno"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Clicca su un passo per i dettagli",
+     "small": true
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Che auto compro a Lugano?"
+    },
+    {
+     "t": "text",
+     "html": "Compro auto di ogni marca e in ogni condizione: berline, SUV, utilitarie, furgoni e pickup. Anche auto incidentate, con il motore rotto, con molti chilometri o non più collaudabili. Se l'auto non parte, non è un problema: organizzo io il trasporto.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "Berline, SUV, utilitarie e furgoni",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Ogni marca e ogni modello",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "trending-up"
+        },
+        {
+         "t": "text",
+         "html": "Auto con tanti chilometri",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Valutazione onesta e trasparente",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "map-pin"
+        },
+        {
+         "t": "text",
+         "html": "Auto incidentate o guaste",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Ritiro organizzato anche se non parte",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "shield"
+        },
+        {
+         "t": "text",
+         "html": "Auto non collaudabili",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Burocrazia e trasporto gestiti da me",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Mandami le foto su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Perché scegliere MAS Global Trade"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Oltre 110 recensioni e una persona reale"
+    },
+    {
+     "t": "text",
+     "html": "Su Google trovi oltre 110 recensioni con una media di 4.9 stelle, lasciate da persone che hanno venduto la loro auto a me. Non sono un call center e non sono un portale: sono una persona, con nome e faccia, che risponde al telefono e viene di persona al ritiro. Parlo italiano, tedesco, francese e inglese.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto1.webp",
+         "alt": "Mercedes GLA 200"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Un privato di Lugano ci ha contattato la mattina per la sua GLA 200 nera. Siamo andati nel pomeriggio, accordo in 20 minuti, pagamento immediato e ritiro in giornata. Zero stress, zero attese.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian, MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Lugano e dintorni",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· oltre 110 recensioni Google",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Cercavo qualcuno di affidabile per vendere la mia auto e qui ho trovato disponibilità, chiarezza e professionalità. Madian è una persona seria e gentile: trattativa rapida e semplice, senza problemi.\""
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ho avuto contatti con Madian per la vendita di un'auto. Posso solo dire cose molto positive. È molto disponibile, diretto e trasparente. Esperienza davvero positiva.\""
+        },
+        {
+         "t": "text",
+         "html": "Johannus Demers",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Sono rimasto molto soddisfatto dell'esperienza. Servizio eccellente, contatto rapido e professionale. La vendita si è conclusa in tempi brevissimi. Consigliatissimi!\""
+        },
+        {
+         "t": "text",
+         "html": "Franco Gasparoli",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Compro auto in tutto il Luganese"
+    },
+    {
+     "t": "text",
+     "html": "Opero ogni giorno a Lugano e in tutto il Luganese: Massagno, Paradiso, Viganello, Pregassona, Breganzona, Agno, Bioggio, Manno, Caslano, Ponte Tresa, Melide, Morcote, Tesserete e tutti i comuni della zona. Ovunque tu sia, il ritiro a domicilio è incluso e gratuito.",
+     "small": false
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Ritiriamo auto anche a..."
+    },
+    {
+     "t": "text",
+     "html": "Paradiso, Massagno, Morcote, Melide, Agno, Caslano e Ponte Tresa. Il ritiro a domicilio è gratuito in tutta la zona.",
+     "small": false
+    },
+    {
+     "t": "chips",
+     "items": [
+      "Paradiso",
+      "Massagno",
+      "Morcote",
+      "Melide",
+      "Agno",
+      "Caslano",
+      "Ponte Tresa"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Guide utili per vendere la tua auto"
+    },
+    {
+     "t": "links",
+     "items": [
+      {
+       "label": "Quanto vale la mia auto usata in Ticino?",
+       "href": "/blog/quanto-vale-mia-auto-usata-ticino"
+      },
+      {
+       "label": "Documenti per vendere l'auto in Ticino",
+       "href": "/blog/documenti-vendere-auto-ticino"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Domande frequenti"
+    },
+    {
+     "t": "text",
+     "html": "Tutto quello che devi sapere sulla vendita della tua auto a Lugano.",
+     "small": false
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Quanto vale la mia auto?",
+       "a": "<p>Dipende da marca, modello, anno, chilometri e condizioni. Mandami questi dati su WhatsApp, anche con qualche foto, e ti do una valutazione in tempi brevi. È gratuita e non ti impegna a niente.</p>"
+      },
+      {
+       "q": "Compri anche auto incidentate o guaste?",
+       "a": "<p>Sì. Compro auto in qualsiasi condizione, anche se non partono o non sono più collaudabili. Il trasporto lo organizzo io.</p>"
+      },
+      {
+       "q": "Quanto tempo ci vuole per vendere?",
+       "a": "<p>Se accetti l'offerta, spesso chiudiamo in 24 ore: appuntamento, controllo dell'auto, pagamento e ritiro.</p>"
+      },
+      {
+       "q": "Come avviene il pagamento?",
+       "a": "<p>Subito, al momento del ritiro. In contanti o con bonifico istantaneo, come preferisci. Prima i soldi, poi l'auto.</p>"
+      },
+      {
+       "q": "Chi si occupa dei documenti?",
+       "a": "<p>Io. Contratto di vendita, passaggio e, se serve, annullamento delle targhe: gestisco tutto io, senza costi per te.</p>"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": " Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Pronto a vendere la tua<br>auto a <span data-accent>Lugano</span>?"
+    },
+    {
+     "t": "text",
+     "html": "Vuoi sapere quanto vale la tua auto? Chiamami o scrivimi ora su WhatsApp. Ti rispondo in giornata.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "chips",
+     "items": [
+      "Paradiso",
+      "Massagno",
+      "Morcote",
+      "Melide",
+      "Agno",
+      "Caslano",
+      "Ponte Tresa"
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

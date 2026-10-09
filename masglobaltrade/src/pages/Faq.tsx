@@ -3,7 +3,7 @@ import { ChevronDown } from "../components/icons";
 import { usePageMeta } from "../lib/meta";
 import { useState } from "react";
 
-const FAQS = [
+export const FAQS = [
   { q: "Quali tipi di auto acquistate?", a: "Acquistiamo auto di tutte le marche e modelli, indipendentemente dall'anno e dal chilometraggio. Valutiamo anche auto incidentate o con problemi meccanici." },
   { q: "Comprate anche auto con leasing in corso?", a: "Sì, acquistiamo auto con leasing in corso. Possiamo saldare il contratto direttamente con la società di leasing e occuparci di tutte le pratiche burocratiche." },
   { q: "Come viene valutata la mia auto?", a: "Valutiamo la tua auto in base a marca, modello, anno, chilometraggio, condizioni generali e domanda di mercato. Puoi ricevere una valutazione gratuita e senza impegno contattandoci via telefono o WhatsApp." },

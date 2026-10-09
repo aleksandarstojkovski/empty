@@ -1,0 +1,642 @@
+{
+ "slug": "/compro-auto/biasca",
+ "title": "Compro auto a Biasca | Ritiro in valle",
+ "description": "Vendi la tua auto a Biasca, in Riviera, Leventina o valle di Blenio. Offerta gratuita, pagamento immediato e ritiro a domicilio fino ad Airolo.",
+ "sections": [
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "icon",
+     "name": "map-pin"
+    },
+    {
+     "t": "text",
+     "html": "Servizio attivo in Riviera, Leventina e valle di Blenio",
+     "small": true
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Compro auto a Biasca, in Riviera e nelle <span data-accent>Tre Valli</span>"
+    },
+    {
+     "t": "text",
+     "html": "Vengo io da te, da Biasca fino ad Airolo. Valutazione gratuita e pagamento immediato.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "grid",
+     "cols": 1,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "text",
+         "html": "4.9",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "clock"
+        },
+        {
+         "t": "text",
+         "html": "Risposta in poche ore",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "+10 anni di esperienza",
+         "small": false
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Compro auto usate nelle Tre Valli"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Sono Madian di MAS Global Trade. Compro auto usate da privati a Biasca e in tutte le Tre Valli: Riviera, Leventina e valle di Blenio. Qui molti pensano che per vendere un'auto convenga scendere a Bellinzona o a Lugano. Non serve: vengo io, fino ad Airolo, e il ritiro non ti costa niente."
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "La distanza non cambia il prezzo. L'offerta la faccio sui dati dell'auto: marca, modello, anno, chilometri e condizioni. Se ti va bene, fissiamo il ritiro e ricevi il pagamento sul posto, prima di consegnarmi il veicolo."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Che auto compro?"
+    },
+    {
+     "t": "text",
+     "html": "Auto di ogni tipo e condizione, comprese quelle segnate dagli inverni di montagna: ruggine, tanti chilometri, guasti, collaudo scaduto. Compro anche furgoni, pickup e 4x4 da lavoro, molto richiesti in valle e fuori.",
+     "small": false
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Tre passi. Zero stress."
+    },
+    {
+     "t": "text",
+     "html": "Tutto risolto in giornata, burocrazia inclusa. Tu non devi fare nulla.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "1"
+        },
+        {
+         "t": "icon",
+         "name": "camera"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Mandi le foto"
+        },
+        {
+         "t": "text",
+         "html": "Alcune foto dell'auto e la carta grigia su WhatsApp. Basta il telefono, nessuno spostamento.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Interno · Esterno · Carta grigia"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "2"
+        },
+        {
+         "t": "icon",
+         "name": "house"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Vengo da te"
+        },
+        {
+         "t": "text",
+         "html": "Valutazione gratuita a domicilio in Riviera, Leventina e valle di Blenio. Nessun costo di trasferta.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Riviera · Leventina · Blenio"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "3"
+        },
+        {
+         "t": "icon",
+         "name": "banknote"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Pagamento sul posto"
+        },
+        {
+         "t": "text",
+         "html": "Contanti o bonifico istantaneo. Mi occupo di tutta la burocrazia. Tu non devi fare nulla.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Contanti · Bonifico istantaneo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Clicca su un passo per scoprire i dettagli",
+     "small": true
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Perché scegliere MAS Global Trade"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Oltre 110 recensioni e una persona reale"
+    },
+    {
+     "t": "text",
+     "html": "Oltre 110 recensioni Google con media 4.9. Un solo interlocutore dall'inizio alla fine: rispondo io su WhatsApp e al telefono, 7 giorni su 7, e sono io che vengo al ritiro.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "Oltre 110 recensioni su Google, media 4.9 stelle",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "trending-up"
+        },
+        {
+         "t": "text",
+         "html": "Fino a 2.000 CHF in più rispetto alla concessionaria",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "map-pin"
+        },
+        {
+         "t": "text",
+         "html": "Ritiro gratuito in tutta la zona Riviera",
+         "small": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "shield"
+        },
+        {
+         "t": "text",
+         "html": "Oltre 10 anni di esperienza in Canton Ticino",
+         "small": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Mandami le foto su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Operazione reale a Biasca"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "BMW X1 2015: ritirata a Biasca"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto7.webp",
+         "alt": "BMW X1 2015 acquistata a Biasca"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Un BMW X1 bianco a Biasca con 110'000 km, in ottimo stato di manutenzione. Il cliente non voleva spendere settimane su AutoScout. Chiamata, visione e accordo in meno di 48 ore.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian, MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Biasca e dintorni",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "Scrivimi su WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Recensioni Google verificate"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· oltre 110 recensioni",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        },
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Cercavo qualcuno di affidabile per vendere la mia auto e qui ho trovato disponibilità, chiarezza e professionalità. Madian è una persona seria e gentile: mi ha spiegato tutto nei dettagli e la trattativa è stata rapida e semplice, senza problemi.\""
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "J"
+        },
+        {
+         "t": "text",
+         "html": "Johannus Demers",
+         "small": true
+        },
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ho avuto contatti con Madian per la vendita di un'auto. Posso solo dire cose molto positive. Madian è una persona molto disponibile, si è preso il tempo di venire a vedere l'auto anche durante una vacanza in Ticino. Lui non complica le cose, è diretto e trasparente.\""
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "F"
+        },
+        {
+         "t": "text",
+         "html": "Franco Gasparoli",
+         "small": true
+        },
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ho venduto la mia auto alla MAS GLOBAL TRADE e sono rimasto molto soddisfatto dell'esperienza. Servizio eccellente, contatto rapido e professionale, grande serietà e disponibilità durante tutta la trattativa. La vendita si è conclusa in tempi brevissimi. Consigliatissimi!\""
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Ritiriamo auto anche a..."
+    },
+    {
+     "t": "text",
+     "html": "Airolo, Faido, Acquarossa e Olivone. Il ritiro a domicilio è gratuito in tutta la zona.",
+     "small": false
+    },
+    {
+     "t": "chips",
+     "items": [
+      "Airolo",
+      "Faido",
+      "Acquarossa",
+      "Olivone"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Guide utili per vendere la tua auto"
+    },
+    {
+     "t": "links",
+     "items": [
+      {
+       "label": "Quanto vale la mia auto usata in Ticino?",
+       "href": "/blog/quanto-vale-mia-auto-usata-ticino"
+      },
+      {
+       "label": "Documenti per vendere l'auto in Ticino",
+       "href": "/blog/documenti-vendere-auto-ticino"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Domande frequenti"
+    },
+    {
+     "t": "text",
+     "html": "Tutto quello che devi sapere sulla vendita della tua auto nelle Tre Valli.",
+     "small": false
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Vieni davvero fino in valle senza costi?",
+       "a": "<p>Sì. Il ritiro a domicilio è incluso ovunque, da Biasca ad Airolo. La distanza non tocca né il prezzo né le condizioni.</p>"
+      },
+      {
+       "q": "La mia auto ha ruggine e il collaudo scaduto. Ha ancora un valore?",
+       "a": "<p>Quasi sempre sì. Mandami foto e dati e ti dico onestamente quanto posso offrirti. La valutazione non costa niente.</p>"
+      },
+      {
+       "q": "Compri anche 4x4 e furgoni da lavoro?",
+       "a": "<p>Sì, e volentieri: sono veicoli richiesti. Li valuto anche con chilometraggi alti.</p>"
+      },
+      {
+       "q": "Come fissiamo il ritiro?",
+       "a": "<p>Dopo l'offerta accettata concordiamo giorno e ora. Spesso riesco a passare entro 24 ore, anche in valle.</p>"
+      },
+      {
+       "q": "Il pagamento avviene sul posto?",
+       "a": "<p>Sì, al ritiro: contanti o bonifico istantaneo, come preferisci, prima della consegna dell'auto.</p>"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Pronto a vendere la tua auto a <span data-accent>Biasca</span>?"
+    },
+    {
+     "t": "text",
+     "html": "Hai un'auto da vendere in valle? Scrivimi su WhatsApp con i dati e qualche foto: ti rispondo in giornata.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

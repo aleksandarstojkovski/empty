@@ -1,0 +1,231 @@
+{
+ "slug": "/come-funziona",
+ "title": "Come vendere la tua auto a MAS | MAS Ticino",
+ "description": "Invia dati e foto, ricevi la proposta, concorda il ritiro e vieni pagato: ecco i passaggi per vendere la tua auto a MAS Global Trade.",
+ "sections": [
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Processo di vendita"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Vendi la tua auto<br>in 3 semplici passi"
+    },
+    {
+     "t": "text",
+     "html": "Ricevi una valutazione rapida. Pagamento immediato e ritiro a domicilio ovunque ti trovi in Ticino.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Chiama Ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      },
+      {
+       "label": "Scrivici su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "grid",
+     "cols": 1,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "01"
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Contattaci"
+        },
+        {
+         "t": "text",
+         "html": "Chiamaci al +41 79 863 53 91, scrivi su WhatsApp o compila il modulo qui sotto con i dati della tua auto. Rispondiamo rapidamente, 7 giorni su 7.",
+         "small": false
+        },
+        {
+         "t": "list",
+         "ordered": false,
+         "items": [
+          {
+           "html": "Risposta rapida, tutti i giorni",
+           "icon": "check"
+          },
+          {
+           "html": "Nessun appuntamento necessario",
+           "icon": "check"
+          },
+          {
+           "html": "Disponibili anche il weekend",
+           "icon": "check"
+          }
+         ]
+        },
+        {
+         "t": "image",
+         "src": "/compro-auto.webp",
+         "alt": "Madian al telefono con un cliente"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "02"
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Valutazione Gratuita"
+        },
+        {
+         "t": "text",
+         "html": "Valutiamo la tua auto in base a marca, modello, anno, chilometraggio, condizioni e domanda di mercato. Ti facciamo un'offerta chiara, senza impegno.",
+         "small": false
+        },
+        {
+         "t": "list",
+         "ordered": false,
+         "items": [
+          {
+           "html": "Valutazione online o a domicilio",
+           "icon": "check"
+          },
+          {
+           "html": "Basata sul reale valore di mercato",
+           "icon": "check"
+          },
+          {
+           "html": "Senza impegno, 100% gratuita",
+           "icon": "check"
+          }
+         ]
+        },
+        {
+         "t": "image",
+         "src": "/auto4.webp",
+         "alt": "Valutazione dell'auto a domicilio"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "03"
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Pagamento Immediato"
+        },
+        {
+         "t": "text",
+         "html": "Se accetti la nostra offerta, possiamo concludere l'acquisto in giornata. Veniamo a ritirare il veicolo a domicilio e paghiamo subito.",
+         "small": false
+        },
+        {
+         "t": "list",
+         "ordered": false,
+         "items": [
+          {
+           "html": "Ritiro a domicilio gratuito",
+           "icon": "check"
+          },
+          {
+           "html": "Bonifico o contanti immediati",
+           "icon": "check"
+          },
+          {
+           "html": "Gestiamo tutta la burocrazia",
+           "icon": "check"
+          }
+         ]
+        },
+        {
+         "t": "image",
+         "src": "/auto2.webp",
+         "alt": "Pagamento immediato al cliente"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Pronto a vendere la tua auto?"
+    },
+    {
+     "t": "text",
+     "html": "Chiama ora o scrivi su WhatsApp: rispondiamo in meno di 1 ora, ogni giorno.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      },
+      {
+       "label": "Scrivici su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Richiedi una Valutazione Gratuita"
+    },
+    {
+     "t": "text",
+     "html": "Compila il modulo con i dati della tua auto. Ti ricontattiamo rapidamente con un'offerta, senza impegno.",
+     "small": false
+    },
+    {
+     "t": "form"
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

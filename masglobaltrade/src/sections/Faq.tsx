@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ChevronDown, ChevronUp, MessageCircle, Phone } from "../components/icons";
 import { TEL, WHATSAPP } from "../lib/site";
 
-const FAQS = [
+export const FAQS = [
   {
     question: "Quali tipi di auto acquistate?",
     answer:

@@ -1,0 +1,496 @@
+{
+ "slug": "/valutazione-gratuita",
+ "title": "Valutazione auto gratuita in Ticino | MAS",
+ "description": "Scopri il valore della tua auto con una valutazione gratuita e senza impegno. Risposta rapida, pagamento immediato e ritiro in tutto il Ticino.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": {
+    "src": "/auto3.webp",
+    "alt": "Valutazione auto gratuita in Ticino"
+   },
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "<span data-accent>Gratuita · Senza impegno · In poche ore</span>"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Scopri quanto vale<br>la tua auto: <span data-accent>gratis,<br>senza impegno.</span>"
+    },
+    {
+     "t": "text",
+     "html": "Mandi le foto su WhatsApp, ti rispondiamo in poche ore.<br><span data-accent>Nessun costo, nessun obbligo di vendere.</span>",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Valutazione gratuita",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "icon": "shield-check",
+       "html": " Nessun obbligo di vendere"
+      },
+      {
+       "icon": "star",
+       "html": " 4.9 · 101 recensioni Google"
+      },
+      {
+       "icon": "zap",
+       "html": " +10 anni di esperienza"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Quattro passi. Zero rischio."
+    },
+    {
+     "t": "grid",
+     "cols": 4,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "01"
+        },
+        {
+         "t": "icon",
+         "name": "camera"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Mandi le foto"
+        },
+        {
+         "t": "text",
+         "html": "Auto dentro e fuori + carta grigia su WhatsApp. 2 minuti dal tuo telefono, nessuno spostamento.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "2 minuti"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "02"
+        },
+        {
+         "t": "icon",
+         "name": "chart-line"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Analizziamo il mercato"
+        },
+        {
+         "t": "text",
+         "html": "Controlliamo il valore reale su AutoScout e aste professionali, non numeri inventati.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Dati reali"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "03"
+        },
+        {
+         "t": "icon",
+         "name": "clock"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Risposta in poche ore"
+        },
+        {
+         "t": "text",
+         "html": "Prima valutazione chiara e onesta. Puoi anche non vendere: nessun obbligo.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Stessa giornata"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "04"
+        },
+        {
+         "t": "icon",
+         "name": "house"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Visita a domicilio"
+        },
+        {
+         "t": "text",
+         "html": "Se vuoi procedere, vengo io da te. L'offerta finale è quella comunicata: nessuna sorpresa.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Gratis"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Clicca su un passo per i dettagli",
+     "small": true
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Rischio zero. <span data-accent>Per davvero.</span>"
+    },
+    {
+     "t": "text",
+     "html": "Ecco perché migliaia di ticinesi scelgono di partire da qui",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "circle-check"
+        },
+        {
+         "t": "text",
+         "html": "Zero costi, zero obblighi: puoi anche non vendere",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "La valutazione è sempre gratuita",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "circle-check"
+        },
+        {
+         "t": "text",
+         "html": "Valutazione basata sul mercato reale, non numeri campati per aria",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "AutoScout, aste, dati aggiornati",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "circle-check"
+        },
+        {
+         "t": "text",
+         "html": "L'offerta definitiva è quella che ti diciamo, non cambia il giorno del ritiro",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Nessuna sorpresa, mai",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "circle-check"
+        },
+        {
+         "t": "text",
+         "html": "Oltre 10 anni di esperienza, centinaia di auto valutate in tutto il Ticino",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Il riferimento locale per la compravendita",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Valutazione gratuita su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Come funziona nella realtà"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Da WhatsApp all'accordo, in giornata"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto3.webp",
+         "alt": "Valutazione auto a domicilio in Ticino"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Un cliente di Bellinzona ci ha scritto su WhatsApp alle 9 di mattina. Aveva ricevuto un preventivo di collaudo da 2.800 franchi e voleva capire quanto valesse la sua auto. Gli abbiamo risposto entro un'ora, siamo andati da lui nel pomeriggio. Offerta fatta sul posto, vendita conclusa in giornata. Quei 2.800 franchi li ha usati come anticipo per l'auto nuova.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian | MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Tutto il Ticino",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· 101 recensioni Google",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Gentilezza, professionalità e correttezza. Persona affidabile e piacevole. Trattativa veloce e trasparente. Consiglio vivamente.\""
+        },
+        {
+         "t": "text",
+         "html": "dmastroberti",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Molto onesto e trattativa rapida; persona molto corretta, lo contatterò sicuramente per una futura vendita.\""
+        },
+        {
+         "t": "text",
+         "html": "Alessandro Licone",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Disponibilità, chiarezza e professionalità. Trattativa rapida e semplice, senza problemi.\""
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": " Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Quanto vale la tua auto?<br>Scoprilo oggi, gratis."
+    },
+    {
+     "t": "text",
+     "html": "Nessun impegno. Manda le foto e hai una risposta in poche ore.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Valutazione gratuita",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

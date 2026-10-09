@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+/* Shared base: each design scopes its own look under .d1 / .d2 / .d3. */
+html {
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+/* Infinite marquee used by all designs */
+.mq {
+  overflow: hidden;
+  width: 100%;
+}
+.mq__track {
+  display: flex;
+  width: max-content;
+  animation: mq-scroll var(--mq-d, 30s) linear infinite;
+  animation-direction: var(--mq-dir, normal);
+}
+.mq__group {
+  display: flex;
+  flex: none;
+}
+@keyframes mq-scroll {
+  to {
+    transform: translateX(-50%);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mq__track {
+    animation: none;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

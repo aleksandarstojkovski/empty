@@ -1,0 +1,104 @@
+{
+ "slug": "/note-legali",
+ "title": "Note legali | MAS Global Trade",
+ "description": "Dati del titolare, condizioni e informazioni legali del sito MAS Global Trade, servizio di acquisto auto usate con sede a Cadenazzo.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Ragione sociale"
+    },
+    {
+     "t": "text",
+     "html": "Ticino Cars by Deen Auto Sagl<br>(operante come MAS Global Trade)",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Titolare"
+    },
+    {
+     "t": "text",
+     "html": "Madian Al Shweiki",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Sede legale"
+    },
+    {
+     "t": "text",
+     "html": "Via Muraccio 10<br>6612 Ascona<br>Cantone Ticino, Svizzera",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Sede operativa"
+    },
+    {
+     "t": "text",
+     "html": "Via Monte Ceneri 12<br>6593 Cadenazzo (TI)<br>Svizzera",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Numero UID"
+    },
+    {
+     "t": "text",
+     "html": "CHE-375.295.849",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Contatti"
+    },
+    {
+     "t": "text",
+     "html": "Telefono: <a href=\"tel:+41798635391\">+41 79 863 53 91</a><br>Email: <a href=\"mailto:info@masglobaltrade.ch\">info@masglobaltrade.ch</a><br>WhatsApp: <a href=\"https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20\">+41 79 863 53 91</a>",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Sito web"
+    },
+    {
+     "t": "text",
+     "html": "<a href=\"https://masglobaltrade.ch\">masglobaltrade.ch</a>",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Realizzazione del sito"
+    },
+    {
+     "t": "text",
+     "html": "<a href=\"https://nobamedia.com\">NOBA Media</a>",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Esclusione di responsabilità"
+    },
+    {
+     "t": "text",
+     "html": "Nonostante la cura riposta nella redazione dei contenuti di questo sito, MAS Global Trade declina ogni responsabilità per l'accuratezza, la completezza e l'attualità delle informazioni pubblicate. I link a siti esterni sono forniti a titolo informativo; MAS Global Trade non è responsabile del contenuto delle pagine collegate.",
+     "small": false
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

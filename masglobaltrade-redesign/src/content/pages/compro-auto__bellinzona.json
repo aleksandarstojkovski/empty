@@ -1,0 +1,607 @@
+{
+ "slug": "/compro-auto/bellinzona",
+ "title": "Compro auto a Bellinzona | Vendita rapida",
+ "description": "Vendi la tua auto a Bellinzona e nel Bellinzonese: valutazione gratuita, pagamento in contanti o bonifico e ritiro a domicilio anche in tempi rapidi.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "image",
+     "src": "/city-bellinzona.webp",
+     "alt": "Bellinzona castelli"
+    },
+    {
+     "t": "eyebrow",
+     "html": "Castelli di Bellinzona"
+    },
+    {
+     "t": "text",
+     "html": "Patrimonio UNESCO",
+     "small": true
+    },
+    {
+     "t": "image",
+     "src": "/city-bellinzona.webp",
+     "alt": "Bellinzona"
+    },
+    {
+     "t": "text",
+     "html": "<span data-accent>Servizio attivo a Bellinzona e in tutto il Bellinzonese</span>",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Compro auto a Bellinzona<br>e in tutto il <span data-accent>Bellinzonese</span>"
+    },
+    {
+     "t": "text",
+     "html": "Offerta chiara, ritiro a domicilio e pagamento immediato. Spesso tutto in 24 ore.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "WhatsApp, manda le foto",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "icon": "star",
+       "html": " 4.9 · oltre 110 recensioni"
+      },
+      {
+       "icon": "clock",
+       "html": " Risposta in poche ore"
+      },
+      {
+       "icon": "zap",
+       "html": " +10 anni di esperienza"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Compro auto usate a Bellinzona"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Sono Madian di MAS Global Trade. Compro auto usate da privati a Bellinzona e in tutto il Bellinzonese, con una promessa semplice: farti perdere meno tempo possibile. Uno degli ultimi ritiri pubblicati tra le mie auto acquistate è stato proprio a Bellinzona: dal primo contatto telefonico al pagamento, tutto in 24 ore."
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Se stai cambiando auto, se ne hai una in più o se vuoi solo chiudere la pratica senza passare settimane sugli annunci, il percorso con me è corto: dati dell'auto, offerta, ritiro. Il pagamento arriva prima della consegna, in contanti o con bonifico istantaneo."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Che auto compro?"
+    },
+    {
+     "t": "text",
+     "html": "Ogni marca e ogni condizione: auto recenti da permuta, auto con molti chilometri, incidentate, guaste o da rottamare. Anche furgoni e veicoli da lavoro. Nessun veicolo è troppo vecchio o troppo messo male per una valutazione.",
+     "small": false
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Semplice come 1, 2 e 3"
+    },
+    {
+     "t": "grid",
+     "cols": 1,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "1"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "camera",
+           "html": "Mandi le foto"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Alcune foto dell'auto e la carta grigia su WhatsApp. Basta il telefono. Nessuno spostamento richiesto.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "2"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "house",
+           "html": "Vengo da te"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Valutazione gratuita a domicilio in tutta la zona bellinzonese, incluse le valli. Nessun costo di trasferta.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "3"
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "banknote",
+           "html": "Pagamento sul posto"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "Contanti o bonifico istantaneo. Targhe, carta grigia e burocrazia: tutto gestito da me. Tu chiudi la porta e basta.",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Inizia subito, WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama Madian",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Perché scegliere <span data-accent>MAS Global Trade</span>"
+    },
+    {
+     "t": "text",
+     "html": "Oltre 110 recensioni Google, media 4.9 stelle. Ogni trattativa la seguo io di persona: stessa voce al telefono, stessa persona al ritiro, prezzo pattuito uguale al prezzo pagato. Parlo italiano, tedesco, francese e inglese.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "Risposta garantita in poche ore",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "7 giorni su 7, feste incluse",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "map-pin"
+        },
+        {
+         "t": "text",
+         "html": "Fino a 2.000 CHF in più della concessionaria",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Nessun intermediario, margine diretto a te",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "clock"
+        },
+        {
+         "t": "text",
+         "html": "Ritiro gratuito in tutto il bellinzonese",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Valli incluse: Riviera, Blenio, Leventina",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "circle-check"
+        },
+        {
+         "t": "text",
+         "html": "Burocrazia completamente gestita da me",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Targhe, carta grigia, pratiche, tutto incluso",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Operazione reale a Bellinzona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Peugeot 3008 2019: ritirata a Bellinzona"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto3.webp",
+         "alt": "Peugeot 3008"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Un Peugeot 3008 in ottimo stato a Bellinzona, il proprietario si trasferiva all'estero. Valutazione onesta, accordo in meno di un'ora, pagamento con bonifico istantaneo. Pratica completata in giornata.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian, MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Bellinzona e dintorni",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· oltre 110 recensioni Google",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Cercavo qualcuno di affidabile per vendere la mia auto e qui ho trovato disponibilità, chiarezza e professionalità. Trattativa rapida e semplice, senza problemi.\""
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Favorevolmente colpiti dalla gentilezza, professionalità e correttezza riscontrate in Madian. Persona affidabile e piacevole. Trattativa veloce e trasparente. Consiglio vivamente. Donato e Patrizia\""
+        },
+        {
+         "t": "text",
+         "html": "dmastroberti",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Servizio eccellente, contatto rapido e professionale, grande serietà durante tutta la trattativa. La vendita si è conclusa in tempi brevissimi. Consigliatissimi!\""
+        },
+        {
+         "t": "text",
+         "html": "Franco Gasparoli",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Ritiriamo auto anche a..."
+    },
+    {
+     "t": "text",
+     "html": "Giubiasco, Camorino, Cadenazzo e Sant'Antonino. Il ritiro a domicilio è gratuito in tutta la zona.",
+     "small": false
+    },
+    {
+     "t": "chips",
+     "items": [
+      "Giubiasco",
+      "Camorino",
+      "Cadenazzo",
+      "Sant'Antonino"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Guide utili per vendere la tua auto"
+    },
+    {
+     "t": "links",
+     "items": [
+      {
+       "label": "Quanto vale la mia auto usata in Ticino?",
+       "href": "/blog/quanto-vale-mia-auto-usata-ticino"
+      },
+      {
+       "label": "Documenti per vendere l'auto in Ticino",
+       "href": "/blog/documenti-vendere-auto-ticino"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Domande frequenti"
+    },
+    {
+     "t": "text",
+     "html": "Tutto quello che devi sapere sulla vendita della tua auto a Bellinzona.",
+     "small": false
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Riesci a ritirare l'auto in giornata?",
+       "a": "<p>Spesso sì. Se l'offerta ti va bene e i documenti sono pronti, organizzo il ritiro anche in giornata o entro 24 ore.</p>"
+      },
+      {
+       "q": "Puoi passare mentre sono al lavoro?",
+       "a": "<p>Sì. Il ritiro lo facciamo dove è più comodo per te: a casa, al lavoro o in un altro punto concordato.</p>"
+      },
+      {
+       "q": "Contanti o bonifico?",
+       "a": "<p>Scegli tu. Contanti alla consegna oppure bonifico istantaneo che vedi accreditato prima di lasciarmi l'auto.</p>"
+      },
+      {
+       "q": "L'offerta al telefono poi cambia dal vivo?",
+       "a": "<p>No, se l'auto corrisponde a quello che mi hai descritto. Il controllo dal vivo serve solo a confermare le condizioni: niente ribassi a sorpresa all'ultimo momento.</p>"
+      },
+      {
+       "q": "Fate anche l'annullamento delle targhe?",
+       "a": "<p>Sì, se serve me ne occupo io insieme al resto della burocrazia, senza costi per te.</p>"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": " Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Pronto a vendere la tua<br>auto a Bellinzona?"
+    },
+    {
+     "t": "text",
+     "html": "Vuoi chiudere in fretta e bene? Chiamami o scrivimi su WhatsApp: ti dico subito quanto vale la tua auto.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

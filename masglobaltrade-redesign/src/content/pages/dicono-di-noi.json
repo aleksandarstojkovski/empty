@@ -1,0 +1,340 @@
+{
+ "slug": "/dicono-di-noi",
+ "title": "Recensioni su MAS Global Trade | Clienti in Ticino",
+ "description": "Leggi le recensioni di chi ha venduto l'auto a MAS Global Trade: valutazione chiara, pagamento concordato e ritiro semplice in Canton Ticino.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9 su Google · 101 recensioni verificate",
+     "small": true
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Non te lo diciamo noi.<br><span data-accent>Lo dicono loro.</span>"
+    },
+    {
+     "t": "text",
+     "html": "Vendere un'auto è una questione di fiducia. Ecco cosa ci hanno scritto i clienti dopo aver venduto la loro auto con noi.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Parole dei clienti"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Le storie che ci hanno colpito di più"
+    },
+    {
+     "t": "text",
+     "html": "Non stelle anonime: ecco cosa ci hanno scritto, con le loro parole.",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "quote",
+         "html": "«Sei l'unico di cui ci si potesse fidare»"
+        },
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "quote",
+         "html": "\"Tra tutti quelli a cui ho scritto, sei l'unico con cui ho avuto una bella conversazione, un bel feeling. Qualcuno di cui ci si potesse fidare.\""
+        },
+        {
+         "t": "text",
+         "html": "Cliente privato, zona Lugano",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "quote",
+         "html": "«Abbiamo scelto te anche se la tua offerta era più bassa»"
+        },
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "quote",
+         "html": "\"Cercavamo un professionista affidabile. La tua offerta era più bassa di 2.500 franchi rispetto a un altro, ma abbiamo scelto te. Il prezzo che ci hai detto era quello: nessuna sorpresa.\""
+        },
+        {
+         "t": "text",
+         "html": "Coppia, Campione d'Italia",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "quote",
+         "html": "«Primo a rispondere, primo a venire, primo a stringermi la mano»"
+        },
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "quote",
+         "html": "\"ChatGPT mi ha consigliato 7 commercianti. Ho scritto a tutti. Sei stato il primo a rispondermi, il primo a venire, il primo a stringermi la mano. Per me era quello che contava.\""
+        },
+        {
+         "t": "text",
+         "html": "Cliente privato, Canton Ticino",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "In numeri"
+    },
+    {
+     "t": "grid",
+     "cols": 4,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "award"
+        },
+        {
+         "t": "stat",
+         "text": "10+"
+        },
+        {
+         "t": "text",
+         "html": "anni di esperienza in Canton Ticino",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "car"
+        },
+        {
+         "t": "stat",
+         "text": "500+"
+        },
+        {
+         "t": "text",
+         "html": "auto acquistate da privati e aziende",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "clock"
+        },
+        {
+         "t": "stat",
+         "text": "24h"
+        },
+        {
+         "t": "text",
+         "html": "dalla prima chiamata alla conclusione",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 1
+        },
+        {
+         "t": "stat",
+         "text": "4.9★"
+        },
+        {
+         "t": "text",
+         "html": "valutazione media su 101 recensioni Google",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Ci hanno già scelto anche loro"
+    },
+    {
+     "t": "image",
+     "src": "/logo-delea.webp",
+     "alt": "Delea"
+    },
+    {
+     "t": "image",
+     "src": "/logo-tpl.webp",
+     "alt": "TPL Lugano"
+    },
+    {
+     "t": "image",
+     "src": "/logo-laposta.webp",
+     "alt": "La Posta"
+    },
+    {
+     "t": "image",
+     "src": "/logo-eoc.webp",
+     "alt": "EOC"
+    },
+    {
+     "t": "image",
+     "src": "/logo-grunenfelder.webp",
+     "alt": "Grünenfelder"
+    },
+    {
+     "t": "image",
+     "src": "/logo-comartech.webp",
+     "alt": "Comartech"
+    },
+    {
+     "t": "image",
+     "src": "/logo-pieroferrari.webp",
+     "alt": "Gruppo Piero Ferrari"
+    },
+    {
+     "t": "image",
+     "src": "/logo-delea.webp",
+     "alt": "Delea"
+    },
+    {
+     "t": "image",
+     "src": "/logo-tpl.webp",
+     "alt": "TPL Lugano"
+    },
+    {
+     "t": "image",
+     "src": "/logo-laposta.webp",
+     "alt": "La Posta"
+    },
+    {
+     "t": "image",
+     "src": "/logo-eoc.webp",
+     "alt": "EOC"
+    },
+    {
+     "t": "image",
+     "src": "/logo-grunenfelder.webp",
+     "alt": "Grünenfelder"
+    },
+    {
+     "t": "image",
+     "src": "/logo-comartech.webp",
+     "alt": "Comartech"
+    },
+    {
+     "t": "image",
+     "src": "/logo-pieroferrari.webp",
+     "alt": "Gruppo Piero Ferrari"
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": " Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Unisciti a chi ha già<br>venduto con noi."
+    },
+    {
+     "t": "text",
+     "html": "Valutazione gratuita a domicilio · Pagamento immediato · Tutto il Ticino",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "slug": "/contatti",
+ "title": "Contatti per vendere la tua auto | MAS Ticino",
+ "description": "Contatta MAS Global Trade per vendere la tua auto: telefono, WhatsApp, email e sede a Cadenazzo. Richiedi una valutazione gratuita senza impegno.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Contattaci"
+    },
+    {
+     "t": "text",
+     "html": "Siamo disponibili 7 giorni su 7, weekend e festivi inclusi.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Richiedi una valutazione"
+        },
+        {
+         "t": "form"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "I nostri recapiti"
+        },
+        {
+         "t": "grid",
+         "cols": 1,
+         "items": [
+          {
+           "blocks": [
+            {
+             "t": "icon",
+             "name": "phone"
+            },
+            {
+             "t": "text",
+             "html": "Telefono",
+             "small": false
+            },
+            {
+             "t": "text",
+             "html": "+41 79 863 53 91",
+             "small": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "text",
+             "html": "WhatsApp",
+             "small": false
+            },
+            {
+             "t": "text",
+             "html": "Invia foto per valutazione rapida",
+             "small": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "icon",
+             "name": "mail"
+            },
+            {
+             "t": "text",
+             "html": "Email",
+             "small": false
+            },
+            {
+             "t": "text",
+             "html": "info@masglobaltrade.ch",
+             "small": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "icon",
+             "name": "map-pin"
+            },
+            {
+             "t": "text",
+             "html": "Sede (Su appuntamento)",
+             "small": false
+            },
+            {
+             "t": "text",
+             "html": "Via Monte Ceneri 12, 6593 Cadenazzo (TI)",
+             "small": false
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "globe",
+           "html": "Lingue parlate"
+          }
+         ]
+        },
+        {
+         "t": "list",
+         "ordered": false,
+         "items": [
+          {
+           "html": "Italiano"
+          },
+          {
+           "html": "Deutsch"
+          },
+          {
+           "html": "Français"
+          },
+          {
+           "html": "English"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": true
+  }
+ ]
+}

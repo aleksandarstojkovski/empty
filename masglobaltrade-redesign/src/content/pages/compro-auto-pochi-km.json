@@ -1,0 +1,475 @@
+{
+ "slug": "/compro-auto-pochi-km",
+ "title": "Vendi un'auto con pochi chilometri in Ticino",
+ "description": "Hai un'auto con pochi chilometri? Ricevi una valutazione gratuita in Ticino, pagamento immediato e ritiro a domicilio senza obbligo di acquisto.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": {
+    "src": "/auto8.webp",
+    "alt": "Auto con pochi chilometri"
+   },
+   "blocks": [
+    {
+     "t": "meta",
+     "items": [
+      {
+       "icon": "gauge",
+       "html": "Valutazione massima garantita"
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "La tua auto ha pochi km?<br><span data-accent>Vale più di quanto pensi.</span>"
+    },
+    {
+     "t": "text",
+     "html": "Le auto sotto i 100.000 km sono le più ricercate.<br><span data-accent>Valutiamo al massimo, paghiamo subito.</span>",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "icon": "star",
+       "html": " 4.9 · 101 recensioni Google"
+      },
+      {
+       "icon": "clock",
+       "html": " Risposta in poche ore"
+      },
+      {
+       "icon": "zap",
+       "html": " +10 anni di esperienza"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Tre passi. Zero stress."
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "01"
+        },
+        {
+         "t": "icon",
+         "name": "camera"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Mandi le foto"
+        },
+        {
+         "t": "text",
+         "html": "Alcune foto su WhatsApp e la carta grigia. Tutto dal tuo telefono, nessuno spostamento.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "2 minuti"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "02"
+        },
+        {
+         "t": "icon",
+         "name": "house"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Vengo da te"
+        },
+        {
+         "t": "text",
+         "html": "Valutazione gratuita a domicilio in tutto il Ticino. Nessun costo, nessun impegno.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Gratis"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "03"
+        },
+        {
+         "t": "icon",
+         "name": "banknote"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Pagamento immediato"
+        },
+        {
+         "t": "text",
+         "html": "Contanti o bonifico istantaneo sul posto. Burocrazia completamente gestita da me.",
+         "small": true
+        },
+        {
+         "t": "badge",
+         "html": "Stesso giorno"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Clicca su un passo per i dettagli",
+     "small": true
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Più soldi. <span data-accent>Meno stress.</span> Subito."
+    },
+    {
+     "t": "text",
+     "html": "Perché le auto con pochi km valgono di più, e noi lo sappiamo",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "Risposta in poche ore, 7 giorni su 7",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Nessuna attesa, nessun rimbalzo",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "trending-up"
+        },
+        {
+         "t": "text",
+         "html": "Fino a 2.000 CHF in più rispetto alla concessionaria",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Offerta onesta e trasparente",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "car"
+        },
+        {
+         "t": "text",
+         "html": "Anche auto vecchie con pochi km: l'anno conta meno",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Quel che conta davvero è il contachilometri",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "shield-check"
+        },
+        {
+         "t": "text",
+         "html": "Oltre 10 anni di esperienza in Canton Ticino",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Centinaia di auto acquistate da privati",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Mandami le foto su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Operazione reale: auto con pochi km"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Fiat 500 Cabrio 2019 | 40.000 km"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto8.webp",
+         "alt": "Fiat 500 Cabrio 2019, 40.000 km"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Una signora del Luganese ci ha contattato per una Fiat 500 Cabrio del 2019 con soli 40.000 km. Siamo andati da lei nel pomeriggio stesso, accordo in 15 minuti, pagamento immediato. Lei aveva già ricevuto un'altra offerta, ma ha scelto noi per serietà e puntualità.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian | MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Tutto il Ticino",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· 101 recensioni Google",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Cercavo qualcuno di affidabile per vendere la mia auto e qui ho trovato disponibilità, chiarezza e professionalità. Madian è una persona seria e gentile: trattativa rapida e semplice, senza problemi.\""
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ho avuto contatti con Madian per la vendita di un'auto. Posso solo dire cose molto positive. È molto disponibile, diretto e trasparente. Esperienza davvero positiva.\""
+        },
+        {
+         "t": "text",
+         "html": "Johannus Demers",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Sono rimasto molto soddisfatto dell'esperienza. Servizio eccellente, contatto rapido e professionale. La vendita si è conclusa in tempi brevissimi. Consigliatissimi!\""
+        },
+        {
+         "t": "text",
+         "html": "Franco Gasparoli",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": " Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Scopri subito quanto<br>vale la tua auto."
+    },
+    {
+     "t": "text",
+     "html": "Mandaci le foto su WhatsApp: risposta in poche ore, senza impegno.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

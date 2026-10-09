@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 
-const PICKUPS = [
+export const PICKUPS = [
   { src: "/ritiro-cliente-01.webp", alt: "Cliente con Madian davanti alla sua Toyota venduta", city: "Massagno" },
   { src: "/ritiro-cliente-02.webp", alt: "Cliente con Madian davanti alla sua Subaru venduta", city: "Arbedo" },
   { src: "/ritiro-cliente-03.webp", alt: "Cliente con Madian davanti alla sua Suzuki venduta", city: "Tresa" },

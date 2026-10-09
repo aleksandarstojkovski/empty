@@ -1,0 +1,623 @@
+{
+ "slug": "/compro-auto/mendrisio",
+ "title": "Compro auto a Mendrisio | Pagamento immediato",
+ "description": "Acquistiamo auto a Mendrisio, Chiasso e nel Mendrisiotto. Valutazione gratuita, pagamento immediato e ritiro a domicilio senza pratiche a tuo carico.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "badge",
+         "html": "Servizio attivo nel Mendrisiotto"
+        },
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "Compro auto a Mendrisio<br>e in tutto il Mendrisiotto"
+        },
+        {
+         "t": "text",
+         "html": "Da Chiasso a Stabio, ritiro la tua auto a domicilio con pagamento immediato.",
+         "small": false
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "Scrivimi su WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        },
+        {
+         "t": "meta",
+         "items": [
+          {
+           "icon": "star",
+           "html": " 4.9 · oltre 110 recensioni"
+          },
+          {
+           "icon": "clock",
+           "html": " Risposta in poche ore"
+          },
+          {
+           "icon": "zap",
+           "html": " +10 anni di esperienza"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/city-mendrisio.webp",
+         "alt": "Mendrisiotto vigneti"
+        },
+        {
+         "t": "eyebrow",
+         "html": "Il Mendrisiotto"
+        },
+        {
+         "t": "text",
+         "html": "Terra di vigneti e storia",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Compro auto usate a Mendrisio"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Sono Madian di MAS Global Trade. Opero regolarmente a Mendrisio e in tutto il Mendrisiotto, dove ritiro auto usate da privati con valutazione gratuita e pagamento immediato. In molti casi il ritiro avviene entro 24 ore dalla richiesta."
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "text",
+         "html": "Nel Mendrisiotto mi capita spesso di comprare auto che i garage valutano poco o rifiutano: diesel con tanti chilometri, auto datate ma funzionanti, veicoli da esportazione. Per me hanno un valore anche quelle, e te lo dico chiaramente in fase di offerta, senza tirare sul prezzo dal vivo."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Che auto compro?"
+    },
+    {
+     "t": "text",
+     "html": "Auto di ogni marca, anche con chilometraggi alti, danni da grandine, incidenti o guasti meccanici. Berline, SUV, utilitarie, furgoni e pickup. Le auto adatte all'esportazione le compro anche quando il mercato locale non le vuole più.",
+     "small": false
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Come funziona"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Tre passi, nessuna complicazione."
+    },
+    {
+     "t": "text",
+     "html": "Dalla prima foto al pagamento: spesso poche ore.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "01"
+        },
+        {
+         "t": "icon",
+         "name": "camera"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Mandi le foto"
+        },
+        {
+         "t": "text",
+         "html": "Scatta alcune foto dell'auto e della carta grigia. Le mandi su WhatsApp, ci vogliono 2 minuti.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "02"
+        },
+        {
+         "t": "icon",
+         "name": "house"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Vengo da te"
+        },
+        {
+         "t": "text",
+         "html": "Valutazione gratuita a domicilio. Mi muovo in tutto il Mendrisiotto senza costi aggiuntivi.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "number",
+         "text": "03"
+        },
+        {
+         "t": "icon",
+         "name": "banknote"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Pago sul posto"
+        },
+        {
+         "t": "text",
+         "html": "Contanti o bonifico istantaneo. Burocrazia, targhe e carta grigia le gestisco io al 100%.",
+         "small": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Mandami le foto su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama Madian",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Perché scegliere MAS Global Trade"
+    },
+    {
+     "t": "text",
+     "html": "110 e più recensioni su Google, media 4.9. Rispondo io, tutti i giorni, in quattro lingue. Il prezzo che concordiamo al telefono è il prezzo che ricevi al ritiro, se l'auto corrisponde alla descrizione.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "clock"
+        },
+        {
+         "t": "text",
+         "html": "Risposta in poche ore",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "7 giorni su 7, feste incluse",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "map-pin"
+        },
+        {
+         "t": "text",
+         "html": "+2.000 CHF in più della concessionaria",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Nessun intermediario, margine a te",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "zap"
+        },
+        {
+         "t": "text",
+         "html": "Ritiro gratuito nel Mendrisiotto",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Da Chiasso a Riva San Vitale e oltre",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "shield-check"
+        },
+        {
+         "t": "text",
+         "html": "Burocrazia completamente gestita",
+         "small": true
+        },
+        {
+         "t": "text",
+         "html": "Targhe, carta grigia, pratiche incluse",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": "Operazione reale nel Mendrisiotto"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "MINI Cooper S Clubman 2019: ritirata a Mendrisio"
+    },
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto4.webp",
+         "alt": "MINI Cooper S Clubman"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "quote"
+        },
+        {
+         "t": "text",
+         "html": "Una MINI Cooper S Clubman nera a Mendrisio, il cliente aveva già ricevuto offerte basse dai concessionari. Noi abbiamo valutato correttamente e chiuso in giornata.",
+         "small": false
+        },
+        {
+         "t": "badge",
+         "html": "M"
+        },
+        {
+         "t": "text",
+         "html": "Madian, MAS Global Trade",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquirente diretto · Mendrisiotto",
+         "small": true
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          },
+          {
+           "label": "Chiama ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Cosa dicono i nostri clienti"
+    },
+    {
+     "t": "stars",
+     "n": 5
+    },
+    {
+     "t": "text",
+     "html": "4.9",
+     "small": false
+    },
+    {
+     "t": "text",
+     "html": "· oltre 110 recensioni Google",
+     "small": true
+    },
+    {
+     "t": "grid",
+     "cols": 3,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Ottima esperienza! Cercavo qualcuno di affidabile per vendere la mia auto e qui ho trovato disponibilità, chiarezza e professionalità. Madian è una persona seria e gentile.\""
+        },
+        {
+         "t": "text",
+         "html": "MariaRosa Giambrone",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"Favorevolmente colpiti dalla gentilezza, professionalità e correttezza riscontrate in Madian. Persona affidabile e piacevole. Trattativa veloce e trasparente. Donato e Patrizia\""
+        },
+        {
+         "t": "text",
+         "html": "dmastroberti",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "stars",
+         "n": 5
+        },
+        {
+         "t": "quote",
+         "html": "\"È stato molto onesto e la trattativa rapida. È una persona molto corretta, lo contatterò sicuramente per una futura vendita.\""
+        },
+        {
+         "t": "text",
+         "html": "Alessandro Licone",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Ritiriamo auto anche a..."
+    },
+    {
+     "t": "text",
+     "html": "Chiasso, Balerna, Stabio, Riva San Vitale, Novazzano, Vacallo e Coldrerio. Il ritiro a domicilio è gratuito in tutta la zona.",
+     "small": false
+    },
+    {
+     "t": "chips",
+     "items": [
+      "Chiasso",
+      "Balerna",
+      "Stabio",
+      "Riva San Vitale",
+      "Novazzano",
+      "Vacallo",
+      "Coldrerio"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Guide utili per vendere la tua auto"
+    },
+    {
+     "t": "links",
+     "items": [
+      {
+       "label": "Quanto vale la mia auto usata in Ticino?",
+       "href": "/blog/quanto-vale-mia-auto-usata-ticino"
+      },
+      {
+       "label": "Documenti per vendere l'auto in Ticino",
+       "href": "/blog/documenti-vendere-auto-ticino"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Domande frequenti"
+    },
+    {
+     "t": "text",
+     "html": "Tutto quello che devi sapere sulla vendita della tua auto nel Mendrisiotto.",
+     "small": false
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "La mia auto ha più di 200'000 km. La compri?",
+       "a": "<p>Sì. Le auto con molti chilometri hanno mercato, spesso all'estero, e le valuto regolarmente. Mandami i dati e ti faccio un'offerta concreta.</p>"
+      },
+      {
+       "q": "Il garage mi ha offerto poco in permuta. Conviene sentirti?",
+       "a": "<p>Costa niente scoprirlo: la mia valutazione è gratuita e senza impegno. Confronti le due offerte e decidi.</p>"
+      },
+      {
+       "q": "Quanto tempo passa dalla richiesta al ritiro?",
+       "a": "<p>In genere entro 24 ore, se accetti l'offerta e i documenti sono in ordine.</p>"
+      },
+      {
+       "q": "Compri anche auto grandinate o con danni estetici?",
+       "a": "<p>Sì. Danni da grandine, graffi e ammaccature non fermano l'acquisto: incidono solo sulla valutazione, che resta gratuita.</p>"
+      },
+      {
+       "q": "Come mi paghi?",
+       "a": "<p>Al ritiro, in contanti o con bonifico istantaneo. Prima ricevi i soldi, poi mi consegni auto e chiavi.</p>"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "badge",
+     "html": " Disponibile 7 giorni su 7"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Sei nel Mendrisiotto<br>e vuoi vendere la tua auto?"
+    },
+    {
+     "t": "text",
+     "html": "Vuoi un'offerta concreta per la tua auto? Chiamami o scrivimi su WhatsApp con marca, modello, anno e chilometri.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Scrivimi su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      },
+      {
+       "label": "Chiama ora",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

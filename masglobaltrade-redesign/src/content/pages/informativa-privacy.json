@@ -1,0 +1,156 @@
+{
+ "slug": "/informativa-privacy",
+ "title": "Privacy e dati personali | MAS Global Trade",
+ "description": "Leggi come MAS Global Trade tratta i dati personali raccolti dal sito, dai moduli di contatto e dalle richieste di valutazione.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "1. Titolare del trattamento"
+    },
+    {
+     "t": "text",
+     "html": "Ticino Cars by Deen Auto Sagl (MAS Global Trade)<br>Via Monte Ceneri 12, 6593 Cadenazzo (TI), Svizzera<br>Email: <a href=\"mailto:info@masglobaltrade.ch\">info@masglobaltrade.ch</a><br>Tel: <a href=\"tel:+41798635391\">+41 79 863 53 91</a>",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "2. Dati raccolti e finalità"
+    },
+    {
+     "t": "text",
+     "html": "Raccogliamo esclusivamente i dati che ci fornisci volontariamente tramite il modulo di contatto o la richiesta di valutazione del tuo veicolo:",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "Nome e cognome"
+      },
+      {
+       "html": "Numero di telefono"
+      },
+      {
+       "html": "Indirizzo email (se fornito)"
+      },
+      {
+       "html": "Informazioni sul veicolo da valutare (marca, modello, anno, chilometraggio)"
+      },
+      {
+       "html": "Messaggio libero"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Questi dati vengono trattati esclusivamente per risponderti e fornirti il servizio richiesto (valutazione auto, acquisto veicoli usati).",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "3. Base giuridica"
+    },
+    {
+     "t": "text",
+     "html": "Il trattamento dei dati personali si basa sul tuo consenso espresso (invio del modulo) e sull'esecuzione di misure precontrattuali su tua richiesta, ai sensi della Legge federale sulla protezione dei dati (nLPD, in vigore dal 1° settembre 2023).",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "4. Conservazione dei dati"
+    },
+    {
+     "t": "text",
+     "html": "I tuoi dati vengono conservati per il tempo strettamente necessario a gestire la tua richiesta e, in caso di rapporto contrattuale, per i termini previsti dalla legislazione svizzera (generalmente 10 anni per documenti fiscali e contabili). I dati non utilizzati vengono cancellati entro 12 mesi dalla ricezione.",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "5. Comunicazione a terzi"
+    },
+    {
+     "t": "text",
+     "html": "I tuoi dati personali non vengono venduti né ceduti a terzi per scopi commerciali. Possono essere condivisi esclusivamente con collaboratori interni che operano per conto di MAS Global Trade, nel rispetto della presente informativa.",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "6. Cookie e strumenti di analisi"
+    },
+    {
+     "t": "text",
+     "html": "Questo sito utilizza esclusivamente cookie tecnici necessari al corretto funzionamento della navigazione. Non utilizziamo cookie di profilazione o strumenti di tracciamento di terze parti.",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "7. Sicurezza"
+    },
+    {
+     "t": "text",
+     "html": "Adottiamo misure tecniche e organizzative appropriate per proteggere i tuoi dati personali da accessi non autorizzati, perdita o alterazione. Il sito è servito interamente tramite connessione cifrata HTTPS.",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "8. I tuoi diritti"
+    },
+    {
+     "t": "text",
+     "html": "Ai sensi della nLPD hai il diritto di:",
+     "small": false
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      {
+       "html": "Accedere ai tuoi dati personali in nostro possesso"
+      },
+      {
+       "html": "Rettificare dati inesatti"
+      },
+      {
+       "html": "Richiedere la cancellazione dei tuoi dati"
+      },
+      {
+       "html": "Opporti al trattamento"
+      },
+      {
+       "html": "Richiedere la portabilità dei dati"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "Per esercitare questi diritti, contattaci via email a <a href=\"mailto:info@masglobaltrade.ch\">info@masglobaltrade.ch</a>.",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "9. Modifiche alla presente informativa"
+    },
+    {
+     "t": "text",
+     "html": "Ci riserviamo il diritto di aggiornare questa informativa in qualsiasi momento. Le modifiche saranno pubblicate su questa pagina con l'indicazione della data di aggiornamento.",
+     "small": false
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

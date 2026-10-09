@@ -1,0 +1,343 @@
+{
+ "slug": "/servizi",
+ "title": "Servizi per vendere auto in Ticino | MAS",
+ "description": "Valutazione, ritiro a domicilio, pagamento immediato e pratiche gestite: scopri i servizi MAS Global Trade per vendere un'auto in Ticino.",
+ "sections": [
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "html": "Compro auto in Ticino"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Vuoi vendere la tua auto<br>in modo rapido e sicuro?"
+    },
+    {
+     "t": "text",
+     "html": "MAS Global Trade è specializzata nella compravendita di auto usate in tutto il Canton Ticino, con pagamento immediato, ritiro a domicilio e gestione completa delle pratiche.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "Chiama Ora: +41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      },
+      {
+       "label": "Scrivici su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    }
+   ],
+   "hero": true
+  },
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "grid",
+     "cols": 2,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Perché scegliere MAS Global Trade"
+        },
+        {
+         "t": "text",
+         "html": "Il nostro servizio di compro auto in Ticino è attivo 24H su 24, 7 giorni su 7, da Chiasso ad Airolo e da Brissago a Roveredo, inclusi Locarno, Lugano, Bellinzona, Mendrisio, Biasca, il Malcantone, il Piano di Magadino e tutte le principali valli ticinesi.",
+         "small": false
+        },
+        {
+         "t": "text",
+         "html": "Acquistiamo veicoli di ogni marca, modello e condizione, anche con molti chilometri o destinati all'export.",
+         "small": false
+        },
+        {
+         "t": "list",
+         "ordered": false,
+         "items": [
+          {
+           "html": "Valutazione corretta, basata sul mercato reale",
+           "icon": "check"
+          },
+          {
+           "html": "Pagamento immediato o bonifico istantaneo",
+           "icon": "check"
+          },
+          {
+           "html": "Ritiro a domicilio in tutto il Ticino",
+           "icon": "check"
+          },
+          {
+           "html": "Processo semplice e veloce, in 24H vendi la tua auto",
+           "icon": "check"
+          },
+          {
+           "html": "Auto, furgoni, pick-up in qualsiasi condizione, veicoli per export",
+           "icon": "check"
+          },
+          {
+           "html": "Ottime referenze. Recensioni reali e verificate da Google",
+           "icon": "check"
+          }
+         ]
+        },
+        {
+         "t": "cta",
+         "items": [
+          {
+           "label": "Chiama Ora",
+           "href": "tel:+41798635391",
+           "kind": "phone"
+          },
+          {
+           "label": "WhatsApp",
+           "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+           "kind": "whatsapp"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "/auto1.webp",
+         "alt": "Mercedes GLA 200 acquistata a Lugano"
+        },
+        {
+         "t": "image",
+         "src": "/auto6.webp",
+         "alt": "BMW X1 M Sport acquistato ad Ascona"
+        },
+        {
+         "t": "image",
+         "src": "/tiguan.webp",
+         "alt": "VW Tiguan R-Line acquistato a Giubiasco"
+        },
+        {
+         "t": "image",
+         "src": "/golf-blu.webp",
+         "alt": "VW Golf 7 acquistato a Minusio"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "tint",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "I nostri servizi"
+    },
+    {
+     "t": "text",
+     "html": "Semplifichiamo la vendita della tua auto. Niente perdite di tempo, solo una transazione veloce e trasparente.",
+     "small": false
+    },
+    {
+     "t": "grid",
+     "cols": 4,
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "banknote"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Valutazione Immediata"
+        },
+        {
+         "t": "text",
+         "html": "Ricevi un'offerta gratuita e senza impegno basata sul reale valore di mercato. Valutiamo auto di ogni marca, modello e anno.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "shield"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Pagamento Sicuro"
+        },
+        {
+         "t": "text",
+         "html": "Bonifico bancario istantaneo o contanti. Nessuna attesa, nessun rischio. Il pagamento avviene al momento del ritiro.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "map-pin"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Ritiro a Domicilio"
+        },
+        {
+         "t": "text",
+         "html": "Veniamo da te ovunque in Ticino, senza costi aggiuntivi. Da Chiasso ad Airolo, da Brissago a Roveredo.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "file-check"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Pratiche Burocratiche"
+        },
+        {
+         "t": "text",
+         "html": "Gestiamo noi il passaggio di proprietà, l'annullamento della licenza e tutte le pratiche amministrative.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "wrench"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Auto Incidentate o Non Marcianti"
+        },
+        {
+         "t": "text",
+         "html": "Acquistiamo veicoli in qualsiasi condizione: incidentati, con danni meccanici o estetici, non circolanti.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "clock"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Auto con Leasing in Corso"
+        },
+        {
+         "t": "text",
+         "html": "Possiamo saldare il contratto di leasing direttamente con la società e occuparci di tutte le pratiche.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "truck"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Export e Furgoni"
+        },
+        {
+         "t": "text",
+         "html": "Acquistiamo anche furgoni, pick-up, veicoli commerciali e auto destinate all'esportazione.",
+         "small": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "icon",
+         "name": "check"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Disponibile 7/7"
+        },
+        {
+         "t": "text",
+         "html": "Rispondo personalmente ogni giorno: weekend e festivi inclusi. Mi trovi sempre.",
+         "small": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "hero": false
+  },
+  {
+   "tone": "dark",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Chiamaci adesso e vendi la tua auto oggi"
+    },
+    {
+     "t": "text",
+     "html": "Non perdere tempo con annunci o concessionari. Contattaci e ricevi un'offerta in meno di 1 ora.",
+     "small": false
+    },
+    {
+     "t": "cta",
+     "items": [
+      {
+       "label": "+41 79 863 53 91",
+       "href": "tel:+41798635391",
+       "kind": "phone"
+      },
+      {
+       "label": "Scrivici su WhatsApp",
+       "href": "https://wa.me/41798635391?text=Buongiorno%2C%20vorrei%20vendere%20la%20mia%20auto.%20Si%20tratta%20di%20",
+       "kind": "whatsapp"
+      }
+     ]
+    }
+   ],
+   "hero": false
+  }
+ ]
+}

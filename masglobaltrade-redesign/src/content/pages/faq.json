@@ -1,0 +1,74 @@
+{
+ "slug": "/faq",
+ "title": "Domande sulla vendita auto in Ticino | MAS",
+ "description": "Trova risposte su valutazione, documenti, pagamento, ritiro e vendita di auto usate a MAS Global Trade in Canton Ticino.",
+ "sections": [
+  {
+   "tone": "light",
+   "image": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Domande Frequenti"
+    },
+    {
+     "t": "text",
+     "html": "Tutto quello che devi sapere sul nostro servizio di compro auto in Ticino.",
+     "small": false
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Quali tipi di auto acquistate?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Comprate anche auto con leasing in corso?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Come viene valutata la mia auto?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Quanto tempo ci vuole per vendere la mia auto?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Devo portare la mia auto da voi?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Quali documenti sono necessari?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Il passaggio di proprietà è a mio carico?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Il pagamento è sicuro?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "Ritirate anche auto non marcianti o incidentate?"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "In quali zone operate?"
+    }
+   ],
+   "hero": true
+  }
+ ]
+}
