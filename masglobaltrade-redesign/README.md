@@ -3,12 +3,12 @@
 Three new visual designs of masglobaltrade.ch with the same content as the
 pixel-perfect clone in `../masglobaltrade`.
 
-| Path  | Design   | Direction                         |
-|-------|----------|-----------------------------------|
-| `/`   | Chooser  | Pick a version                    |
-| `/v1` | Alpino   | Editorial premium, light          |
-| `/v2` | Velocity | Automotive, dark and technical    |
-| `/v3` | Kontrast | Swiss bold, colourful             |
+| Path  | Design        | Direction |
+|-------|---------------|-----------|
+| `/`   | Chooser       | Pick a version |
+| `/v1` | Autosalone    | Car-dealer signage: yellow/black, hazard stripes, price tags, stamps |
+| `/v2` | Trailer       | Cinematic: letterbox, red/black, pinned horizontal reel, credits      |
+| `/v3` | Volantino Pop | Flyer/poster: flat colours, thick outlines, stickers, bouncy cards  |
 
 Every version has all routes of the original site (`/v1/compro-auto/locarno`,
 `/v2/blog/<slug>`, …).
