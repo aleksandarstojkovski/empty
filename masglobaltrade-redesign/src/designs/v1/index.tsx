@@ -1,6 +1,5 @@
-import "@fontsource-variable/fraunces/full.css";
-import "@fontsource-variable/fraunces/full-italic.css";
-import "@fontsource-variable/inter";
+import "@fontsource/anton";
+import "@fontsource-variable/archivo";
 import "./theme.css";
 import { DesignRoutes, type Design } from "../../shared/DesignRoutes";
 import Home from "./Home";
