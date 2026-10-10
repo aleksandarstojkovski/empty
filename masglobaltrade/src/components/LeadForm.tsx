@@ -274,7 +274,7 @@ export default function LeadForm({ onSuccess, className }: { onSuccess?: () => v
         <input type="checkbox" id="termini" name="termini" className="mt-0.5 w-4 h-4 accent-primary shrink-0 cursor-pointer" />
         <label htmlFor="termini" className="text-sm text-foreground/70 cursor-pointer leading-snug">
           Accetto il trattamento dei miei dati personali per ricevere la valutazione rapida della mia auto.{" "}
-          <a href="/informativa-privacy" target="_blank" className="text-primary underline">
+          <a href={`${import.meta.env.BASE_URL}informativa-privacy`} target="_blank" className="text-primary underline">
             Informativa privacy
           </a>
         </label>

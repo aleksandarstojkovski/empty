@@ -2,6 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import { fileURLToPath } from 'node:url'
+import { originale } from './originale'
 
 // Blog posts, reviews and lead submissions come from the live site's backend.
 const api = {
@@ -9,7 +10,7 @@ const api = {
 }
 
 export default defineConfig({
-  plugins: [react(), tailwindcss()],
+  plugins: [react(), tailwindcss(), originale()],
   // Same images, fonts and site files as the pixel-perfect clone.
   publicDir: fileURLToPath(new URL('../masglobaltrade/public', import.meta.url)),
   resolve: {

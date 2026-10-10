@@ -5,10 +5,20 @@ pixel-perfect clone in `../masglobaltrade`.
 
 | Path  | Design        | Direction |
 |-------|---------------|-----------|
-| `/`   | Chooser       | Pick a version |
+| `/`   | Hub           | All versions, with a "same page in every version" picker |
 | `/v1` | Autosalone    | Car-dealer signage: yellow/black, hazard stripes, price tags, stamps |
 | `/v2` | Trailer       | Cinematic: letterbox, red/black, pinned horizontal reel, credits      |
 | `/v3` | Volantino Pop | Flyer/poster: flat colours, thick outlines, stickers, bouncy cards  |
+| `/alpino` | Alpino    | First proposal: editorial premium, light |
+| `/originale` | Originale | The pixel-perfect clone, built from `../masglobaltrade` |
+
+A floating switcher (bottom left) in every version opens the same page in
+another version or goes back to the hub.
+
+`/originale` is served by the `originale.ts` Vite plugin: it builds the clone
+with base `/originale/` (cached in `node_modules/.cache/mas-originale`, rebuilt
+when the clone's sources change) and, on `npm run build`, into
+`dist/originale`. The clone needs its own `npm install` for this.
 
 Every version has all routes of the original site (`/v1/compro-auto/locarno`,
 `/v2/blog/<slug>`, …).
