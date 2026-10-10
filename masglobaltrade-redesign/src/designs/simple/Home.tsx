@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { useState, type FormEvent } from "react";
 import { Link } from "wouter";
 import { HOME, STEPS, FAQS, PICKUPS } from "../../content/home";
 import { Accordion } from "../../shared/Accordion";
@@ -6,6 +7,7 @@ import { Icon } from "../../shared/Icon";
 import { Rich } from "../../shared/Rich";
 import { CountUp, Reveal, Stagger, StaggerItem } from "../../shared/motion";
 import { usePageMeta } from "../../shared/meta";
+import { FOOTER, WHATSAPP } from "../../shared/site";
 import { CallButtons, CtaBand, Head, Logos, PostCards, Reviews, Stars } from "./parts";
 import { useLayout } from "./Layout";
 
@@ -53,9 +55,117 @@ function Trust() {
   );
 }
 
+/** Short car-details card that opens WhatsApp with the details already written. */
+function QuickQuote() {
+  const { openLead } = useLayout();
+  const [v, setV] = useState({ marca: "", modello: "", anno: "", km: "" });
+  const set = (k: keyof typeof v) => (e: { target: { value: string } }) => setV({ ...v, [k]: e.target.value });
+  const submit = (e: FormEvent) => {
+    e.preventDefault();
+    const car = [v.marca, v.modello].filter(Boolean).join(" ") || "un'auto";
+    const extra = [v.anno && `anno ${v.anno}`, v.km && `${v.km} km`].filter(Boolean).join(", ");
+    window.open(WHATSAPP + encodeURIComponent(car + (extra ? `, ${extra}` : "") + "."), "_blank", "noopener");
+  };
+  return (
+    <motion.form className="card qq" onSubmit={submit} initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7, ease, delay: 0.25 }}>
+      <div className="qq__head">
+        <img src="/madian-profile.webp" alt="Madian di MAS Global Trade" />
+        <div>
+          <h2>Valutazione gratuita</h2>
+          <p className="muted">Scrivi i dati dell'auto: ti rispondo io su WhatsApp.</p>
+        </div>
+      </div>
+      <div className="qq__grid">
+        <label>
+          Marca
+          <input className="f-input" value={v.marca} onChange={set("marca")} placeholder="Es. Volkswagen" autoComplete="off" />
+        </label>
+        <label>
+          Modello
+          <input className="f-input" value={v.modello} onChange={set("modello")} placeholder="Es. Golf" autoComplete="off" />
+        </label>
+        <label>
+          Anno
+          <input className="f-input" value={v.anno} onChange={set("anno")} placeholder="Es. 2019" inputMode="numeric" />
+        </label>
+        <label>
+          Chilometri
+          <input className="f-input" value={v.km} onChange={set("km")} placeholder="Es. 85000" inputMode="numeric" />
+        </label>
+      </div>
+      <button type="submit" className="btn btn--wa qq__submit">
+        Invia su WhatsApp
+      </button>
+      <button type="button" className="qq__alt" onClick={openLead}>
+        Preferisci il modulo completo con le foto?
+      </button>
+    </motion.form>
+  );
+}
+
 function Hero() {
   const { cfg } = useLayout();
   const alt = HOME.hero.image?.alt ?? "Madian, MAS Global Trade";
+  if (cfg.hero === "form")
+    return (
+      <>
+        <section className="hero hero--form">
+          <div className="wrap hero__grid">
+            <HeroText />
+            <QuickQuote />
+          </div>
+        </section>
+        <Trust />
+      </>
+    );
+  if (cfg.hero === "boxed")
+    return (
+      <>
+        <section className="hero hero--boxed">
+          <div className="wrap">
+            <div className="hero__box">
+              <HeroText />
+              <motion.div className="hero__img" initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.8, ease, delay: 0.2 }}>
+                <img src="/hero-desktop.webp" alt={alt} />
+                <div className="hero__badge">
+                  <b>4.9</b>
+                  <span>
+                    <Stars />
+                    <small>su Google</small>
+                  </span>
+                </div>
+              </motion.div>
+            </div>
+          </div>
+        </section>
+        <Trust />
+      </>
+    );
+  if (cfg.hero === "bento")
+    return (
+      <>
+        <section className="hero hero--bento">
+          <div className="wrap bento">
+            <div className="bento__text card">
+              <HeroText />
+            </div>
+            <motion.div className="bento__img" initial={{ opacity: 0, scale: 0.97 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.8, ease, delay: 0.15 }}>
+              <img src="/hero-desktop.webp" alt={alt} />
+            </motion.div>
+            <motion.div className="bento__tile card" {...up(0.3)}>
+              <b>4.9</b>
+              <Stars />
+              <span className="muted">{HOME.hero.rating.split("·")[1]?.trim() ?? HOME.hero.rating}</span>
+            </motion.div>
+            <motion.div className="bento__tile bento__tile--accent card" {...up(0.38)}>
+              <b>24H · 7/7</b>
+              <span>{FOOTER.availabilityText}</span>
+            </motion.div>
+          </div>
+        </section>
+        <Trust />
+      </>
+    );
   if (cfg.hero === "photo")
     return (
       <>

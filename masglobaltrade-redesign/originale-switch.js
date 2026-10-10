@@ -3,6 +3,9 @@
 // version list in sync with src/versions.ts.
 (function () {
   var VERSIONS = [
+    { base: "/notte", name: "Notte", mood: "Scuro e ambra · Figtree", bg: "#0D0F13" },
+    { base: "/fresco", name: "Fresco", mood: "Bianco e verde petrolio · DM Sans", bg: "#F1F7F5" },
+    { base: "/lago", name: "Lago", mood: "Blu notte e corallo · Outfit", bg: "#0B2545" },
     { base: "/pulito", name: "Pulito", mood: "Bianco e blu · Inter", bg: "#FFFFFF" },
     { base: "/concessionaria", name: "Concessionaria", mood: "Grafite e rosso · Manrope", bg: "#16181D" },
     { base: "/diretto", name: "Diretto", mood: "Caldo e arancio · Plus Jakarta Sans", bg: "#F8F7F4" },

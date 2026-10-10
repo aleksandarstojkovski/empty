@@ -7,7 +7,10 @@ import { CITY_LINKS, EMAIL, FOOTER, INSTAGRAM, MORE_LINKS, NAV, PHONE_LABEL, TEL
 import { formClasses } from "./ui";
 
 /** The three simple proposals share these components; they differ in theme and hero layout. */
-export type SimpleCfg = { id: "pulito" | "concessionaria" | "diretto"; hero: "split" | "photo" | "centered" };
+export type SimpleCfg = {
+  id: "pulito" | "concessionaria" | "diretto" | "notte" | "fresco" | "lago";
+  hero: "split" | "photo" | "centered" | "bento" | "form" | "boxed";
+};
 
 type Ctx = { cfg: SimpleCfg; openLead: () => void };
 const LayoutCtx = createContext<Ctx>({ cfg: { id: "pulito", hero: "split" }, openLead: () => {} });

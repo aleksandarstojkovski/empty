@@ -6,6 +6,9 @@ pixel-perfect clone in `../masglobaltrade`.
 | Path  | Design        | Direction |
 |-------|---------------|-----------|
 | `/`   | Hub           | All versions, with a "same page in every version" picker |
+| `/notte` | Notte | Simple: dark with amber, Figtree, bento hero |
+| `/fresco` | Fresco | Simple: white and teal, DM Sans, quick WhatsApp valuation in the hero |
+| `/lago` | Lago | Simple: navy and coral, Outfit, boxed hero, centred headings |
 | `/pulito` | Pulito | Simple: white and blue, Inter, photo beside the headline |
 | `/concessionaria` | Concessionaria | Simple: graphite and red, Manrope, full-width photo hero |
 | `/diretto` | Diretto | Simple: warm off-white and orange, Plus Jakarta Sans, centred hero |
@@ -47,5 +50,5 @@ Vite proxy.
 - `src/designs/v1|v2|v3|alpino/` – one folder per design: theme CSS, layout,
   home, inner pages.
 - `src/designs/simple/` – shared components and theme for the three simple
-  proposals; `pulito/`, `concessionaria/` and `diretto/` only pick font,
+  proposals; `pulito/`, `concessionaria/`, `diretto/`, `notte/`, `fresco/` and `lago/` only pick font,
   colours and hero layout.

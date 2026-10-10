@@ -3,7 +3,7 @@ export type Version = {
   id: string;
   base: string;
   name: string;
-  group: "simple" | "pop" | "elegant" | "ref";
+  group: "simple2" | "simple" | "pop" | "elegant" | "ref";
   mood: string;
   text: string;
   bg: string;
@@ -14,6 +14,39 @@ export type Version = {
 };
 
 export const VERSIONS: Version[] = [
+  {
+    id: "notte",
+    base: "/notte",
+    name: "Notte",
+    group: "simple2",
+    mood: "Scuro e ambra · Figtree",
+    text: "Tutto in versione scura, con l'ambra per pulsanti e numeri. Apertura a riquadri: testo, foto, voto Google e disponibilità 24/7.",
+    bg: "#0D0F13",
+    fg: "#F2F3F5",
+    swatches: ["#0D0F13", "#F5B301", "#171A21", "#F2F3F5"],
+  },
+  {
+    id: "fresco",
+    base: "/fresco",
+    name: "Fresco",
+    group: "simple2",
+    mood: "Bianco e verde petrolio · DM Sans",
+    text: "Chiaro e rassicurante. In apertura una mini valutazione: marca, modello, anno e km, e parte il messaggio WhatsApp già scritto.",
+    bg: "#F1F7F5",
+    fg: "#102A26",
+    swatches: ["#FFFFFF", "#0F766E", "#E2F3EF", "#0B3B36"],
+  },
+  {
+    id: "lago",
+    base: "/lago",
+    name: "Lago",
+    group: "simple2",
+    mood: "Blu notte e corallo · Outfit",
+    text: "Apertura in un grande riquadro blu notte, titoli centrati, card morbide senza bordi e corallo per le azioni.",
+    bg: "#0B2545",
+    fg: "#FFFFFF",
+    swatches: ["#0B2545", "#F2643D", "#F1F5FA", "#FFFFFF"],
+  },
   {
     id: "pulito",
     base: "/pulito",
