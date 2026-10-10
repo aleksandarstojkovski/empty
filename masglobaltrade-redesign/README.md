@@ -6,6 +6,9 @@ pixel-perfect clone in `../masglobaltrade`.
 | Path  | Design        | Direction |
 |-------|---------------|-----------|
 | `/`   | Hub           | All versions, with a "same page in every version" picker |
+| `/pulito` | Pulito | Simple: white and blue, Inter, photo beside the headline |
+| `/concessionaria` | Concessionaria | Simple: graphite and red, Manrope, full-width photo hero |
+| `/diretto` | Diretto | Simple: warm off-white and orange, Plus Jakarta Sans, centred hero |
 | `/v1` | Autosalone    | Car-dealer signage: yellow/black, hazard stripes, price tags, stamps |
 | `/v2` | Trailer       | Cinematic: letterbox, red/black, pinned horizontal reel, credits      |
 | `/v3` | Volantino Pop | Flyer/poster: flat colours, thick outlines, stickers, bouncy cards  |
@@ -41,5 +44,8 @@ Vite proxy.
   plus `home.ts` for the home page.
 - `src/shared/` – content model, block renderer (`pg-*` classes), motion
   helpers, lead form logic, routing.
-- `src/designs/v1|v2|v3/` – one folder per design: theme CSS, layout, home,
-  inner pages.
+- `src/designs/v1|v2|v3|alpino/` – one folder per design: theme CSS, layout,
+  home, inner pages.
+- `src/designs/simple/` – shared components and theme for the three simple
+  proposals; `pulito/`, `concessionaria/` and `diretto/` only pick font,
+  colours and hero layout.

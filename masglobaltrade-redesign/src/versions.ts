@@ -3,7 +3,7 @@ export type Version = {
   id: string;
   base: string;
   name: string;
-  group: "pop" | "elegant" | "ref";
+  group: "simple" | "pop" | "elegant" | "ref";
   mood: string;
   text: string;
   bg: string;
@@ -14,6 +14,39 @@ export type Version = {
 };
 
 export const VERSIONS: Version[] = [
+  {
+    id: "pulito",
+    base: "/pulito",
+    name: "Pulito",
+    group: "simple",
+    mood: "Bianco e blu · Inter",
+    text: "Chiaro e ordinato: foto accanto al titolo, card con bordi leggeri, blu come unico colore. Il più neutro dei tre.",
+    bg: "#FFFFFF",
+    fg: "#0F172A",
+    swatches: ["#FFFFFF", "#1D5BD8", "#F5F7FA", "#0F172A"],
+  },
+  {
+    id: "concessionaria",
+    base: "/concessionaria",
+    name: "Concessionaria",
+    group: "simple",
+    mood: "Grafite e rosso · Manrope",
+    text: "Da concessionaria: foto a tutta larghezza in apertura, testata scura, angoli netti e rosso per le azioni.",
+    bg: "#16181D",
+    fg: "#FFFFFF",
+    swatches: ["#16181D", "#D7261E", "#F4F4F5", "#FFFFFF"],
+  },
+  {
+    id: "diretto",
+    base: "/diretto",
+    name: "Diretto",
+    group: "simple",
+    mood: "Caldo e arancio · Plus Jakarta Sans",
+    text: "Amichevole e diretto: titolo centrato, angoli morbidi, pulsanti arrotondati e arancio come colore guida.",
+    bg: "#F8F7F4",
+    fg: "#1C1917",
+    swatches: ["#F8F7F4", "#EA6A1F", "#FFFFFF", "#1C1917"],
+  },
   {
     id: "v1",
     base: "/v1",

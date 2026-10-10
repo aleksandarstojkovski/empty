@@ -7,12 +7,24 @@ const V1 = lazy(() => import("./designs/v1"));
 const V2 = lazy(() => import("./designs/v2"));
 const V3 = lazy(() => import("./designs/v3"));
 const Alpino = lazy(() => import("./designs/alpino"));
+const Pulito = lazy(() => import("./designs/pulito"));
+const Concessionaria = lazy(() => import("./designs/concessionaria"));
+const Diretto = lazy(() => import("./designs/diretto"));
 
 export default function App() {
   return (
     <>
       <Suspense fallback={<div style={{ minHeight: "100vh" }} />}>
         <Switch>
+          <Route path="/pulito" nest>
+            <Pulito />
+          </Route>
+          <Route path="/concessionaria" nest>
+            <Concessionaria />
+          </Route>
+          <Route path="/diretto" nest>
+            <Diretto />
+          </Route>
           <Route path="/v1" nest>
             <V1 />
           </Route>
