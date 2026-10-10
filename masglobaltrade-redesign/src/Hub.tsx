@@ -9,6 +9,7 @@ const THUMBS = import.meta.glob<string>("./assets/hub/*.webp", { eager: true, im
 const thumb = (id: string) => THUMBS[`./assets/hub/${id}.webp`];
 
 const GROUPS: { id: Version["group"]; title: string; text: string }[] = [
+  { id: "simple3", title: "Proposta 5 · Varianti di Pulito e Diretto", text: "Bordeaux e Giallo come Pulito, Cielo e Bosco come Diretto: altri colori e dettagli." },
   { id: "simple2", title: "Proposta 4 · Semplice, nuove varianti", text: "Stessa semplicità della proposta 3, con grafica e apertura diverse." },
   { id: "simple", title: "Proposta 3 · Semplice e professionale", text: "Font normali, colori sobri, animazioni discrete." },
   { id: "pop", title: "Proposta 2 · Popolare e teatrale", text: "La seconda proposta, scartata." },

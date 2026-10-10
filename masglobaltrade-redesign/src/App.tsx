@@ -10,6 +10,10 @@ const Alpino = lazy(() => import("./designs/alpino"));
 const Pulito = lazy(() => import("./designs/pulito"));
 const Concessionaria = lazy(() => import("./designs/concessionaria"));
 const Diretto = lazy(() => import("./designs/diretto"));
+const Bordeaux = lazy(() => import("./designs/bordeaux"));
+const Giallo = lazy(() => import("./designs/giallo"));
+const Cielo = lazy(() => import("./designs/cielo"));
+const Bosco = lazy(() => import("./designs/bosco"));
 const Notte = lazy(() => import("./designs/notte"));
 const Fresco = lazy(() => import("./designs/fresco"));
 const Lago = lazy(() => import("./designs/lago"));
@@ -19,6 +23,18 @@ export default function App() {
     <>
       <Suspense fallback={<div style={{ minHeight: "100vh" }} />}>
         <Switch>
+          <Route path="/bordeaux" nest>
+            <Bordeaux />
+          </Route>
+          <Route path="/giallo" nest>
+            <Giallo />
+          </Route>
+          <Route path="/cielo" nest>
+            <Cielo />
+          </Route>
+          <Route path="/bosco" nest>
+            <Bosco />
+          </Route>
           <Route path="/notte" nest>
             <Notte />
           </Route>

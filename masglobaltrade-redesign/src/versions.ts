@@ -3,7 +3,7 @@ export type Version = {
   id: string;
   base: string;
   name: string;
-  group: "simple2" | "simple" | "pop" | "elegant" | "ref";
+  group: "simple3" | "simple2" | "simple" | "pop" | "elegant" | "ref";
   mood: string;
   text: string;
   bg: string;
@@ -14,6 +14,50 @@ export type Version = {
 };
 
 export const VERSIONS: Version[] = [
+  {
+    id: "bordeaux",
+    base: "/bordeaux",
+    name: "Bordeaux",
+    group: "simple3",
+    mood: "Bianco e vino · Albert Sans",
+    text: "Come Pulito, ma con il rosso vino. Barra informativa in alto, foto con un riquadro colorato dietro, card con filo laterale.",
+    bg: "#FFFFFF",
+    fg: "#1F1A1C",
+    swatches: ["#FFFFFF", "#8E1B3A", "#F8F4F3", "#2A1219"],
+  },
+  {
+    id: "giallo",
+    base: "/giallo",
+    name: "Giallo",
+    group: "simple3",
+    mood: "Bianco, grafite e giallo · Public Sans",
+    text: "Come Pulito, con il giallo per pulsanti ed evidenziazioni e il grafite per testi e fasce. Diretto e molto leggibile.",
+    bg: "#FFFFFF",
+    fg: "#17181A",
+    swatches: ["#FFFFFF", "#F2C200", "#17181A", "#F5F5F3"],
+  },
+  {
+    id: "cielo",
+    base: "/cielo",
+    name: "Cielo",
+    group: "simple3",
+    mood: "Azzurro chiaro e blu · Nunito Sans",
+    text: "Come Diretto, su fondo azzurro chiaro: titolo centrato, vantaggi in pillole bianche, card morbide con ombra leggera.",
+    bg: "#F3F8FC",
+    fg: "#0F2742",
+    swatches: ["#F3F8FC", "#2563EB", "#FFFFFF", "#0F2742"],
+  },
+  {
+    id: "bosco",
+    base: "/bosco",
+    name: "Bosco",
+    group: "simple3",
+    mood: "Crema e verde bosco · Lexend",
+    text: "Come Diretto, con il verde bosco. Barra informativa in alto, foto incorniciata di bianco, card verde chiaro.",
+    bg: "#F7F6F1",
+    fg: "#1B2A22",
+    swatches: ["#F7F6F1", "#1F7A4D", "#E4F1E9", "#173326"],
+  },
   {
     id: "notte",
     base: "/notte",

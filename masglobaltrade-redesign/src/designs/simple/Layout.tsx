@@ -8,9 +8,27 @@ import { formClasses } from "./ui";
 
 /** The three simple proposals share these components; they differ in theme and hero layout. */
 export type SimpleCfg = {
-  id: "pulito" | "concessionaria" | "diretto" | "notte" | "fresco" | "lago";
+  id: "pulito" | "concessionaria" | "diretto" | "notte" | "fresco" | "lago" | "bordeaux" | "giallo" | "cielo" | "bosco";
   hero: "split" | "photo" | "centered" | "bento" | "form" | "boxed";
+  /** Thin info bar above the header (availability, phone, area). */
+  topbar?: boolean;
 };
+
+function Topbar() {
+  return (
+    <div className="topbar">
+      <div className="wrap topbar__in">
+        <span className="topbar__live">{FOOTER.availability}</span>
+        <span className="topbar__area">
+          <Icon name="map-pin" /> {FOOTER.area}
+        </span>
+        <a href={TEL} className="topbar__tel">
+          <Icon name="phone" /> {PHONE_LABEL}
+        </a>
+      </div>
+    </div>
+  );
+}
 
 type Ctx = { cfg: SimpleCfg; openLead: () => void };
 const LayoutCtx = createContext<Ctx>({ cfg: { id: "pulito", hero: "split" }, openLead: () => {} });
@@ -201,6 +219,7 @@ export function makeLayout(cfg: SimpleCfg) {
     return (
       <LayoutCtx.Provider value={{ cfg, openLead: () => setLead(true) }}>
         <div className={`sk sk--${cfg.id} sk--hero-${cfg.hero}`}>
+          {cfg.topbar && <Topbar />}
           <Header onLead={() => setLead(true)} onMenu={() => setMenu(true)} />
           <main>{children}</main>
           <Footer />

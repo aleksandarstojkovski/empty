@@ -3033,3 +3033,467 @@
 .sk .hero--boxed .hero__img {
   aspect-ratio: 4 / 3.6;
 }
+
+/* ============================================================
+   Terza serie: varianti di Pulito (Bordeaux, Giallo)
+   e di Diretto (Cielo, Bosco)
+   ============================================================ */
+
+/* top info bar */
+.sk .topbar {
+  background: var(--dark);
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 13px;
+  font-weight: 600;
+}
+.sk .topbar__in {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  height: 36px;
+}
+.sk .topbar__in span,
+.sk .topbar__in a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.sk .topbar svg {
+  width: 14px;
+  height: 14px;
+}
+.sk .topbar__live::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--wa);
+}
+.sk .topbar__tel {
+  margin-left: auto;
+  color: #fff;
+}
+@media (max-width: 640px) {
+  .sk .topbar__area {
+    display: none;
+  }
+}
+
+/* ---- tema: Bordeaux (bianco e vino, Albert Sans) ---- */
+.sk--bordeaux {
+  --font: "Albert Sans Variable", system-ui, sans-serif;
+  --text: #1f1a1c;
+  --muted: #645a5e;
+  --bg-alt: #f8f4f3;
+  --line: #ebe3e1;
+  --accent: #8e1b3a;
+  --accent-hover: #74142e;
+  --accent-soft: #f7e8ec;
+  --dark: #2a1219;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --btn-radius: 8px;
+}
+.sk--bordeaux .hero__img {
+  overflow: visible;
+  background: none;
+}
+.sk--bordeaux .hero__img img {
+  position: relative;
+  border-radius: var(--radius-lg);
+}
+.sk--bordeaux .hero__img::before {
+  content: "";
+  position: absolute;
+  inset: 22px -22px -22px 22px;
+  border-radius: var(--radius-lg);
+  background: var(--accent-soft);
+}
+.sk--bordeaux .hero__badge {
+  z-index: 1;
+}
+.sk--bordeaux .feat {
+  border-left: 3px solid var(--accent);
+}
+.sk--bordeaux .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.sk--bordeaux .eyebrow::before {
+  content: "";
+  width: 22px;
+  height: 2px;
+  background: currentColor;
+}
+.sk--bordeaux .head--c .eyebrow::before,
+.sk--bordeaux .hero__text--c .eyebrow::before {
+  display: none;
+}
+.sk--bordeaux .stats-sec {
+  background: var(--bg-alt);
+  color: var(--text);
+}
+.sk--bordeaux .stat__v {
+  color: var(--accent);
+}
+.sk--bordeaux .band {
+  background: var(--accent);
+}
+.sk--bordeaux .band .btn--primary {
+  background: #fff;
+  color: var(--accent);
+}
+.sk--bordeaux .final__in {
+  background: var(--dark);
+}
+.sk--bordeaux .final .btn--light {
+  background: #fff;
+  color: var(--accent);
+}
+.sk--bordeaux .phero {
+  background: var(--bg-alt);
+}
+.sk--bordeaux .pg-sec--dark {
+  background: var(--dark);
+}
+
+/* ---- tema: Giallo (bianco, grafite e giallo, Public Sans) ---- */
+.sk--giallo {
+  --font: "Public Sans Variable", system-ui, sans-serif;
+  --text: #17181a;
+  --muted: #5c5f66;
+  --bg-alt: #f5f5f3;
+  --line: #e6e6e2;
+  --accent: #f2c200;
+  --accent-hover: #ffd21f;
+  --accent-ink: #17181a;
+  --accent-soft: #fff6cc;
+  --dark: #17181a;
+  --radius: 8px;
+  --radius-lg: 12px;
+  --btn-radius: 8px;
+  --h-weight: 800;
+}
+/* yellow is too light for text: links and labels use the dark ink */
+.sk--giallo .eyebrow,
+.sk--giallo .link,
+.sk--giallo .zone__city,
+.sk--giallo .pg-eyebrow,
+.sk--giallo .hero__accent,
+.sk--giallo [data-accent],
+.sk--giallo .pg-text a,
+.sk--giallo .pg-lead a,
+.sk--giallo .prose a,
+.sk--giallo .f-check-l a,
+.sk--giallo .qq__alt {
+  color: var(--text);
+}
+.sk--giallo .eyebrow {
+  display: inline-block;
+  padding: 3px 8px;
+  background: var(--accent);
+  border-radius: 4px;
+}
+.sk--giallo .hero__accent,
+.sk--giallo .phero h1 [data-accent],
+.sk--giallo .pg-title [data-accent] {
+  display: inline;
+  background: linear-gradient(transparent 62%, var(--accent) 62%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.sk--giallo .hero__accent::before {
+  content: "\A";
+  white-space: pre;
+}
+.sk--giallo .link {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 3px;
+  text-underline-offset: 4px;
+}
+.sk--giallo .checks svg,
+.sk--giallo .pg-list__mark,
+.sk--giallo .feat__icon,
+.sk--giallo .trust__icon,
+.sk--giallo .pg-card__icon,
+.sk--giallo .pickup__city svg,
+.sk--giallo .hdr__phone svg,
+.sk--giallo .pg-meta__icon,
+.sk--giallo .faq__icon,
+.sk--giallo .pg-link svg {
+  color: var(--text);
+}
+.sk--giallo .feat__icon,
+.sk--giallo .trust__icon,
+.sk--giallo .pg-card__icon,
+.sk--giallo .pg-list__mark {
+  background: var(--accent);
+}
+.sk--giallo .post__meta span,
+.sk--giallo .pg-badge {
+  background: var(--accent);
+  color: var(--text);
+}
+.sk--giallo .hero__img {
+  overflow: visible;
+  background: none;
+}
+.sk--giallo .hero__img img {
+  position: relative;
+  border-radius: var(--radius-lg);
+}
+.sk--giallo .hero__img::before {
+  content: "";
+  position: absolute;
+  right: -18px;
+  top: -18px;
+  width: 46%;
+  height: 56%;
+  border-radius: var(--radius-lg);
+  background: var(--accent);
+}
+.sk--giallo .hero__badge {
+  z-index: 1;
+}
+.sk--giallo .stats-sec {
+  background: var(--dark);
+  color: #fff;
+}
+.sk--giallo .stat__v {
+  color: var(--accent);
+}
+.sk--giallo .band,
+.sk--giallo .final__in {
+  background: var(--dark);
+  color: #fff;
+}
+.sk--giallo .final .btn--light {
+  background: var(--accent);
+  color: var(--text);
+}
+.sk--giallo .faq__item.is-open,
+.sk--giallo .pg-faq__item.is-open {
+  border-color: var(--text);
+}
+.sk--giallo .f-input:focus {
+  border-color: var(--text);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+.sk--giallo .pg-link:hover {
+  color: var(--text);
+  border-color: var(--text);
+  background: var(--accent-soft);
+}
+.sk--giallo .hdr__drop a:hover {
+  color: var(--text);
+}
+.sk--giallo .pg-sec--dark .pg-btn--primary {
+  background: var(--accent);
+  color: var(--text);
+}
+.sk--giallo .pg-sec--dark [data-accent],
+.sk--giallo .pg-sec--dark .pg-eyebrow {
+  color: #fff;
+}
+.sk--giallo .progress {
+  background: var(--accent);
+}
+
+/* ---- tema: Cielo (azzurro chiaro e blu, Nunito Sans) ---- */
+.sk--cielo {
+  --font: "Nunito Sans Variable", system-ui, sans-serif;
+  --bg: #f3f8fc;
+  --bg-alt: #ffffff;
+  --text: #0f2742;
+  --muted: #546a82;
+  --line: #dde8f2;
+  --accent: #2563eb;
+  --accent-hover: #1d4fd0;
+  --accent-soft: #e3edfd;
+  --dark: #0f2742;
+  --radius: 20px;
+  --radius-lg: 28px;
+  --btn-radius: 999px;
+  --h-weight: 800;
+  --h-track: -0.02em;
+  --shadow: 0 2px 6px rgba(15, 39, 66, 0.04), 0 14px 34px rgba(15, 39, 66, 0.07);
+  --hdr-bg: rgba(243, 248, 252, 0.9);
+}
+.sk--cielo .hero--centered {
+  background:
+    radial-gradient(60% 50% at 15% 10%, #dbe8fb 0%, transparent 70%),
+    radial-gradient(50% 45% at 90% 0%, #e3f1ff 0%, transparent 70%);
+}
+.sk--cielo .eyebrow {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: var(--shadow);
+  letter-spacing: 0.04em;
+}
+.sk--cielo .trust {
+  border: 0;
+  background: none;
+}
+.sk--cielo .trust__in {
+  padding-top: 30px;
+}
+.sk--cielo .trust__item {
+  padding: 10px 16px 10px 10px;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+.sk--cielo .trust__icon {
+  border-radius: 50%;
+}
+.sk--cielo .card,
+.sk--cielo .post,
+.sk--cielo .rv {
+  border: 0;
+  box-shadow: var(--shadow);
+}
+.sk--cielo .feat__icon,
+.sk--cielo .pg-card__icon {
+  border-radius: 50%;
+}
+.sk--cielo .stats-sec {
+  background: none;
+  color: var(--text);
+}
+.sk--cielo .stats {
+  padding: 40px clamp(20px, 4vw, 48px);
+  background: #fff;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+}
+.sk--cielo .stat__v {
+  color: var(--accent);
+}
+.sk--cielo .band {
+  background: var(--accent);
+}
+.sk--cielo .band .btn--primary {
+  background: #fff;
+  color: var(--accent);
+}
+.sk--cielo .final__in {
+  background: linear-gradient(120deg, #2563eb, #1b45b8);
+}
+.sk--cielo .final .btn--light {
+  color: var(--accent);
+}
+.sk--cielo .phero {
+  background: none;
+  border: 0;
+}
+.sk--cielo .pg-sec--dark {
+  background: var(--accent);
+}
+.sk--cielo .ftr {
+  background: #0c2038;
+}
+
+/* ---- tema: Bosco (crema e verde bosco, Lexend) ---- */
+.sk--bosco {
+  --font: "Lexend Variable", system-ui, sans-serif;
+  --bg: #f7f6f1;
+  --bg-alt: #ffffff;
+  --text: #1b2a22;
+  --muted: #5e6b63;
+  --line: #e4e6dc;
+  --accent: #1f7a4d;
+  --accent-hover: #17633e;
+  --accent-soft: #e4f1e9;
+  --dark: #173326;
+  --radius: 18px;
+  --radius-lg: 26px;
+  --btn-radius: 999px;
+  --h-weight: 600;
+  --h-track: -0.02em;
+  --shadow: 0 2px 6px rgba(27, 42, 34, 0.04), 0 12px 30px rgba(27, 42, 34, 0.06);
+  --hdr-bg: rgba(247, 246, 241, 0.92);
+}
+.sk--bosco .hero__wide {
+  border: 8px solid #fff;
+  box-shadow: var(--shadow);
+}
+.sk--bosco .hero__accent {
+  color: var(--accent);
+}
+.sk--bosco .eyebrow {
+  display: inline-block;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  letter-spacing: 0.04em;
+}
+.sk--bosco .trust {
+  border: 0;
+  background: none;
+}
+.sk--bosco .trust__in {
+  padding-top: 32px;
+}
+.sk--bosco .trust__icon {
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+}
+.sk--bosco .feat {
+  background: var(--accent-soft);
+  border-color: transparent;
+  box-shadow: none;
+}
+.sk--bosco .feat__icon {
+  border-radius: 50%;
+  background: #fff;
+}
+.sk--bosco .stats-sec {
+  background: var(--dark);
+}
+.sk--bosco .stat__v {
+  color: #a8e0bf;
+}
+.sk--bosco .band,
+.sk--bosco .final__in {
+  background: var(--dark);
+}
+.sk--bosco .final .btn--light {
+  background: #fff;
+  color: var(--dark);
+}
+.sk--bosco .phero {
+  background: none;
+  border: 0;
+}
+.sk--bosco .pg-sec--dark {
+  background: var(--dark);
+}
+.sk--bosco .ftr {
+  background: #10261c;
+}
+.sk--bosco .pickup {
+  border: 6px solid #fff;
+  box-shadow: var(--shadow);
+}
+.sk .topbar__in > * {
+  white-space: nowrap;
+}
+@media (max-width: 640px) {
+  .sk .topbar {
+    font-size: 12px;
+  }
+  .sk .topbar__in {
+    gap: 12px;
+    height: 32px;
+  }
+}
+@media (max-width: 640px) {
+  .sk .topbar__in .topbar__area {
+    display: none;
+  }
+}
